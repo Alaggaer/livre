@@ -20,7 +20,7 @@
 - Progression forêt/ville définie
 - Résolution positive conçue (aide à Carlos le Coati)
 - Chapitre 1 écrit, complété, enrichi et simplifié (langage adapté aux 3-5 ans) ✨ (estimation 1200-1300 mots)
-- Chapitre 2 créé et enrichi avec descriptions, réactions des personnages, **et scène de rencontre avec Olivia ajoutée ✏️** (début d'esquisse)
+- Chapitre 2 créé et enrichi avec descriptions, réactions des personnages, scène de rencontre avec Olivia ajoutée, **et style amélioré ✨**
 
 ### Documentation
 - Memory Bank initialisé
