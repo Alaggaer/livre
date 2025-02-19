@@ -1,3 +1,9 @@
+Aussitôt dit, aussitôt fait, Lapin Blanc se pencha sur le trou vide etCommencèrent à examiner attentivement le sol autour du grand chêne. Il fallait chercher des indices.
+Autour d'eux, la forêtRestait silencieuse, mais maintenant, ce silence pesaitCurieusement.  Chaque ombre, chaque bruissement de feuillesSemblait cacher un secret.  Le mystère des glands disparus devenait de plus en plus épais, et une petiteInquiétude commençait àSerpent à travers le cœur des deux amis.
+
+
+
+
 # Chapitre 2 : La Plume Étrange
 
 Lapin Blanc et Écureuil Gris étaient toujours au pied du grand chêne.  Ils regardaient autour d'eux.  Il fallait chercher des indices.
