@@ -19,7 +19,7 @@
 - Plan des 10 chapitres créé
 - Progression forêt/ville définie
 - Résolution positive conçue (aide à Carlos le Coati)
-- Chapitre 1 écrit ✨
+- Chapitre 1 écrit et complété ✨
 
 ### Documentation
 - Memory Bank initialisé
@@ -29,7 +29,7 @@
 - Structure des dossiers mise en place (dossier 'chapters' créé)
 
 ## En cours 🔄
-- Relecture et ajustement du chapitre 1
+- Relecture et ajustement du chapitre 1 (version complétée)
 - Préparation du chapitre 2
 - Affinement des énigmes et indices
 - Enrichissement des interactions entre personnages
@@ -56,7 +56,7 @@
 - Aucun problème majeur identifié à ce stade
 
 ## Prochaines étapes immédiates
-1. Valider le chapitre 1 (durée de lecture, vocabulaire, ton)
+1. Valider le chapitre 1 complété (durée de lecture, vocabulaire, ton)
 2. Commencer l'écriture du chapitre 2
 3. Développer les descriptions des environnements
 4. Affiner les énigmes et indices

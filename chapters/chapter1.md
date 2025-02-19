@@ -1,27 +1,41 @@
 # Chapitre 1 : Le Mystère des Glands Disparus
 
-C'était un beau matin d'automne dans la grande forêt. Les feuilles dorées dansaient doucement dans le vent, et Écureuil Gris se réveillait dans son nid douillet, perché haut dans un vieux chêne.
+Le soleil d'automne se levait doucement sur la grande forêt, peignant les feuilles d'or et de rouge de couleurs chatoyantes. Un léger brouillard matinal flottait entre les arbres, donnant à la forêt un air mystérieux et paisible.  Dans les hauteurs d'un vieux chêne majestueux, Écureuil Gris se réveillait dans son nid douillet, fait de mousse douce et de feuilles sèches.  Le nid, bien caché entre les branches épaisses, était son refuge préféré, chaud et confortable.
 
-"Aujourd'hui, je vais compter mes glands !" dit joyeusement Écureuil Gris en s'étirant. "L'hiver approche, et j'en ai ramassé beaucoup !"
+"Oh, quel beau matin !" pensa Écureuil Gris en s'étirant de toutes ses petites forces.  "Aujourd'hui, c'est le jour de la grande chasse aux noisettes !"  s'exclama-t-il avec enthousiasme. "Mais d'abord, je vais m'assurer que mon trésor d'hiver est bien en sécurité."
 
-Il descendit de son arbre en sautillant de branche en branche, jusqu'à l'endroit où il gardait son trésor : un petit trou secret au pied du grand chêne. Mais quand il regarda à l'intérieur...
+Avec de petits bonds joyeux, il quitta son nid et se dirigea vers le tronc noueux du vieux chêne.  L'écorce rugueuse était fraîche sous ses pattes agiles.  Il sauta de branche en branche, l'air vif empli des parfums humides de la forêt automnale : la terre mouillée, les feuilles mortes et une pointe de résine des pins voisins.  Enfin, il atteignit la grosse branche où il avait caché l'entrée de son trou secret.
 
-"Oh non !" s'écria Écureuil Gris. "Mes glands ! Ils ont disparu !"
+Mais en arrivant au pied de l'arbre, son cœur se glaça soudainement.  Il y avait quelque chose d'étrange.  Le petit monticule de feuilles mortes et de mousse qui cachait son trésor semblait... différent.  Plus plat.  Moins gonflé.
 
-Ses petites pattes tremblaient. Tous les glands qu'il avait soigneusement collectés n'étaient plus là. À la place, il ne trouva que quelques feuilles mortes.
+Un mauvais pressentiment serra son petit ventre.  Avec des pattes tremblantes, il gratta les feuilles et la mousse.  Et là, devant ses yeux horrifiés...  le trou était vide.  Complètement vide.
 
-"Au secours !" appela-t-il. "Mes glands ont disparu !"
+"Non... non, non, non !"  sanglota Écureuil Gris, les yeux écarquillés.  "Mes glands !  Mon trésor pour l'hiver !  Où sont-ils passés ?"
 
-Lapin Blanc, qui passait par là en sautillant, entendit son ami.
+Un grand vide se creusa en lui.  Il avait travaillé si dur tout l'automne, à courir et à sauter, à chercher les plus belles noisettes, les plus gros glands, les plus savoureuses graines.  Et maintenant... plus rien.  Seul un trou sombre et désespérément vide.
 
-"Que se passe-t-il, Écureuil Gris ?" demanda Lapin Blanc en s'approchant.
+Les larmes commencèrent à monter à ses yeux.  Il se sentait perdu, démuni, terriblement triste.  Comment allait-il faire, maintenant que l'hiver approchait à grands pas ?
 
-"Mes glands... tous mes glands ont disparu !" expliqua Écureuil Gris, la voix tremblante. "Je les avais mis ici, dans mon trou secret, et maintenant ils ne sont plus là !"
+C'est alors qu'il entendit des pas légers s'approcher.  *Frou-frou, frou-frou...*  Lapin Blanc apparut entre les arbres, ses longues oreilles pointées, son nez frémissant.
 
-Soudain, un bruit étrange résonna dans la forêt. *Cric-crac-croc...*
+"Bonjour Écureuil Gris !  Quel beau matin, n'est-ce pas ?  Prêt pour une belle journée ?"  demanda Lapin Blanc d'une voix joyeuse.  Mais en voyant la mine défaite de son ami, son sourire s'effaça aussitôt.  "Oh !  Écureuil Gris, qu'est-ce qui ne va pas ?  Tu as l'air tout triste."
 
-"Qu'est-ce que c'était ?" chuchota Écureuil Gris.
+Écureuil Gris laissa échapper un sanglot.  "Lapin Blanc... mes glands... ils ont disparu !  Tous mes glands !  Quelqu'un... quelqu'un les a volés !"  Sa voix était brisée par le chagrin.
 
-"Je ne sais pas," répondit Lapin Blanc en dressant ses grandes oreilles. "Mais nous allons mener l'enquête. Ne t'inquiète pas, mon ami, nous retrouverons tes glands !"
+Lapin Blanc s'approcha et regarda dans le trou.  Il vit le vide, le désespoir dans les yeux de son ami.  Immédiatement, son ton devint sérieux et rassurant.
 
-Et c'est ainsi que commença la grande aventure d'Écureuil Gris et de ses amis, à la recherche des glands disparus...
+"Oh, Écureuil Gris, je suis vraiment désolé," dit Lapin Blanc avec douceur.  "C'est terrible !  Mais ne t'inquiète pas, je suis là.  Nous allons les retrouver, tes glands.  Ensemble.  Je te le promets."
+
+Il posa une patte réconfortante sur l'épaule de son ami.  "Raconte-moi tout.  Que s'est-il passé exactement ?  As-tu vu quelque chose d'étrange ?  Entendu un bruit ?"
+
+Écureuil Gris prit une grande inspiration pour se calmer.  "Ce matin... non, je n'ai rien vu ni entendu d'étrange...  Enfin, juste avant de découvrir le trou vide...  j'ai cru entendre un drôle de bruit, là-bas, vers les grands arbres...  Un *cric-crac-croc...*  Mais je n'y ai pas fait attention sur le moment..."
+
+*Cric-crac-croc...*  Le même bruit étrange résonna soudain dans la forêt, plus proche cette fois.  Écureuil Gris et Lapin Blanc sursautèrent et se regardèrent, les yeux ronds.
+
+"Tu entends ça, Lapin Blanc ?"  chuchota Écureuil Gris, la peur dans la voix.  "C'est encore ce bruit...  Qu'est-ce que ça peut bien être ?"
+
+Lapin Blanc dressa ses longues oreilles, essayant de localiser la source du bruit.  Son regard intelligent devint déterminé.
+
+"Je ne sais pas encore," répondit Lapin Blanc d'un ton résolu.  "Mais une chose est sûre, Écureuil Gris :  nous allons découvrir ce qui s'est passé.  Et nous allons retrouver tes glands.  Viens, partons à l'aventure !  La forêt a peut-être des indices à nous donner..."
+
+Et ensemble, les deux amis s'élancèrent à travers la forêt, le cœur battant d'excitation et d'inquiétude, prêts à percer le mystère des glands disparus et à affronter tous les dangers qui se dresseraient sur leur chemin.
