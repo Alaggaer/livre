@@ -19,24 +19,27 @@
 - Plan des 10 chapitres créé
 - Progression forêt/ville définie
 - Résolution positive conçue (aide à Carlos le Coati)
+- Chapitre 1 écrit ✨
 
 ### Documentation
 - Memory Bank initialisé
 - Dépôt Git/GitHub configuré
 - README créé
 - Documentation de base complète
+- Structure des dossiers mise en place (dossier 'chapters' créé)
 
 ## En cours 🔄
-- Développement détaillé des chapitres
+- Relecture et ajustement du chapitre 1
+- Préparation du chapitre 2
 - Affinement des énigmes et indices
 - Enrichissement des interactions entre personnages
 
 ## À faire 📝
 
 ### Écriture
-- Rédiger le chapitre 1 en détail
-- Développer les dialogues
-- Créer les descriptions des environnements
+- Rédiger les chapitres 2 à 10
+- Développer les dialogues des prochains chapitres
+- Créer les descriptions détaillées des environnements
 - Affiner les transitions entre chapitres
 
 ### Révision et amélioration
@@ -53,7 +56,7 @@
 - Aucun problème majeur identifié à ce stade
 
 ## Prochaines étapes immédiates
-1. Commencer l'écriture détaillée du chapitre 1
-2. Développer les descriptions des environnements
-3. Affiner les énigmes et indices
-4. Créer des exemples de dialogues
+1. Valider le chapitre 1 (durée de lecture, vocabulaire, ton)
+2. Commencer l'écriture du chapitre 2
+3. Développer les descriptions des environnements
+4. Affiner les énigmes et indices
