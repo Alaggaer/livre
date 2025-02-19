@@ -5,7 +5,7 @@
 ### Structure du projet
 - Concept global défini
 - Public cible identifié (3-5 ans)
-- Format établi (10 chapitres de 10 minutes)
+- Format établi (10 chapitres de 10 minutes, ajusté à 1000-1500 mots/chapitre)
 - Thèmes principaux définis
 - Structure narrative établie
 
@@ -19,7 +19,7 @@
 - Plan des 10 chapitres créé
 - Progression forêt/ville définie
 - Résolution positive conçue (aide à Carlos le Coati)
-- Chapitre 1 écrit et complété ✨
+- Chapitre 1 écrit, complété et enrichi ✨ (estimation 1200-1300 mots)
 
 ### Documentation
 - Memory Bank initialisé
@@ -29,7 +29,7 @@
 - Structure des dossiers mise en place (dossier 'chapters' créé)
 
 ## En cours 🔄
-- Relecture et ajustement du chapitre 1 (version complétée)
+- Relecture et validation du chapitre 1 (version complétée et allongée)
 - Préparation du chapitre 2
 - Affinement des énigmes et indices
 - Enrichissement des interactions entre personnages
@@ -56,7 +56,7 @@
 - Aucun problème majeur identifié à ce stade
 
 ## Prochaines étapes immédiates
-1. Valider le chapitre 1 complété (durée de lecture, vocabulaire, ton)
+1. Valider le chapitre 1 complété (durée de lecture, vocabulaire, ton, longueur)
 2. Commencer l'écriture du chapitre 2
 3. Développer les descriptions des environnements
 4. Affiner les énigmes et indices
