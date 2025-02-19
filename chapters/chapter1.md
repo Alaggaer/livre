@@ -1,47 +1,47 @@
 # Chapitre 1 : Le Mystère des Glands Disparus
 
-Le soleil d'automne se levait doucement sur la grande forêt, peignant les feuilles d'or et de rouge de couleurs chatoyantes. Un léger brouillard matinal flottait entre les arbres, donnant à la forêt un air mystérieux et paisible.  Dans les hauteurs d'un vieux chêne majestueux, Écureuil Gris se réveillait dans son nid douillet, fait de mousse douce et de feuilles sèches.  Le nid, bien caché entre les branches épaisses, était son refuge préféré, chaud et confortable.
+Le soleil d'automne se levait doucement sur la grande forêt. Il brillait sur la forêt. Les feuilles étaient d'or et de rouge, de jolies couleurs brillantes. Un léger brouillard flottait entre les arbres.  La forêt était mystérieuse et paisible.  Écureuil Gris dormait dans son nid, tout en haut d'un grand chêne. Son nid douillet était fait de feuilles et de mousse.  Il était bien caché et confortable.  C'était son refuge préféré.
 
-"Oh, quel beau matin !" pensa Écureuil Gris en s'étirant de toutes ses petites forces.  "Aujourd'hui, c'est le jour de la grande chasse aux noisettes !"  s'exclama-t-il avec enthousiasme. "Mais d'abord, je vais m'assurer que mon trésor d'hiver est bien en sécurité."
+"Oh, quel beau matin !" pensa Écureuil Gris. Il s'étira de toutes ses forces. "Aujourd'hui, je vais chercher des noisettes !" dit-il joyeusement. "Mais avant, je veux voir si mon trésor pour l'hiver est bien là."
 
-Avec de petits bonds joyeux, il quitta son nid et se dirigea vers le tronc noueux du vieux chêne.  L'écorce rugueuse était fraîche sous ses pattes agiles.  Il sauta de branche en branche, l'air vif empli des parfums humides de la forêt automnale : la terre mouillée, les feuilles mortes qui croustillaient sous les pattes, et une pointe de résine des pins voisins.  Enfin, il atteignit la grosse branche où il avait caché l'entrée de son trou secret.
+Joyeux, Écureuil Gris quitta son nid. Il alla vers le chêne tordu.  Le tronc était tordu.  L'écorce était fraîche sous ses pattes. Il sauta de branche en branche. L'air sentait bon l'automne : la terre mouillée, les feuilles qui craquent, la résine des pins.  Enfin, il arriva à la grosse branche.  C'est là qu'était l'entrée de son trou secret.
 
-Mais en arrivant au pied de l'arbre, son cœur se glaça soudainement.  Il y avait quelque chose d'étrange.  Le petit monticule de feuilles mortes et de mousse qui cachait son trésor semblait... différent.  Plus plat.  Moins gonflé.  Quelques feuilles étaient même éparpillées autour, comme si on les avaient brusquement écartées.
+Mais quand il arriva au pied de l'arbre, son cœur se glaça.  Tout à coup, il eut très froid.  Il y avait quelque chose d'étrange.  Le petit tas de feuilles et de mousse n'était pas comme avant.  Il semblait différent.  Plus plat.  Moins gonflé.  Des feuilles étaient par terre, autour.  On aurait dit qu'on les avait poussées.
 
-Un mauvais pressentiment serra son petit ventre.  Avec des pattes tremblantes, il gratta les feuilles et la mousse.  Et là, devant ses yeux horrifiés...  le trou était vide.  Complètement vide.  La terre nue et sombre apparaissait béante à la place de son précieux trésor.
+Un mauvais pressentiment serra son ventre. Il eut peur. Ses pattes tremblaient. Il gratta les feuilles et la mousse. Et là, il vit... Le trou était vide.  Ses yeux avaient très peur.  Il n'y avait plus rien dans le trou.  On voyait la terre noire à la place de son trésor.
 
-"Non... non, non, non !"  sanglota Écureuil Gris, les yeux écarquillés et humides.  "Mes glands !  Mon trésor pour l'hiver !  Où sont-ils passés ?"
+"Non... non, non, non !"  sanglota Écureuil Gris, les yeux grands ouverts et humides.  "Mes glands !  Mon trésor pour l'hiver !  Où sont-ils passés ?"
 
-Un grand vide se creusa en lui, plus froid que le vent d'hiver.  Il avait travaillé si dur tout l'automne, sans jamais se décourager, à courir et à sauter, à grimper et à fouiller, à chercher les plus belles noisettes, les plus gros glands, les plus savoureuses graines.  Chaque gland, chaque noisette représentait des heures d'effort et l'espoir d'un hiver paisible et rassasié.  Et maintenant... plus rien.  Seul un trou sombre et désespérément vide.
+Un grand vide se creusa en lui.  C'était froid, plus froid que l'hiver.  Il avait beaucoup travaillé. Tout l'automne, il avait cherché des noisettes et des glands.  Il n'avait jamais arrêté.  Courir, sauter, grimper, fouiller : il avait tout fait ! Chaque gland, chaque noisette, c'était beaucoup d'efforts.  C'était pour l'hiver, pour être tranquille et manger à sa faim. Et maintenant... plus rien.  Le trou était sombre et vraiment vide.
 
-Les larmes commencèrent à monter à ses yeux, brouillant sa vision de la forêt dorée.  Il se sentait perdu, démuni, terriblement triste.  Comment allait-il faire, maintenant que l'hiver approchait à grands pas, avec ses longues nuits froides et son manteau de neige ?
+Les larmes montèrent à ses yeux.  Il ne voyait plus bien la forêt dorée.  Il était perdu, sans rien, très triste.  L'hiver arrivait.  Bientôt, il ferait très froid, avec de longues nuits et de la neige partout.  Comment allait-il faire ?
 
-C'est alors qu'il entendit des pas légers s'approcher.  *Frou-frou, frou-frou...*  Lapin Blanc apparut entre les arbres, ses longues oreilles pointées vers le ciel clair, son nez frémissant et rose inspectant chaque brin d'herbe.
+Soudain, il entendit des petits pas.  *Frou-frou, frou-frou...*  C'était Lapin Blanc.  Il arriva entre les arbres.  Ses longues oreilles étaient dressées vers le ciel. Son nez rose bougeait, il regardait partout dans l'herbe.
 
-"Bonjour Écureuil Gris !  Quel beau matin, n'est-ce pas ?  Prêt pour une belle journée ?"  demanda Lapin Blanc d'une voix joyeuse et entraînante.  Mais en voyant la mine défaite de son ami, ses épaules little affaissées, son regard noyé de larmes, son sourire s'effaça aussitôt.  "Oh !  Écureuil Gris, qu'est-ce qui ne va pas ?  Tu as l'air tout triste, mon ami."
+"Bonjour Écureuil Gris !  Quel beau matin, n'est-ce pas ?  Prêt pour une belle journée ?"  demanda Lapin Blanc d'une voix joyeuse.  Mais il vit son ami triste.  Son sourire disparut. "Oh !  Écureuil Gris, qu'est-ce qui ne va pas ?  Tu as l'air tout triste, mon ami."
 
-Écureuil Gris laissa échapper un sanglot déchirant.  "Lapin Blanc... mes glands... ils ont disparu !  Tous mes glands !  Quelqu'un... quelqu'un les a volés !"  Sa voix était brisée par le chagrin, incapable de prononcer une phrase complète sans trembler.
+Écureuil Gris laissa échapper un sanglot.  "Lapin Blanc... mes glands... ils ont disparu !  Tous mes glands !  Quelqu'un... quelqu'un les a volés !"  Sa voix tremblait, il n'arrivait presque plus à parler.
 
-Lapin Blanc s'approcha et regarda dans le trou.  Il vit le vide béant, l'expression de désespoir pur dans les yeux de son ami.  Immédiatement, son ton devint sérieux et rassurant, son regard plein de détermination.
+Lapin Blanc s'approcha et regarda dans le trou.  Il vit le vide.  Il vit que son ami était désespéré.  Tout de suite, il devint sérieux et gentil.  Il voulait rassurer Écureuil Gris.
 
-"Oh, Écureuil Gris, je suis vraiment désolé," dit Lapin Blanc avec douceur, posant sa patte sur le dos tremblant de son ami.  "C'est terrible, ce qui t'arrive !  Mais ne t'inquiète pas, je suis là.  Nous allons les retrouver, tes glands.  Ensemble.  Je te le promets solennellement."
+"Oh, Écureuil Gris, je suis vraiment désolé," dit Lapin Blanc doucement.  "C'est terrible pour toi !  Mais ne t'inquiète pas, je suis là.  On va retrouver tes glands.  Ensemble.  Je te le promets."
 
-Il posa une patte réconfortante sur l'épaule de son ami.  "Raconte-moi tout.  Que s'est-il passé exactement ?  As-tu vu quelque chose d'étrange ?  Entendu un bruit inhabituel ?"
+Il posa sa patte sur le dos de son ami pour le rassurer.  "Dis-moi.  Que s'est-il passé ?  As-tu vu quelque chose d'étrange ?  As-tu entendu un bruit ?"
 
-Écureuil Gris prit une grande inspiration, gonflant ses petites joues, essayant de calmer le tremblement de sa voix et de ses pattes.  "Ce matin... non, je n'ai rien vu ni entendu d'étrange...  Enfin, si...  Juste avant de découvrir le trou vide...  j'ai cru entendre un drôle de bruit, là-bas, vers les grands arbres, près du ruisseau...  Un *cric-crac-croc...*  Mais je n'y ai pas fait attention sur le moment...  C'était peut-être juste une branche qui cassait..."
+Écureuil Gris respira fort pour se calmer.  "Ce matin... non, je n'ai rien vu d'étrange...  Enfin, si...  Juste avant de voir le trou vide...  j'ai cru entendre un drôle de bruit, vers les grands arbres, près du ruisseau...  Un *cric-crac-croc...*  Mais je n'ai pas fait attention..."
 
-*Cric-crac-croc...*  Le même bruit étrange résonna soudain dans la forêt, plus distinctement cette fois, et plus proche encore.  Écureuil Gris et Lapin Blanc sursautèrent comme s'ils avaient reçu une décharge électrique et se regardèrent, les yeux ronds d'étonnement et d'inquiétude.
+*Cric-crac-croc...*  Le même bruit étrange revint dans la forêt.  Il était plus fort, plus proche.  Écureuil Gris et Lapin Blanc firent un bond. Ils se regardèrent. Ils avaient les yeux ronds, étonnés et inquiets.
 
-"Tu entends ça, Lapin Blanc ?"  chuchota Écureuil Gris, la peur serpentant dans sa voix.  "C'est encore ce bruit...  Qu'est-ce que ça peut bien être ?"
+"Tu entends, Lapin Blanc ?"  chuchota Écureuil Gris.  Il avait peur.  "C'est encore ce bruit...  Qu'est-ce que c'est ?"
 
-Lapin Blanc dressa ses longues oreilles, les tournant dans toutes les directions, essayant de localiser précisément la source du bruit mystérieux.  Son regard intelligent, habituellement si doux et paisible, devint soudain injectif et déterminé.
+Lapin Blanc dressa ses longues oreilles. Il les tourna pour écouter d'où venait le bruit.  Il devint sérieux et attentif.
 
-"Je ne sais pas encore," répondit Lapin Blanc d'un ton résolu, sa voix grave et pleine d'assurance.  "Mais une chose est sûre, Écureuil Gris :  nous allons découvrir ce qui s'est passé.  Et nous allons retrouver tes glands, je te le jure.  Viens, partons immédiatement à l'enquête !  Examinons cet endroit de plus près."
+"Je ne sais pas encore," répondit Lapin Blanc. Il parlait doucement, mais il était décidé.  "Mais je suis sûr d'une chose, Écureuil Gris :  on va savoir ce qui s'est passé.  On va retrouver tes glands.  Viens, on part chercher !  Regardons par ici."
 
-Lapin Blanc se pencha sur le trou vide et commença à examiner attentivement le sol autour, reniflant l'air avec son petit nez frémissant.  "Regarde, Écureuil Gris, est-ce qu'il y a des traces ?  Des empreintes de pas ?  Quelque chose qui pourrait nous donner un indice ?"
+Lapin Blanc se pencha vers le trou vide. Il regarda bien par terre, autour du trou. Il renifla l'air avec son nez. "Regarde, Écureuil Gris, est-ce qu'il y a des traces ?  Des empreintes ?  Quelque chose pour nous aider ?"
 
-Écureuil Gris, se sentant un peu rassuré par la présence et la détermination de son ami, se remit à quatre pattes et commença à inspecter le sol à son tour, le nez au ras du sol.  "Des traces... des empreintes... je ne sais pas, Lapin Blanc...  Je ne vois rien de spécial...  Juste des feuilles mortes et de la terre..."
+Écureuil Gris se sentait un peu mieux avec Lapin Blanc. Il était moins triste. Il se mit à quatre pattes et regarda le sol aussi. "Des traces... des empreintes... Je ne vois rien, Lapin Blanc...  Rien de spécial...  Seulement des feuilles et de la terre..."
 
-Soudain, Lapin Blanc s'immobilisa, les oreilles dressées, le regard fixe sur quelque chose au pied du grand chêne.  "Attends !  Regarde ça, Écureuil Gris !  Juste là, sous cette grosse racine...  Qu'est-ce que c'est que ça ?"
+Tout à coup, Lapin Blanc s'arrêta. Ses oreilles étaient dressées. Il regardait quelque chose au pied du grand chêne.  "Attends !  Regarde !  Là, sous cette grosse racine...  Qu'est-ce que c'est ?"
 
-Entre les racines tortueuses du chêne, cachée sous une touffe de mousse épaisse, brillait une petite forme colorée et brillante.  Intrigués, les deux amis s'approchèrent prudemment, le cœur battant d'excitation.  Peut-être... était-ce un premier indice ?  Peut-être... le début de la résolution du mystère des glands disparus ?  Le suspense montait...  La forêt gardait jalousement son secret...  Mais Lapin Blanc et Écureuil Gris étaient bien décidés à le percer, ensemble, pas à pas, indice après indice...  Leur aventure ne faisait que commencer.
+Entre les racines tordues du chêne, sous la mousse, brillait une petite chose de couleur.  C'était brillant.  Les deux amis s'approchèrent doucement. Leur cœur battait vite.  Peut-être... un premier indice ?  Peut-être... le début du mystère des glands disparus ?  Le mystère devenait de plus en plus grand...  La forêt cachait son secret...  Mais Lapin Blanc et Écureuil Gris voulaient le trouver. Ensemble, ils allaient chercher des indices.  Leur aventure commençait.
