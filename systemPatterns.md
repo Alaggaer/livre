@@ -3,9 +3,9 @@
 ## Structure narrative
 
 ### Pattern général
-- **Format :** 10 chapitres de 10 minutes de lecture chacun
+- **Format :** 10 chapitres de 10 minutes de lecture chacun (ajustable à 5-7 minutes si chapitres plus courts)
 - **Public :** Adapté aux enfants de 3 à 5 ans
-- **Style :** Aventure avec mystère léger et résolution positive
+- **Style :** Aventure avec mystère léger et résolution positive, **langage simple et direct**
 
 ### Patterns récurrents
 
@@ -44,11 +44,38 @@
   - Carlos le Coati : Catalyseur de l'histoire
 
 ### Patterns d'écriture
-- Vocabulaire adapté à l'âge (3-5 ans)
-- Phrases courtes et claires
-- Répétitions stratégiques pour l'apprentissage
-- Description vivante mais simple
-- Dialogues engageants et naturels
+
+**Objectif principal : Simplicité et clarté pour les jeunes enfants (3-5 ans)**
+
+- **Vocabulaire : Très simple et courant**
+  - Mots courts et faciles à comprendre
+  - Éviter les mots complexes ou abstraits
+  - Utiliser des mots concrets et imagés (mais simples)
+  - Exemples de simplification : "brillantes" au lieu de "chatoyantes", "grand" au lieu de "majestueux", "tordu" au lieu de "noueux", etc. (cf. simplifications apportées au chapitre 1)
+
+- **Phrases : Courtes, directes et simples**
+  - Phrases courtes avec une seule idée principale par phrase
+  - Sujet-verbe-complément (structure de base)
+  - Éviter les phrases longues et complexes, les subordonnées
+  - Privilégier la clarté et la lisibilité
+
+- **Ton général : Doux, rassurant et engageant**
+  - Ton positif et encourageant
+  - Rythme simple et régulier
+  - Créer du suspense et de l'intrigue (mais légers et adaptés à l'âge)
+  - Maintenir un aspect ludique et amusant
+
+- **Répétitions stratégiques :** Utiles pour l'apprentissage et la mémorisation, mais à utiliser avec parcimonie pour ne pas lasser.
+
+- **Descriptions : Vivantes et simples, sensoriel mais concrètes**
+  - Descriptions qui font appel aux sens (vue, son, toucher, odeur, goût)
+  - Détails concrets et faciles à imaginer pour les enfants
+  - Éviter les descriptions trop longues ou abstraites
+
+- **Dialogues : Engageants, naturels et faciles à suivre**
+  - Dialogues simples et directs
+  - Langage parlé et naturel (proche du langage enfantin, mais correct)
+  - Interactions claires entre les personnages
 
 ### Patterns visuels (pour futures illustrations)
 - Personnages expressifs

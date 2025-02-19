@@ -19,7 +19,7 @@
 - Plan des 10 chapitres créé
 - Progression forêt/ville définie
 - Résolution positive conçue (aide à Carlos le Coati)
-- Chapitre 1 écrit, complété, enrichi et **simplifié (langage adapté aux 3-5 ans) ✨** (estimation 1200-1300 mots)
+- Chapitre 1 écrit, complété, enrichi et simplifié (langage adapté aux 3-5 ans) ✨ (estimation 1200-1300 mots)
 
 ### Documentation
 - Memory Bank initialisé
@@ -27,6 +27,7 @@
 - README créé
 - Documentation de base complète
 - Structure des dossiers mise en place (dossier 'chapters' créé)
+- **`systemPatterns.md` mis à jour avec le style d'écriture simplifié ✨**
 
 ## En cours 🔄
 - Relecture et validation finale du chapitre 1 (version simplifiée)
