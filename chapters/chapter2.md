@@ -1,10 +1,6 @@
-Aussitôt dit, aussitôt fait, Lapin Blanc se pencha sur le trou vide etCommencèrent à examiner attentivement le sol autour du grand chêne. Il fallait chercher des indices.
-Autour d'eux, la forêtRestait silencieuse, mais maintenant, ce silence pesaitCurieusement.  Chaque ombre, chaque bruissement de feuillesSemblait cacher un secret.  Le mystère des glands disparus devenait de plus en plus épais, et une petiteInquiétude commençait àSerpent à travers le cœur des deux amis.
-
-
-
-
 # Chapitre 2 : La Plume Étrange
+
+Aussitôt dit, aussitôt fait, Lapin Blanc et Écureuil Gris commencèrent à examiner attentivement le sol autour du grand chêne. Il fallait chercher des indices.
 
 Lapin Blanc et Écureuil Gris étaient toujours au pied du grand chêne.  Ils regardaient autour d'eux.  Il fallait chercher des indices.
 
@@ -42,11 +38,11 @@ Lapin Blanc garda précieusement la plume.  Les deux amis se regardèrent.  Le m
 
 Alors, les deux amis partirent ensemble.  Ils quittèrent le grand chêne et s'enfoncèrent dans la forêt.  Le chemin montait, montait, vers la partie la plus ancienne de la forêt.  Les arbres ici étaient différents.  Plus vieux, plus grands, plus impressionnants.  Leurs branches Immenses cachaient presque tout le ciel.  Il faisait Plus sombre, plus frais, et plus mystérieux.
 
-En marchant, Lapin Blanc et Écureuil Gris ne disaient rien.  Ils écoutaient la forêt.  Le Vent dans les branches, le chant lointain d'un oiseau, le *cric-crac-croc...* toujours plus loin, toujours Inconnu.  Écureuil Gris Serrait fort la plume dans sa patte.  Elle était douce et légère, mais elle portait un grand mystère.
+En marchant, Lapin Blanc et Écureuil Gris ne disaient rien.  Ils écoutaient la forêt.  Le vent dans les branches, le chant lointain d'un oiseau, le *cric-crac-croc...* toujours plus loin, toujours Inconnu.  Écureuil Gris Serrait fort la plume dans sa patte.  Elle était douce et légère, mais elle portait un grand mystère.
 
-Enfin, ils arrivèrent au pied du Grand Chêne.  C'était l'arbre d'Olivia.  Un arbre Géant, plus vieux que tous les autres arbres.  Son tronc était énorme et couvert de mousse.  Ses branches étaient comme des bras Forts qui Montaient vers le ciel.  La maison d'Olivia était tout en haut, cachée dans les feuilles.
+Enfin, après une bonne demi-heure de marche, ils arrivèrent au pied du Grand Chêne.  C'était l'arbre d'Olivia.  Un arbre Géant, plus vieux que tous les autres arbres.  Son tronc était énorme et couvert de mousse.  Ses branches étaient comme des bras Forts qui Montaient vers le ciel.  La maison d'Olivia était tout en haut, invisible à travers les feuilles.
 
-Lapin Blanc leva les yeux et appela : "Olivia !  C'est nous, Lapin Blanc et Écureuil Gris !"
+Lapin Blanc leva la tête et appela : "Olivia !  C'est nous, Lapin Blanc et Écureuil Gris !"
 
 Ils attendirent.  Longtemps.  Le silence de la forêt Semblait répondre.  Peut-être qu'Olivia dormait ?  Peut-être qu'elle n'était pas là ?  Écureuil Gris commençait à Stresser de nouveau.
 
