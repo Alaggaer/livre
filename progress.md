@@ -20,7 +20,7 @@
 - Progression forêt/ville définie
 - Résolution positive conçue (aide à Carlos le Coati)
 - Chapitre 1 écrit, complété, enrichi et simplifié (langage adapté aux 3-5 ans) ✨ (estimation 1200-1300 mots)
-- **Chapitre 2 créé et début d'esquisse ✏️**
+- Chapitre 2 créé et **enrichi avec descriptions et réactions des personnages ✏️**
 
 ### Documentation
 - Memory Bank initialisé
@@ -31,7 +31,7 @@
 - `systemPatterns.md` mis à jour avec le style d'écriture simplifié ✨
 
 ## En cours 🔄
-- Écriture détaillée du chapitre 2
+- Poursuite de l'écriture détaillée du chapitre 2
 - Relecture et validation finale du chapitre 1 (version simplifiée)
 - Affinement des énigmes et indices
 - Enrichissement des interactions entre personnages
@@ -58,7 +58,7 @@
 - Aucun problème majeur identifié à ce stade
 
 ## Prochaines étapes immédiates
-1. Écriture détaillée du chapitre 2
+1. Poursuivre l'écriture détaillée du chapitre 2 (prochaines scènes, dialogues...)
 2. Valider le chapitre 1 simplifié (durée de lecture, vocabulaire, ton, longueur)
 3. Développer les descriptions des environnements
 4. Affiner les énigmes et indices
