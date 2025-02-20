@@ -24,9 +24,7 @@ Olivia la Chouette attendait Écureuil Gris, perchée sur une branche, immobile 
 
 Lapin Blanc s'avança timidement, la plume Mystérieuse toujours serrée entre ses pattes.  Il la montra à Olivia, enSilence.
 Olivia Examina la plume de près, avec ses yeux perçants de chouette.  Elle la tourna et la retourna Longuement entre ses serres Pointues, comme si elle Essayait de lire un message secret écrit dessus.  Un long silence Flotta dans sa maison perchée, seulement troublé par le bruissement léger du vent dans les feuilles, et le cœur d'Écureuil Gris qui battait vite, vite dans sa poitrine.
-
 "Oh, regarde !"  dit Écureuil Gris, les yeux grands ouverts. "Elle est drôle, cette plume... On dirait un arc-en-ciel !"
-> Je viens de loin, porté par le vent,\n> Je suis douce et légère, et de couleurs surprenantes.\n> Les animaux d'ici ne me connaissent pas,\n> Qui suis-je, dis-moi, petit Matelot en Herbe ?
 Lapin Blanc prit la plume délicatement entre ses pattes, avec beaucoup de précaution, comme si c'était un objet précieux. Il la tourna et la retourna, l'examinant sous tous les angles, plissant les yeux, concentré. "Oui," dit-il enfin, d'une voix pensive. "Elle est très bizarre, vraiment très bizarre.  Tu crois que c'est... un signe ? Un indice ?"
 Écureuil Gris haussa les épaules.  Il ne savait pas.  Mais une plume comme ça, au pied de son chêne...  C'était sûrement important.
 "Peut-être," dit Écureuil Gris.  "Peut-être que le voleur a perdu ça ?"

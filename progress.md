@@ -21,7 +21,7 @@
 - Résolution positive conçue (aide à Carlos le Coati)
 - Chapitre 1 écrit, complété, enrichi et simplifié (langage adapté aux 3-5 ans) ✨ (estimation 1200-1300 mots)
 - Chapitre 2 créé et enrichi avec descriptions, réactions des personnages, scène de rencontre avec Olivia ajoutée, cohérence chapitres 1 et 2 améliorée, et erreurs d'écriture corrigées ✅
-- Chapitre 3 créé (version longue initiale) et scène de montée à l'arbre d'Olivia rendue réaliste, réaction d'Olivia face à la plume enrichie, dialogue avec Olivia développé, syntaxe relue et validée ✅, rendu visuel corrigé (doubles sauts de ligne supprimés manuellement) ✅, **et tentative de suppression des "\n\n" littéraux via `search_and_replace` effectuée 🔄**
+- Chapitre 3 créé (version longue initiale) et scène de montée à l'arbre d'Olivia rendue réaliste, réaction d'Olivia face à la plume enrichie, dialogue avec Olivia développé, syntaxe relue et validée ✅, rendu visuel corrigé (doubles sauts de ligne supprimés manuellement) ✅, **et chapitre 3 entièrement reformatté manuellement ✅**
 
 ### Documentation
 - Memory Bank initialisé
