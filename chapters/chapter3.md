@@ -20,12 +20,15 @@ Lapin Blanc Sourit à Écureuil Gris.  "Tu montes, Écureuil Gris ? Moi, je vais
 
 Olivia la Chouette attendait Écureuil Gris, perchée sur une branche, Immobile comme une statue de bois.  Quand Écureuil Gris arriva enfin près d'elle, Essoufflé mais Heureux, elle le regarda avec douceur.
 
-"Bienvenue chez moi, mes jeunes amis," dit Olivia d'une voix calme et chaleureuse.  "Alors, qu'est-ce qui vous amène si haut dans les branches du Grand Chêne, ce matin ?"
+"Bienvenue chez moi, jeune ami," dit Olivia d'une voix calme et chaleureuse, en regardant Écureuil Gris avec douceur.  "Alors, qu'est-ce qui t'amène si haut dans les branches du Grand Chêne, ce matin ?"
 
 Lapin Blanc s'avança, un peu impressionné par la présence imposante et sage d'Olivia.  Il tenait précieusement la plume étrange entre ses pattes.  Il la Montra à Olivia.
 
 "Olivia, regarde ça," dit Lapin Blanc d'une petite voix.  "On a trouvé ça par terre, près du chêne d'Écureuil Gris...  Tu Connais cette plume ?"
 
+
+
+Olivia Inclina lentement la tête, puis laPencha de côté, comme pour mieux observer la plume.  Un silence profond remplit sa maison dans les branches.  On n'entendait plus que le léger bruissement du vent dans les feuilles, et le cœur d'Écureuil Gris qui battait vite, vite dans sa poitrine.\n\nLa vieille chouette prit la plume entre ses serresPointues avec une délicatesseInfinie, comme si elle tenait un trésor fragile.  Elle la tourna et la retournaLonguement, l'examinant sous toutes les coutures avec ses grands yeux brillants.  ElleApprocha la plume de son visage, la reniflant doucement, comme pourSentir son parfum secret.\n\nLapin Blanc et Écureuil Gris retinrent leur souffle, fascinés par l'attitude d'Olivia.  Qu'allait-elle découvrir ?  QuePensait-elle de cette plume si étrange ?  Le mystère s'epaississait encore, et leur cœur battait de plus en plus fort.
 Olivia Inclina la tête et regarda la plume avec attention.  Ses grands yeux ronds Examinaient l'étrange objet avec une Intense curiosité.  Un long silence remplit la maison d'Olivia.  Écureuil Gris retint son souffle, attendant la réponse de la vieille chouette.  Peut-être qu'Olivia allait enfin percer le secret de la plume... et celui des glands disparus...
 
 Lapin Blanc attendait en bas, au pied du Grand Chêne.  Il levait les yeux de temps en temps vers la maison d'Olivia,Invisible à travers les feuilles, espérant des nouvelles.
