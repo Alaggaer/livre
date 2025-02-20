@@ -1,3 +1,6 @@
 # Chapitre 4 : L'Énigme de la Chouette
 
+Olivia la Chouette venait de poser son énigme.  Un silence Magique Flottait dans sa maison, Suspendu aux branches du Grand Chêne.
+
+Écureuil GrisPencha la tête sur le côté,Essayant deRefléchir très fort.  Un Matelot en Herbe...  Mais qu'est-ce que ça pouvait bien vouloir dire ?  Est-ce que c'était un animal ?  Une plante ?  Un objet magique ?  Il n'en avait aucune idée !  Et cette histoire de vent qui apporte des messagesSecrets...  Tout ça était bien trop compliqué pour lui !  Il préférait les choses simples etConcètes, comme les glands bien ronds et bien lourds qu'on pouvait cacher dans son trou.\n\nLapin Blanc, au contraire, semblaitAbsorbé par l'énigme.  Il avait fermé les yeux,Concentré, etMordillait нервно une petite feuille, comme à son habitude quand ilRéfléchissait intensément.  Peut-être que lui, avec sa intelligence légendaire, allait réussir à percer le mystère des paroles d'Olivia ?  Écureuil Gris l'observait avec espoir,attendantImpatiemment que son amiLapin Blanc ait une illumination géniale.
 Olivia la Chouette venait de poser son énigme.  Un silenceMagiqueFlottait dans sa maison,Suspendu aux branches du Grand Chêne.
