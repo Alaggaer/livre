@@ -22,7 +22,7 @@
 - Chapitre 1 écrit, complété, enrichi et simplifié (langage adapté aux 3-5 ans) ✨ (estimation 1200-1300 mots)
 - Chapitre 2 créé et enrichi avec descriptions, réactions des personnages, scène de rencontre avec Olivia ajoutée, cohérence chapitres 1 et 2 améliorée, et erreurs d'écriture corrigées ✅
 - Chapitre 3 créé (version longue initiale) et scène de montée à l'arbre d'Olivia rendue réaliste, réaction d'Olivia face à la plume enrichie, dialogue avec Olivia développé, syntaxe relue et validée ✅, rendu visuel corrigé (doubles sauts de ligne supprimés manuellement) ✅, et chapitre 3 validé OK ✅
-- Chapitre 4 créé (début) et enrichi avec les réactions initiales des personnages face à l'énigme, **et scène de brainstorming des personnages ajoutée ✏️**
+- Chapitre 4 créé (début) et enrichi avec les réactions initiales des personnages face à l'énigme, **et scène de brainstorming et premières tentatives d'interprétation ajoutée ✏️**
 
 ### Documentation
 - Memory Bank initialisé
@@ -35,7 +35,7 @@
 ## En cours 🔄
 - Poursuite de l'écriture détaillée du chapitre 2
 - Poursuite de l'enrichissement du chapitre 3 (prochaines scènes, suite du dialogue avec Olivia, description maison...)
-- **Développement du chapitre 4 (suite du brainstorming des personnages, exploration des premières pistes de l'énigme)**
+- **Développement du chapitre 4 (suite du brainstorming des personnages, exploration d'autres pistes de l'énigme, réponses d'Olivia)**
 - Relecture et validation finale du chapitre 1 (version simplifiée)
 - Affinement des énigmes et indices
 - Enrichissement des interactions entre personnages
@@ -64,7 +64,7 @@
 ## Prochaines étapes immédiates
 1. Poursuivre l'écriture détaillée du chapitre 2 (prochaines scènes, dialogues...)
 2. Continuer à enrichir et détailler le chapitre 3 (prochaines scènes, suite du dialogue avec Olivia, description maison...)
-3. **Développer le chapitre 4 (suite du brainstorming des personnages, exploration des premières pistes de l'énigme)**
+3. **Développer le chapitre 4 (suite du brainstorming des personnages, exploration d'autres pistes de l'énigme, réponses d'Olivia)**
 4. Valider le chapitre 1 simplifié (durée de lecture, vocabulaire, ton, longueur)
 5. Développer les descriptions des environnements
 6. Affiner les énigmes et indices
