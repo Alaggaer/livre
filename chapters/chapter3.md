@@ -33,4 +33,7 @@ Olivia Inclina lentement la tête, puis la pencha de côté, comme pour mieux ob
 La vieille chouette prit la plume entre ses serres Pointues avec une délicatesse Infinie, comme si elle tenait un trésor fragile.  Elle la tourna et la retourna Longuement, l'examinant sous toutes les coutures avec ses grands yeux brillants.  Elle Approcha la plume de son visage, la reniflant doucement, comme pour Sentir son parfum secret.
 Lapin Blanc et Écureuil Gris retinrent leur souffle, fascinés par l'attitude d'Olivia.  Qu'allait-elle découvrir ?  Que Pensait-elle de cette plume si étrange ?  Le mystère s'epaississait encore, et leur cœur battait de plus en plus fort.
 
+
+
+Écureuil GrisPencha la tête sur le côté, l'air complètementPerdu.  UnMatelot en Herbe ?  Qu'est-ce que c'était que ça ?  Est-ce que ça se mangeait, un Matelot en Herbe ?  Il lança un regardSuppliant à Lapin Blanc, espérant que son ami aurait compris, lui, au moins, cette étrange devinette.\n\nMais Lapin Blanc RestaitImmobile,Absorbé dans ses pensées.  Ses longues oreilles étaient dressées, mais ses yeux semblaient fixés au loin, perdus dans le vague.  Il plissait légèrement le front,Mordillant nerveusement une petite feuille qu'il tenait entre ses pattes.  Essayait-il de résoudre l'énigme d'Olivia ?  Ou bien, lui aussi, était-ilComplètementPerdu face à ces paroles mystérieuses ?
 Lapin Blanc attendait en bas, au pied du Grand Chêne.  Il levait les yeux de temps en temps vers la maison d'Olivia, invisible à travers les feuilles, espérant des nouvelles.
