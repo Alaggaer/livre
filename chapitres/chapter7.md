@@ -2,49 +2,49 @@
 
 *Avant de commencer ce chapitre, peux-tu te rappeler ce que nos amis ont découvert dans la clairière mystérieuse ?*
 
-Le soleil commençait à descendre derrière les arbres, peignant le ciel de teintes orangées et roses. Lapin Blanc et Écureuil Gris revinrent à la forêt, impatients de partager leur découverte avec Olivia. En chemin, ils croisèrent des amis de la forêt, qui les saluèrent chaleureusement avant de les laisser passer.
+Le soleil déclinait à l'horizon, peignant le ciel de teintes flamboyantes. Lapin Blanc et Écureuil Gris traversaient la forêt d'un pas vif, impatients de partager leurs découvertes avec Olivia. Sur leur chemin, les habitants de la forêt les saluaient chaleureusement, intrigués par l'excitation qui brillait dans leurs yeux.
 
 *Combien d'amis de la forêt peux-tu repérer dans l'illustration ? Quels animaux sont-ils ?*
 
 ## Le Retour Triomphal
 
-"Regarde, Lapin Blanc," murmura Écureuil Gris, les yeux brillants d'excitation. "Nous avons trouvé la solution ! La coccinelle, avec ses couleurs d'arc-en-ciel, correspond parfaitement à la description d'Olivia : 'Un Matelot en Herbe, couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil.'"
+"C'est incroyable, Lapin Blanc," murmura Écureuil Gris, ses yeux pétillant d'enthousiasme. "La coccinelle aux reflets d'arc-en-ciel correspond exactement à l'énigme d'Olivia : 'Un Matelot en Herbe, couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil.'"
 
-Lapin Blanc hocha la tête, fier de leur réussite. "Oui, Écureuil Gris... Et la plume arc-en-ciel... Elle vient d'un endroit où les coccinelles sont très importantes... Peut-être même... un endroit où l'on élevait des coccinelles !"
+Lapin Blanc acquiesça, fier de leur déduction. "Et cette plume extraordinaire... Elle nous a guidés vers un endroit magique, un sanctuaire où les coccinelles ne sont pas de simples insectes..."
 
-*À ton avis, à quoi ressemble un endroit où l'on élève des coccinelles ? Dessine-le dans ton carnet d'aventurier !*
+*À ton avis, à quoi ressemble un endroit où l'on élève des coccinelles magiques ? Dessine-le dans ton carnet d'aventurier !*
 
 ## La Rencontre avec Olivia
 
-Ils arrivèrent au pied du Grand Chêne, où vivait Olivia la Chouette. La vieille chouette les observait avec des yeux brillants de curiosité. Lapin Blanc et Écureuil Gris s'approchèrent d'elle, la plume arc-en-ciel serrée entre leurs pattes.
+Au pied du Grand Chêne, Olivia la chouette les attendait, ses yeux dorés brillant de sagesse et de curiosité. Les deux amis s'avancèrent, tenant précieusement la plume arc-en-ciel entre leurs pattes.
 
-"Olivia," dit Lapin Blanc, son regard fixé sur la vieille chouette. "Nous avons trouvé la solution de ton énigme. La coccinelle, avec ses couleurs d'arc-en-ciel, correspond parfaitement à la description que tu nous as donnée."
+"Olivia," commença Lapin Blanc d'une voix claire, "nous avons percé le secret de ton énigme. La coccinelle magique, avec ses couleurs changeantes, est la clé de ce mystère."
 
 *Peux-tu expliquer l'énigme d'Olivia avec tes propres mots ? Pourquoi la coccinelle est-elle la bonne réponse ?*
 
 ## La Sagesse d'Olivia
 
-Olivia les observa un moment, sans rien dire. Puis, un sourire bienveillant éclaira son visage. "La coccinelle... vous avez percé le secret de mon énigme, jeunes amis !"
+La vieille chouette les observa un long moment en silence. Puis un sourire bienveillant illumina son visage. "La coccinelle... Vous avez découvert la vérité cachée dans mes paroles, mes jeunes amis."
 
-Écureuil Gris et Lapin Blanc échangèrent un regard de triomphe. Ils avaient trouvé la solution ! Mais Olivia n'avait pas fini. "La plume que vous avez trouvée... elle ne vient pas de notre forêt. Elle appartient à une coccinelle très spéciale, une coccinelle voyageuse, que l'on dit capable de retrouver les objets perdus... On raconte qu'elle vit dans un endroit lointain, au-delà des montagnes, dans une clairière cachée..."
+Écureuil Gris et Lapin Blanc échangèrent un regard rayonnant. Mais Olivia n'avait pas terminé : "Cette plume extraordinaire appartient à une créature unique, une coccinelle voyageuse dotée du don de retrouver ce qui a été perdu. Les légendes racontent qu'elle vit au-delà des montagnes, dans une clairière secrète où la magie imprègne chaque brin d'herbe..."
 
 *Imagine la coccinelle voyageuse. Quels pouvoirs magiques pourrait-elle avoir ? Note tes idées !*
 
 ## La Nouvelle Aventure
 
-Olivia les regarda avec des yeux brillants de curiosité et de malice. "Et maintenant, jeunes amis, vous savez où chercher pour retrouver vos glands perdus !"
+Les yeux d'Olivia pétillaient de malice et de sagesse. "Et maintenant, mes intrépides amis, vous connaissez le chemin qui mène à vos glands disparus."
 
-Lapin Blanc et Écureuil Gris restèrent un moment silencieux, réfléchissant à la nouvelle information. La coccinelle voyageuse, la clairière cachée... Ils avaient maintenant une piste pour retrouver leurs glands perdus.
+Lapin Blanc et Écureuil Gris méditèrent ces paroles en silence. La coccinelle voyageuse, la clairière enchantée... Une nouvelle piste s'ouvrait devant eux, pleine de promesses et de mystères.
 
 *Sur une carte imaginaire, trace le chemin que devront suivre nos amis pour trouver la coccinelle voyageuse. Quels obstacles devront-ils surmonter ?*
 
 ## Le Départ
 
-"Maintenant, nous devons nous rendre dans cette clairière mystérieuse," décida Lapin Blanc, son regard fixé sur l'horizon. "Et peut-être, là-bas, nous trouverons des indices supplémentaires pour découvrir le voleur."
+"Notre prochaine destination est cette clairière magique," déclara Lapin Blanc, le regard tourné vers l'horizon. "Là-bas, nous découvrirons peut-être qui se cache derrière la disparition de nos glands."
 
-Écureuil Gris hocha la tête, excité à l'idée de cette nouvelle aventure. "Oui, Lapin Blanc ! Allons-y ensemble, et cette fois, nous ne laisserons rien au hasard !"
+Écureuil Gris hocha vigoureusement la tête, galvanisé par cette perspective. "Oui ! Cette fois, nous sommes sur la bonne voie. Ensemble, nous percerons tous les mystères !"
 
-Le chemin serait long et peut-être dangereux, mais Lapin Blanc et Écureuil Gris étaient prêts à tout pour retrouver leurs glands et découvrir la vérité derrière ce mystère. Leur aventure ne faisait que commencer, et ils étaient déterminés à la mener jusqu'au bout, ensemble.
+Le voyage s'annonçait long et semé d'embûches, mais Lapin Blanc et Écureuil Gris étaient plus déterminés que jamais. Cette quête les avait menés bien au-delà de simples glands disparus - ils s'apprêtaient à vivre une aventure extraordinaire, guidés par la magie des coccinelles et la force de leur amitié.
 
 *Que va-t-il se passer ensuite ? Écris ou dessine ce que tu imagines pour la suite de l'histoire !*
 

@@ -1,59 +1,59 @@
 # Chapitre 5 : La Solution de l'Énigme
 
-Le soleil filtrait à travers les feuilles, inondant la forêt d'une lumière dorée. Lapin Blanc et Écureuil Gris, de retour au pied du Grand Chêne, échangeaient des regards emplis d'une détermination nouvelle. L'énigme d'Olivia la Chouette résonnait encore dans leurs esprits : "Un Matelot en Herbe, couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil."
+La lumière dorée du soleil filtrait à travers le feuillage, baignant la forêt d'une douce clarté. De retour au pied du Grand Chêne, Lapin Blanc et Écureuil Gris échangeaient des regards déterminés. Les paroles énigmatiques d'Olivia la chouette résonnaient encore dans leurs esprits : "Un Matelot en Herbe, couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil."
 
 *As-tu une idée de ce que pourrait être ce mystérieux Matelot en Herbe ? Note tes hypothèses avant de continuer la lecture !*
 
 ## La Réflexion des Amis
 
-Lapin Blanc et Écureuil Gris s'assirent dos à dos, au pied du Grand Chêne, la plume arc-en-ciel posée délicatement entre eux. Ils la contemplèrent en silence pendant un long moment. Ses couleurs chatoyantes dansaient sous la lumière du soleil, comme un minuscule arc-en-ciel prisonnier d'une plume.
+Adossés l'un à l'autre au pied du Grand Chêne, Lapin Blanc et Écureuil Gris contemplaient la plume arc-en-ciel posée délicatement entre eux. Un rayon de soleil traversa les branches, faisant danser ses teintes chatoyantes comme un fragment d'arc-en-ciel capturé dans ses barbes soyeuses.
 
-"Regarde comme elle brille," murmura Écureuil Gris, fasciné. "On dirait... on dirait qu'elle change de couleurs, à chaque instant !"
+"Regarde comme elle scintille," murmura Écureuil Gris, émerveillé. "On dirait qu'elle capture la lumière et la transforme en mille couleurs !"
 
 *Observe bien l'illustration. Peux-tu compter combien de couleurs différentes tu vois dans la plume ?*
 
-Lapin Blanc hocha lentement la tête, ses yeux examinant la plume avec une attention intense. "Olivia a dit... 'couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil'," récita-t-il à voix basse. "Qu'est-ce que ça peut bien vouloir dire ?"
+Lapin Blanc hocha doucement la tête, ses yeux scrutant attentivement chaque détail de la plume. "'Couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil'," répéta-t-il pensivement. "Cette partie de l'énigme doit être importante..."
 
-Écureuil Gris haussa les épaules. "Je ne sais pas... Mais des plumes comme ça, ça n'existe pas dans notre forêt, c'est sûr ! Peut-être que... peut-être que c'est une plume magique ?"
+Écureuil Gris frissonna d'excitation. "Une chose est sûre : dans notre forêt, aucun oiseau n'a de plumes pareilles ! Peut-être que c'est une plume magique ?"
 
-"Magique...?" Lapin Blanc répéta le mot doucement, l'air pensif. "Ou alors... Peut-être que ça vient de très loin ? D'un endroit qu'on ne connaît pas ?"
+"Magique..." Lapin Blanc savoura le mot, réfléchissant. "Ou alors... peut-être vient-elle d'un endroit lointain ? Un lieu que nous ne connaissons pas encore ?"
 
 *À ton avis, d'où pourrait venir cette plume mystérieuse ? Écris tes idées dans ton carnet d'aventurier !*
 
 ## La Découverte
 
-Ils restèrent un moment silencieux, perdus dans leurs pensées. Le mystère de la plume arc-en-ciel et l'énigme d'Olivia semblaient inséparables, comme les pièces d'un puzzle compliqué.
+Le silence s'installa entre eux, uniquement troublé par le bruissement des feuilles. L'énigme d'Olivia et le mystère de la plume semblaient tisser une toile complexe, dont chaque fil les rapprochait de la vérité.
 
-Soudain, Lapin Blanc se pencha plus près de la plume, plissant les yeux. "Attends, Écureuil Gris ! Regarde ça !"
+Soudain, Lapin Blanc se pencha en avant, plissant les yeux. "Attends, Écureuil Gris ! Regarde ici !"
 
-Il montra un endroit précis sur la plume, juste à la base des barbes colorées. "Tu vois ces petits... motifs ? On dirait des... des lettres minuscules !"
+Son doigt désignait un endroit précis à la base de la plume, là où commençaient les barbes colorées. "Tu vois ces minuscules motifs ? On dirait... des lettres !"
 
 *Cherche dans l'illustration les lettres minuscules cachées sur la plume. Peux-tu les trouver ?*
 
-Écureuil Gris s'approcha à son tour, curieux. Effectivement, à la base de la plume, de fines marques sombres formaient une sorte de minuscule inscription. On aurait dit des lettres, ou peut-être des chiffres... C'était difficile à dire, tellement c'était petit.
+Écureuil Gris s'approcha, intrigué. En effet, de fines marques sombres formaient comme une inscription microscopique à la base de la plume. Les motifs ressemblaient à des lettres, ou peut-être des chiffres, mais ils étaient si petits qu'il fallait plisser les yeux pour les distinguer.
 
 ## L'Illumination
 
-Soudain, alors qu'ils examinaient ensemble les motifs minuscules, Écureuil Gris poussa un petit cri de surprise. "Mais oui ! Regarde, Lapin Blanc ! Ces petits points noirs... et cette forme arrondie... Ça ne te rappelle rien ?"
+Tandis qu'ils examinaient ensemble ces mystérieux symboles, Écureuil Gris laissa échapper un petit cri de surprise. "Mais oui ! Regarde, Lapin Blanc ! Ces petits points noirs... et cette forme arrondie... Ça ne te rappelle rien ?"
 
-Lapin Blanc plissa les yeux, concentré. Il observa attentivement les marques sombres sur la plume, essayant de les déchiffrer. Et puis, tout à coup, son regard s'illumina.
+Lapin Blanc se concentra, observant attentivement les marques sombres. Soudain, son visage s'illumina.
 
-"Attends... Mais oui, tu as raison, Écureuil Gris ! On dirait... des points de coccinelle !"
+"Mais bien sûr ! Ces motifs... On dirait des points de coccinelle !"
 
 *As-tu deviné avant nos amis ? La coccinelle est le Matelot en Herbe ! Explique pourquoi c'est une bonne réponse à l'énigme.*
 
-"Des points de coccinelle ?" Écureuil Gris répéta les mots, un peu perdu. "Mais qu'est-ce que les coccinelles viennent faire là-dedans ?"
+"Des points de coccinelle ?" répéta Écureuil Gris, perplexe. "Mais quel rapport avec notre énigme ?"
 
-"Réfléchis !" Lapin Blanc devint soudain très excité. "Olivia a dit : 'couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil'... Et la plume est couleur d'arc-en-ciel, mais ce n'est pas un vrai arc-en-ciel... Et les coccinelles, Écureuil Gris, les coccinelles, elles ont des couleurs vives, parfois rouges, parfois jaunes, parfois orange... Des couleurs d'arc-en-ciel... Mais ce n'est pas la pluie ni le soleil qui leur donnent ces couleurs !"
+"Réfléchis !" s'exclama Lapin Blanc, soudain fébrile. "Olivia a parlé d'une 'couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil'... Cette plume brille de toutes les couleurs, mais ce n'est pas un vrai arc-en-ciel... Et les coccinelles, Écureuil Gris ! Les coccinelles portent des couleurs vives - rouge, jaune, orange... Comme un arc-en-ciel ! Mais leurs couleurs ne viennent ni de la pluie ni du soleil !"
 
 ## La Solution
 
-Écureuil Gris ouvrit de grands yeux ronds, comprenant enfin. "Mais oui ! Un 'Matelot en Herbe'... Une petite bête qui navigue sur les feuilles... Comme une coccinelle qui se promène sur une feuille d'arbre ! Et sa couleur d'arc-en-ciel, qui n'est pas la pluie ni le soleil... C'est ses jolis points colorés sur sa carapace !"
+Les yeux d'Écureuil Gris s'écarquillèrent de compréhension. "Mais oui ! Un 'Matelot en Herbe'... Une petite bête qui navigue sur les feuilles, comme un marin sur son bateau... Une coccinelle ! Et ses couleurs d'arc-en-ciel, ce sont les jolis points colorés sur sa carapace !"
 
 *Dessine la coccinelle magique comme tu l'imagines, avec tous ses points colorés !*
 
-Ensemble, Lapin Blanc et Écureuil Gris venaient de comprendre. Le 'Matelot en Herbe' d'Olivia la Chouette... C'était la coccinelle ! Et la plume arc-en-ciel... Elle venait sûrement d'un endroit où les coccinelles étaient très importantes... Peut-être même... un endroit où l'on élevait des coccinelles ?
+Lapin Blanc et Écureuil Gris échangèrent un regard triomphant. Le 'Matelot en Herbe' d'Olivia la chouette était bien la coccinelle ! Et cette plume arc-en-ciel devait provenir d'un endroit où les coccinelles jouaient un rôle important... Peut-être même un lieu secret où l'on élevait ces petites créatures magiques ?
 
-Un frisson d'excitation parcourut leur échine. Pour la première fois depuis le début de leur aventure, Lapin Blanc et Écureuil Gris sentirent qu'ils avançaient enfin vers la vérité. Le mystère restait épais, mais une lueur d'espoir brillait désormais, plus forte que jamais, dans leur cœur de jeunes aventuriers.
+Un frisson d'excitation parcourut leur échine. Pour la première fois depuis le début de leur quête, ils sentaient qu'ils touchaient du bout des doigts la vérité. Le mystère restait dense, mais une lueur d'espoir brillait désormais dans leur cœur d'aventuriers, plus éclatante que jamais.
 
 *À ton avis, que vont découvrir nos amis dans le prochain chapitre ? Note tes prédictions et compare-les avec la suite de l'histoire !*
