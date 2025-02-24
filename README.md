@@ -1,18 +1,63 @@
-# Livre pour enfants (3-5 ans)
+# Le Mystère des Glands Disparus
 
-Un livre d'aventures pour enfants mettant en scène des animaux anthropomorphiques dans une histoire de mystère et d'amitié.
+Une histoire pour enfants mettant en scène Écureuil Gris et ses amis dans une aventure mystérieuse au cœur de la forêt.
 
-## À propos du projet
+## Synopsis
 
-- Public cible : Enfants de 3 à 5 ans
-- Format : 10 chapitres (environ 10 minutes de lecture par chapitre)
-- Thèmes : Aventure, mystère, amitié, communauté, entraide
+Écureuil Gris découvre un matin que tous ses glands ont disparu ! Avec l'aide de son ami Lapin Blanc et les conseils énigmatiques d'Olivia la Chouette, il part à la recherche d'indices pour résoudre ce mystère. Une plume aux couleurs de l'arc-en-ciel pourrait bien être la clé de cette énigme...
 
-## Personnages principaux
+## Structure du Projet
 
-- Lapin Blanc (chef du groupe)
-- Écureuil Gris (intrépide)
-- Hérisson
-- Henri l'Hippopotame (savant)
-- Dromadaire (peureux)
-- Et d'autres amis à découvrir...
+```
+.
+├── chapitres/           # Les chapitres de l'histoire
+│   ├── chapter1.md     # Le Mystère Commence
+│   ├── chapter2.md     # Premier Indice
+│   ├── chapter3.md     # Rencontre avec Olivia la Chouette
+│   └── chapter4.md     # L'Énigme de la Chouette
+│
+├── docs/               # Documentation du projet
+│   ├── personnages.md  # Description des personnages
+│   └── enigmes.md     # Détails des énigmes
+│
+└── README.md          # Ce fichier
+```
+
+## Public Cible
+
+- Âge : 6-10 ans
+- Niveau de lecture : Débutant à intermédiaire
+- Thèmes : Amitié, entraide, résolution de problèmes
+
+## Caractéristiques
+
+- Histoire interactive avec énigmes
+- Personnages attachants
+- Messages positifs
+- Illustrations à venir
+
+## Développement
+
+### État Actuel
+- 4 chapitres écrits
+- Structure narrative établie
+- Personnages principaux développés
+- Documentation en place
+
+### Prochaines Étapes
+- Développement des chapitres suivants
+- Ajout d'illustrations
+- Enrichissement des personnages
+- Résolution du mystère
+
+## Contribution
+
+Le projet est ouvert aux contributions, particulièrement pour :
+- Révision et correction
+- Suggestions d'illustrations
+- Idées pour la suite de l'histoire
+- Amélioration de la documentation
+
+## Licence
+
+[À définir]
