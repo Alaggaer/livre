@@ -48,4 +48,22 @@ Lapin Blanc sentit son cœur s'emballer.  Un message caché sur la plume...  Et 
 
 Un frisson d'excitation parcourut son échine.  Pour la première fois depuis le début de leur aventure, Lapin Blanc et Écureuil Gris sentirent qu'ils avançaient enfin vers la vérité.  Le mystère restait épais, mais une lueur d'espoir brillait désormais, plus forte que jamais, dans leur cœur de jeunes aventuriers.
 
-[Début de la réflexion sur l'énigme d'Olivia, en lien avec la clairière et la plume]
+## L'Illumination
+
+Lapin Blanc et Écureuil Gris continuèrent à explorer la clairière, leurs yeux et leurs oreilles aux aguets.  Soudain, un léger bruit attira leur attention.  Un petit bruit, comme un froissement de feuilles, mais avec une note de mélodie.
+
+"Qu'est-ce que c'est ?"  demanda Écureuil Gris, les yeux brillants de curiosité.
+
+Lapin Blanc se concentra, essayant de comprendre d'où venait ce bruit.  Et puis, il le vit : une petite coccinelle, avec des reflets irisés sur ses élytres, se promenait nonchalamment sur une feuille, à quelques pas d'eux.
+
+"Regarde, Écureuil Gris !"  Lapin Blanc pointa du doigt la coccinelle.  "C'est une coccinelle !  Et elle a des couleurs d'arc-en-ciel !"
+
+Écureuil Gris ouvrit de grands yeux, fasciné.  "Mais oui...  C'est exactement comme ce que nous avons trouvé sur la plume !  Les reflets irisés, les couleurs vives..."
+
+Lapin Blanc et Écureuil Gris échangèrent un regard de triomphe.  Ils avaient trouvé la solution de l'énigme !  La coccinelle, avec ses couleurs d'arc-en-ciel, correspondait parfaitement à la description d'Olivia : "Un Matelot en Herbe, couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil."
+
+"Nous avons trouvé la solution, Écureuil Gris !"  Lapin Blanc était rayonnant de joie.  "La coccinelle est le 'Matelot en Herbe' d'Olivia !  Et la plume...  Elle vient d'un endroit où les coccinelles sont très importantes...  Peut-être même...  un endroit où l'on élevait des coccinelles !"
+
+Écureuil Gris hocha la tête, excité.  "Oui, Lapin Blanc !  Nous avons résolu l'énigme !  Et maintenant, nous savons où chercher pour retrouver nos glands perdus !"
+
+[Conclusion du chapitre 6 - Écrire ici une courte conclusion pour clore le chapitre et donner envie de lire la suite]
