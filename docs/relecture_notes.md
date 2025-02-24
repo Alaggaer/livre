@@ -2,96 +2,115 @@
 
 ## État des Chapitres
 
-### Chapitres 1-2
-- Incomplets, à réécrire entièrement
-- Nécessitent l'introduction des personnages et de l'intrigue
+### Chapitres à Réécrire (1-2)
 
-### Chapitre 3 : Rencontre avec Olivia la Chouette
+#### Chapitre 1 : Le Mystère Commence
+Structure proposée :
+1. Introduction de la forêt et de l'ambiance
+2. Présentation d'Écureuil Gris et sa routine
+3. Découverte des glands disparus
+4. Première rencontre avec Lapin Blanc
+5. Décision de mener l'enquête ensemble
+
+Points clés :
+- Établir le ton enjoué et mystérieux
+- Développer la personnalité des personnages
+- Créer une atmosphère accueillante
+- Introduire le mystère naturellement
+
+#### Chapitre 2 : Premier Indice
+Structure proposée :
+1. Début des recherches
+2. Découverte de la plume mystérieuse
+3. Discussion sur sa signification
+4. Décision d'aller voir Olivia
+5. Préparation du voyage vers le Grand Chêne
+
+Points clés :
+- Maintenir le suspense
+- Développer l'amitié entre les personnages
+- Introduire des éléments d'observation
+- Préparer la rencontre avec Olivia
+
+### Chapitres Révisés (3-4)
+
+#### Chapitre 3 : Rencontre avec Olivia la Chouette
+Corrections effectuées :
+- Suppression des majuscules inappropriées
+- Amélioration de la cohérence narrative
+- Clarification des positions des personnages
+- Fluidification des dialogues
+
 Points forts :
-- Belle description de la maison d'Olivia
-- Dialogue naturel et vivant
-- Ambiance mystérieuse bien installée
+- Description vivante de la maison d'Olivia
+- Dialogues naturels
+- Ambiance mystérieuse
 
-Corrections nécessaires :
-1. Majuscules inappropriées à supprimer :
-   - "Intensément", "Su", "Sage", "Inclina", "Descendit", etc.
-   - Règle : garder les majuscules uniquement pour les noms propres et débuts de phrase
+#### Chapitre 4 : L'Énigme de la Chouette
+Corrections effectuées :
+- Suppression des majuscules inappropriées
+- Amélioration du rythme narratif
+- Renforcement de la tension dramatique
+- Ajout d'une conclusion plus engageante
 
-2. Incohérences narratives à corriger :
-   - Position de Lapin Blanc (alternance bas/haut de l'arbre)
-   - Clarifier qui parle à quel moment
-   - Revoir la chronologie des actions
-
-3. Style à améliorer :
-   - Éviter les répétitions ("doucement", "comme si")
-   - Varier les descriptions des actions d'Olivia
-   - Alléger certaines phrases trop longues
-
-### Chapitre 4 : L'Énigme de la Chouette
 Points forts :
-- Dialogue dynamique
+- Réflexion des personnages
 - Progression de l'intrigue
-- Réflexion des personnages bien développée
-
-Corrections nécessaires :
-1. Majuscules à supprimer :
-   - "Magique", "Flottait", "Suspendu", "Pencha", "Perdu", etc.
-   - Même règle que pour le chapitre 3
-
-2. Ponctuation :
-   - Espaces avant les points de suspension à supprimer
-   - Harmoniser l'usage des points d'exclamation
-   - Revoir la ponctuation des dialogues
-
-3. Style à améliorer :
-   - Réduire l'usage des points de suspension
-   - Varier les expressions de questionnement
-   - Éviter les répétitions d'adjectifs
+- Interaction dynamique
 
 ## Recommandations Générales
 
-### Structure Narrative
-1. Équilibrer les chapitres
-   - Chapitre 1 : Introduction des personnages et situation initiale
-   - Chapitre 2 : Découverte du mystère
-   - Chapitre 3 : Rencontre avec Olivia
-   - Chapitre 4 : L'énigme et ses implications
-
 ### Style et Ton
-1. Registre de langue
-   - Adapter au public 7-10 ans
-   - Maintenir un vocabulaire riche mais accessible
-   - Expliquer les mots complexes naturellement
+1. Langage adapté (7-10 ans)
+   - Phrases simples mais variées
+   - Vocabulaire riche mais accessible
+   - Explications naturelles des mots complexes
 
-2. Dialogues
-   - Garder le naturel des échanges
-   - Différencier les voix des personnages
-   - Équilibrer narration et dialogue
+2. Narration
+   - Paragraphes courts
+   - Alternance description/dialogue
+   - Rythme dynamique
+
+3. Dialogues
+   - Naturels et vivants
+   - Personnalités distinctes
+   - Interactions authentiques
 
 ### Cohérence
 1. Personnages
-   - Maintenir leurs traits distinctifs
-   - Cohérence des actions et réactions
-   - Développement logique des relations
+   - Écureuil Gris : curieux et enthousiaste
+   - Lapin Blanc : réfléchi et méthodique
+   - Olivia : sage et mystérieuse
 
 2. Environnement
-   - Description cohérente de la forêt
-   - Repères spatiaux clairs
+   - La forêt comme personnage
+   - Lieux bien définis
    - Ambiance magique mais crédible
 
+3. Intrigue
+   - Mystère progressif
+   - Indices cohérents
+   - Participation du lecteur
+
+### Éléments Interactifs
+1. Questions implicites
+   - Faire réfléchir le lecteur
+   - Encourager les hypothèses
+   - Maintenir l'engagement
+
+2. Description active
+   - Inviter à l'observation
+   - Stimuler l'imagination
+   - Créer des images mentales
+
 ## Prochaines Étapes
-1. Réécriture des chapitres 1 et 2
-2. Révision approfondie des chapitres 3 et 4
-3. Harmonisation du style sur l'ensemble
-4. Vérification finale de la cohérence
+1. Réécriture du chapitre 1
+2. Réécriture du chapitre 2
+3. Relecture finale des chapitres 3-4
+4. Vérification de la cohérence globale
 
 ## Notes Techniques
-- Utiliser des paragraphes courts
-- Soigner les transitions
-- Maintenir le suspense
-- Garder le rythme
-
-## Suivi des Modifications
-- Créer une version corrigée de chaque chapitre
-- Noter les changements majeurs
-- Vérifier l'impact sur l'histoire globale
+- Maintenir un fichier de suivi des modifications
+- Vérifier la continuité entre les chapitres
+- Assurer la progression logique de l'histoire
+- Préparer les illustrations nécessaires
