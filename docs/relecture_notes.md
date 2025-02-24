@@ -1,41 +1,45 @@
 # Notes de Relecture
 
-## Corrections Effectuées
+## État des Chapitres
 
-### Chapitre 1 : Le Mystère des Glands Disparus
-Améliorations apportées :
-- Suppression des répétitions ("Il brillait sur la forêt")
-- Amélioration des descriptions avec plus de détails sensoriels
-- Renforcement de la fluidité narrative
-- Correction de la ponctuation des dialogues
-- Amélioration des transitions entre les scènes
-
-Points forts préservés :
-- L'émotion d'Écureuil Gris
-- L'amitié avec Lapin Blanc
-- L'ambiance automnale
-- Le mystère naissant
-
-### Chapitre 2 : La Plume Étrange
-Améliorations apportées :
-- Suppression des répétitions au début du chapitre
+### Chapitres 1-4 (Révisés)
+- Correction des répétitions
+- Amélioration du style et de la fluidité
+- Renforcement de la cohérence narrative
 - Correction des majuscules inappropriées
-- Enrichissement des descriptions de la plume
-- Amélioration de la progression narrative
-- Renforcement de la tension dramatique
 
-Points forts préservés :
-- La découverte mystérieuse
-- L'amitié entre les personnages
-- Les descriptions sensorielles
-- L'atmosphère de la forêt
+### Chapitre 5 : La Solution de l'Énigme
+Points forts :
+- Structure claire avec sous-titres
+- Bonne intégration des éléments interactifs
+- Progression logique du raisonnement
 
-### Chapitres 3-4 (déjà révisés)
-Modifications précédentes :
-- Correction des majuscules
-- Amélioration de la cohérence narrative
-- Clarification des dialogues
-- Renforcement du suspense
+À améliorer :
+- Ajouter des transitions entre les sections
+- Varier davantage les verbes d'action
+- Renforcer les descriptions sensorielles
+
+### Chapitre 6 : La Clairière Mystérieuse
+Points forts :
+- Descriptions vivantes et immersives
+- Bonne utilisation des éléments interactifs
+- Progression du mystère
+
+À améliorer :
+- Éviter la répétition de "mystérieux/mystérieuse"
+- Renforcer les liens avec le chapitre précédent
+- Développer les interactions entre les personnages
+
+### Chapitre 7 : La Révélation d'Olivia
+Points forts :
+- Conclusion satisfaisante
+- Bonne ouverture vers la suite
+- Équilibre narration/dialogue
+
+À améliorer :
+- Réduire les répétitions dans les dialogues
+- Enrichir la description des émotions
+- Renforcer l'aspect mystérieux de la suite
 
 ## Cohérence Globale
 
@@ -55,66 +59,90 @@ Modifications précédentes :
    - Personnalités distinctes
    - Interactions authentiques
 
-### Personnages
-1. Écureuil Gris
-   - Personnalité cohérente : curieux, sensible, déterminé
-   - Émotions bien développées
-   - Évolution crédible
+### Éléments Interactifs
+1. Questions au lecteur
+   - Bien intégrées dans le récit
+   - Variées et stimulantes
+   - Adaptées au niveau de lecture
 
-2. Lapin Blanc
-   - Rôle de soutien et guide
-   - Sagesse et méthodologie
-   - Amitié sincère
+2. Activités proposées
+   - Diversifiées (dessin, écriture, observation)
+   - En lien avec l'histoire
+   - Progressives en difficulté
 
-3. Olivia la Chouette
-   - Introduction progressive
-   - Aura mystérieuse
-   - Sagesse bienveillante
+### Structure Narrative
+1. Progression
+   - Introduction du mystère (ch. 1-2)
+   - Développement de l'enquête (ch. 3-4)
+   - Résolution progressive (ch. 5-6)
+   - Ouverture vers la suite (ch. 7)
 
-### Environnement
-1. La Forêt
-   - Descriptions cohérentes
-   - Ambiance automnale
-   - Éléments mystérieux
+2. Cohérence
+   - Liens logiques entre les chapitres
+   - Développement des personnages
+   - Résolution satisfaisante
 
-2. Lieux Spécifiques
-   - Le grand chêne d'Écureuil Gris
-   - Le territoire d'Olivia
-   - Les chemins de la forêt
+## Corrections Proposées
 
-## Recommandations pour la Suite
+### Chapitre 5
+1. Style
+   - Varier les verbes de dialogue
+   - Enrichir les descriptions
+   - Améliorer les transitions
 
-### Structure
-1. Maintenir le rythme
-   - Alternance action/réflexion
-   - Progression des révélations
-   - Équilibre mystère/résolution
+2. Structure
+   - Renforcer les liens avec ch. 4
+   - Équilibrer les parties interactives
+   - Développer la tension dramatique
 
-2. Développement
-   - Approfondir les indices
-   - Enrichir les interactions
-   - Renforcer les enjeux
+### Chapitre 6
+1. Vocabulaire
+   - Diversifier les adjectifs descriptifs
+   - Éviter les répétitions
+   - Enrichir le champ lexical du mystère
 
-### Style
-1. Descriptions
-   - Garder les détails sensoriels
-   - Varier le vocabulaire
-   - Maintenir l'immersion
+2. Narration
+   - Développer l'atmosphère
+   - Renforcer les interactions
+   - Améliorer le rythme
 
-2. Dialogues
-   - Préserver les voix uniques
-   - Développer les personnalités
-   - Équilibrer information/émotion
+### Chapitre 7
+1. Dialogues
+   - Réduire les répétitions
+   - Renforcer l'individualité des voix
+   - Améliorer les transitions
 
-## Notes Techniques
-- Vérification systématique des majuscules
-- Attention aux répétitions
-- Maintien du niveau de langue
-- Cohérence des temps verbaux
-- Ponctuation des dialogues
+2. Conclusion
+   - Enrichir la description finale
+   - Renforcer l'anticipation
+   - Soigner la transition vers le tome suivant
 
-## Prochaines Étapes
-1. Relecture finale des quatre chapitres
-2. Vérification des transitions inter-chapitres
-3. Harmonisation des descriptions récurrentes
-4. Validation de la progression narrative
+## Recommandations Générales
+
+### Pour la Suite
+1. Maintenir la cohérence
+   - Style et ton
+   - Personnages et univers
+   - Éléments interactifs
+
+2. Développer
+   - Nouveaux mystères
+   - Relations entre personnages
+   - Univers de la forêt
+
+### Aspects Techniques
+1. Mise en page
+   - Équilibrer texte et espaces
+   - Prévoir les illustrations
+   - Harmoniser la présentation
+
+2. Typographie
+   - Utilisation des italiques
+   - Ponctuation des dialogues
+   - Format des activités
+
+## Notes Finales
+- Excellent potentiel de la série
+- Bonne interaction avec le lecteur
+- Structure narrative efficace
+- Base solide pour le tome suivant
