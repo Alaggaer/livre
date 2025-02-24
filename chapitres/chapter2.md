@@ -1,53 +1,51 @@
 # Chapitre 2 : La Plume Étrange
 
-Aussitôt dit, aussitôt fait, Lapin Blanc et Écureuil Gris commencèrent à examiner attentivement le sol autour du grand chêne. Il fallait chercher des indices.
+Lapin Blanc et Écureuil Gris commencèrent à examiner attentivement le sol autour du grand chêne. Il fallait absolument trouver des indices.
 
-Lapin Blanc et Écureuil Gris étaient toujours au pied du grand chêne.  Ils regardaient autour d'eux.  Il fallait chercher des indices.
+"Alors, Écureuil Gris," dit Lapin Blanc. "Des traces ? Tu vois quelque chose ?"
 
-"Alors, Écureuil Gris," dit Lapin Blanc.  "Des traces ?  Tu vois quelque chose ?"
+Écureuil Gris scrutait le sol avec attention, observant les feuilles, la terre, les racines. "Non... rien," dit-il tristement. "Juste des feuilles et de la terre. Comme avant."
 
-Écureuil Gris regardait par terre.  Il regardait les feuilles, la terre, les racines.  "Non... rien," dit-il tristement.  "Juste des feuilles et de la terre.  Comme avant."
+Lapin Blanc réfléchit en tournant ses longues oreilles et en reniflant l'air. "Hmm... Peut-être un peu plus loin ?" proposa-t-il. "Regardons autour de l'arbre. Le voleur a peut-être laissé quelque chose..."
 
-Lapin Blanc réfléchit.  Il tourna ses longues oreilles.  Il renifla l'air.  "Hmm...  Peut-être un peu plus loin ?" proposa-t-il.  "Regardons autour de l'arbre.  Peut-être que le voleur a laissé quelque chose..."
+Les deux amis entreprirent alors leurs recherches. Ils firent le tour du grand chêne, regardant sous les branches basses et inspectant les racines tordues. Leurs petits yeux attentifs ne laissaient échapper aucun détail.
 
-Alors, les deux amis commencèrent à chercher.  Ils firent le tour du grand chêne.  Ils regardèrent sous les branches basses.  Ils inspectèrent les racines tordues.  Ils cherchaient partout, avec leurs petits yeux attentifs.
+Soudain, Lapin Blanc s'arrêta net. "Écureuil Gris ! Regarde !"
 
-Soudain, Lapin Blanc s'arrêta.  "Écureuil Gris !  Regarde !"
+Il pointait quelque chose sous une grosse racine, un petit objet coloré qui brillait légèrement.
 
-Il montrait quelque chose du doigt, sous une grosse racine.  C'était petit et coloré.  Ça brillait un peu.
+Écureuil Gris s'approcha rapidement. En regardant ce que Lapin Blanc avait trouvé, il découvrit une plume. Mais pas une plume ordinaire.
 
-Écureuil Gris s'approcha vite.  Il regarda ce que Lapin Blanc avait trouvé.  C'était... une plume.  Mais pas une plume comme les autres.
+Elle était longue et fine, de la taille du doigt de Lapin Blanc, mais bien plus légère. Sa texture était douce et soyeuse au toucher, comme un duvet délicat. Ses couleurs étaient extraordinaires, jamais vues dans la forêt : un bleu ciel lumineux au bout, qui se transformait en rouge vif au milieu, puis se terminait en jaune d'or éclatant près de la base. Ces teintes vives et brillantes, presque magiques, scintillaient sous les rayons du soleil qui filtraient à travers les feuilles.
 
-Elle était longue et fine, aussi longue que le doigt de Lapin Blanc, mais bien plus légère. Sa texture était douce et soyeuse sous les doigts, comme une plume de duvet. Elle avait des couleurs vraiment étranges, jamais vues dans la forêt : un bleu ciel lumineux au bout, qui se changeait en un rouge vif au milieu, puis finissait en un jaune d'or éclatant près de la base. Des couleurs vives et brillantes, presque magiques, qui scintillaient à la lumière du soleil filtrant à travers les feuilles.
+"Oh, regarde !" dit Écureuil Gris, les yeux émerveillés. "Elle est magnifique, cette plume... On dirait un arc-en-ciel !"
 
-"Oh, regarde !"  dit Écureuil Gris, les yeux grands ouverts. "Elle est drôle, cette plume... On dirait un arc-en-ciel !"
+Lapin Blanc prit la plume délicatement entre ses pattes, avec beaucoup de précaution, comme s'il manipulait un trésor. Il l'examina sous tous les angles, plissant les yeux pour ne manquer aucun détail. "Oui," dit-il enfin, pensif. "Elle est vraiment extraordinaire. Tu crois que c'est... un signe ? Un indice ?"
 
-Lapin Blanc prit la plume délicatement entre ses pattes, avec beaucoup de précaution, comme si c'était un objet précieux. Il la tourna et la retourna, l'examinant sous tous les angles, plissant les yeux, concentré. "Oui," dit-il enfin, d'une voix pensive. "Elle est très bizarre, vraiment très bizarre.  Tu crois que c'est... un signe ? Un indice ?"
+Écureuil Gris haussa les épaules. Il ne savait pas. Mais trouver une plume si particulière au pied de son chêne... Ce ne pouvait pas être un hasard.
 
-Écureuil Gris haussa les épaules.  Il ne savait pas.  Mais une plume comme ça, au pied de son chêne...  C'était sûrement important.
+"Peut-être," suggéra-t-il. "Peut-être que le voleur l'a perdue ?"
 
-"Peut-être," dit Écureuil Gris.  "Peut-être que le voleur a perdu ça ?"
+"C'est possible," répondit Lapin Blanc en examinant encore la plume. "En tout cas, c'est étrange. On n'a jamais vu de plumes comme celle-ci dans la forêt. Il faut la garder précieusement. C'est peut-être notre premier indice pour retrouver tes glands !"
 
-"Peut-être," répondit Lapin Blanc.  Il regarda la plume encore une fois.  "En tout cas, c'est étrange.  On n'a jamais vu de plumes comme ça dans la forêt.  Il faut garder cette plume.  C'est peut-être notre premier indice pour retrouver tes glands !"
+Les deux amis se regardèrent. Le mystère des glands disparus devenait de plus en plus intrigant... Mais maintenant, ils avaient une piste : une plume mystérieuse. Que pouvait-elle leur apprendre ?
 
-Lapin Blanc garda précieusement la plume.  Les deux amis se regardèrent.  Le mystère des glands disparus devenait de plus en plus étrange...  Mais maintenant, ils avaient un début de piste.  Une plume mystérieuse.  Qu'allait-elle leur apprendre ?  L'aventure continuait...
+"Il faut montrer cette plume à quelqu'un," dit Lapin Blanc en relevant la tête d'un air décidé. "Olivia la chouette ! C'est elle qui connaît le mieux les histoires de la forêt. Elle en connaît tous les secrets."
 
-"Il faut montrer cette plume à quelqu'un," dit Lapin Blanc. Il releva la tête. Il était décidé. "Olivia la Chouette ! C'est elle celle qui connaît le mieux les histoires de la forêt. Elle connaît tous les secrets de la forêt."
+"Olivia la chouette..." murmura Écureuil Gris. Il aimait beaucoup Olivia, si douce et gentille, toujours prête à raconter de belles histoires. "Oui, allons la voir !" s'exclama-t-il avec un regain d'espoir. Avec Lapin Blanc et Olivia, ils trouveraient sûrement une solution.
 
-"Olivia la Chouette..." Écureuil Gris aimait bien Olivia. Elle était douce et gentille, et elle racontait toujours de belles histoires. "Oui, allons la voir !" dit Écureuil Gris. Il se sentait déjà un peu mieux. Avec Lapin Blanc et Olivia, ils allaient trouver une solution, c'est sûr.
+Les deux amis partirent ensemble, s'enfonçant dans la forêt. Le chemin montait vers la partie la plus ancienne, où les arbres étaient différents : plus vieux, plus grands, plus majestueux. Leurs branches immenses formaient une voûte qui laissait à peine passer la lumière, créant une atmosphère fraîche et mystérieuse.
 
-Alors, les deux amis partirent ensemble.  Ils quittèrent le grand chêne et s'enfoncèrent dans la forêt.  Le chemin montait, montait, vers la partie la plus ancienne de la forêt.  Les arbres ici étaient différents.  Plus vieux, plus grands, plus impressionnants.  Leurs branches Immenses cachaient presque tout le ciel.  Il faisait Plus sombre, plus frais, et plus mystérieux.
+En marchant, Lapin Blanc et Écureuil Gris restaient silencieux, attentifs aux bruits de la forêt : le vent dans les branches, le chant lointain d'un oiseau, et ce mystérieux *cric-crac-croc* qui résonnait toujours au loin. Écureuil Gris serrait la plume contre lui. Elle était douce et légère, mais portait le poids d'une énigme.
 
-En marchant, Lapin Blanc et Écureuil Gris ne disaient rien.  Ils écoutaient la forêt.  Le vent dans les branches, le chant lointain d'un oiseau, le *cric-crac-croc...* toujours plus loin, toujours Inconnu.  Écureuil Gris Serrait fort la plume dans sa patte.  Elle était douce et légère, mais elle portait un grand mystère.
+Après une bonne demi-heure de marche, ils arrivèrent au pied du Grand Chêne, l'arbre d'Olivia. C'était un géant parmi les arbres, plus ancien que tous les autres. Son tronc massif était couvert de mousse, et ses branches puissantes s'élevaient majestueusement vers le ciel. La maison d'Olivia se trouvait tout en haut, cachée dans le feuillage.
 
-Enfin, après une bonne demi-heure de marche, ils arrivèrent au pied du Grand Chêne.  C'était l'arbre d'Olivia.  Un arbre Géant, plus vieux que tous les autres arbres.  Son tronc était énorme et couvert de mousse.  Ses branches étaient comme des bras Forts qui Montaient vers le ciel.  La maison d'Olivia était tout en haut, invisible à travers les feuilles.
+Lapin Blanc leva la tête et appela : "Olivia ! C'est nous, Lapin Blanc et Écureuil Gris !"
 
-Lapin Blanc leva la tête et appela : "Olivia !  C'est nous, Lapin Blanc et Écureuil Gris !"
+Ils attendirent dans le silence de la forêt. Peut-être qu'Olivia dormait ? Ou qu'elle était sortie ? Écureuil Gris commençait à s'inquiéter.
 
-Ils attendirent.  Longtemps.  Le silence de la forêt Semblait répondre.  Peut-être qu'Olivia dormait ?  Peut-être qu'elle n'était pas là ?  Écureuil Gris commençait à Stresser de nouveau.
+Mais soudain, un son doux et profond résonna : *Hou-houuuuu...* Le hululement d'une chouette. Olivia était là !
 
-Mais soudain, ils entendirent un son doux et profond.  *Hou-houuuuu...*  Le hululement d'une chouette.  Olivia était là !
+Une voix douce et légèrement rauque descendit des hauteurs : "Qui m'appelle ? Mes petits amis ? Lapin Blanc ? Écureuil Gris ? Venez donc, je suis là-haut."
 
-Une voix douce et un peu rauque Descendit de la hauteur des arbres : "Qui m'appelle en bas ?  Mes petits amis ?  Lapin Blanc ?  Écureuil Gris ?  Venez donc par ici, je suis là-haut."
-
-Et deux grands yeux ronds et brillants apparurent dans l'ombre des branches.  Deux yeux ronds, doux et Intelligents.  Les yeux d'Olivia la Chouette.  Elle les regardait, déjà prête à les écouter et à les aider.  L'espoir Revint dans le cœur d'Écureuil Gris.  Olivia allait sûrement comprendre le mystère de la plume... et peut-être même celui des glands disparus...
+Deux grands yeux ronds et brillants apparurent dans l'ombre des branches. Des yeux doux et pleins de sagesse, les yeux d'Olivia la chouette. Elle les observait, déjà prête à les écouter et à les aider. L'espoir revint dans le cœur d'Écureuil Gris. Olivia comprendrait sûrement le mystère de la plume... et peut-être même celui des glands disparus...
