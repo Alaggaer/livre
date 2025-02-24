@@ -117,32 +117,26 @@ Points forts :
    - Renforcer l'anticipation
    - Soigner la transition vers le tome suivant
 
-## Recommandations Générales
+## Maquette de Mise en Page
 
-### Pour la Suite
-1. Maintenir la cohérence
-   - Style et ton
-   - Personnages et univers
-   - Éléments interactifs
+### Choix Validés
 
-2. Développer
-   - Nouveaux mystères
-   - Relations entre personnages
-   - Univers de la forêt
+*   **Format d'impression :** Album carré 21x21 cm
+*   **Police de titre (chapitres) :** Bangers (Google Fonts) - Ludique et enfantine
+*   **Police de texte courant :** Open Sans (Google Fonts) - Lisible et moderne
+*   **Style de mise en page :** Aéré et dynamique, touches de couleur légères, illustrations intégrées
 
-### Aspects Techniques
-1. Mise en page
-   - Équilibrer texte et espaces
-   - Prévoir les illustrations
-   - Harmoniser la présentation
+### Prochaines Étapes Maquette
 
-2. Typographie
-   - Utilisation des italiques
-   - Ponctuation des dialogues
-   - Format des activités
+1.  **Validation de la maquette du chapitre 1 par l'utilisateur** (fichier `livre/maquette/chapitre1_maquette.html`)
+2.  **Ajustements éventuels de la maquette** selon les retours
+3.  **Application de la maquette à l'ensemble des chapitres**
+4.  **Intégration des illustrations** (brief à finaliser)
+5.  **Préparation des fichiers PDF pour impression**
 
-## Notes Finales
-- Excellent potentiel de la série
-- Bonne interaction avec le lecteur
-- Structure narrative efficace
-- Base solide pour le tome suivant
+## Notes Techniques
+- Vérification systématique des majuscules
+- Attention aux répétitions
+- Maintien du niveau de langue
+- Cohérence des temps verbaux
+- Ponctuation des dialogues
