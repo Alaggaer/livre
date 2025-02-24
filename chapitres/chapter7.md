@@ -24,4 +24,20 @@ Lapin Blanc et Écureuil Gris restèrent un moment silencieux, réfléchissant �
 
 Le chemin serait long et peut-être dangereux, mais Lapin Blanc et Écureuil Gris étaient prêts à tout pour retrouver leurs glands et découvrir la vérité derrière ce mystère.  Leur aventure ne faisait que commencer, et ils étaient déterminés à la mener jusqu'au bout, ensemble.
 
-[Début de la réflexion sur la nouvelle information d'Olivia, en lien avec la clairière et la coccinelle voyageuse]
+## La Réflexion sur la Nouvelle Information
+
+Lapin Blanc et Écureuil Gris se remémorèrent la nouvelle information d'Olivia : "La coccinelle voyageuse, la clairière cachée..."  Ils essayèrent de comprendre son importance et de voir où cela les mènerait.
+
+"Réfléchissons," dit Lapin Blanc, son regard fixé sur l'horizon.  "Olivia a dit que la coccinelle voyageuse est capable de retrouver les objets perdus...  Et elle vit dans une clairière cachée, au-delà des montagnes...  Peut-être que, là-bas, nous trouverons des indices supplémentaires pour découvrir le voleur de nos glands !"
+
+Écureuil Gris hocha la tête, réfléchissant.  "Mais oui, Lapin Blanc...  Une clairière cachée...  Un endroit où une coccinelle voyageuse pourrait avoir vu nos glands...  Peut-être qu'elle les a cachés quelque part, pour les protéger du voleur !"
+
+Lapin Blanc et Écureuil Gris restèrent un moment silencieux, perdu dans leurs pensées.  La coccinelle voyageuse, la clairière cachée...  Ils avaient maintenant une piste pour retrouver leurs glands perdus.
+
+"Maintenant, nous devons nous rendre dans cette clairière mystérieuse," décida Lapin Blanc, son regard fixé sur l'horizon.  "Et peut-être, là-bas, nous trouverons des indices supplémentaires pour découvrir le voleur."
+
+Écureuil Gris hocha la tête, excité à l'idée de cette nouvelle aventure.  "Oui, Lapin Blanc !  Allons-y ensemble, et cette fois, nous ne laisserons rien au hasard !"
+
+Le chemin serait long et peut-être dangereux, mais Lapin Blanc et Écureuil Gris étaient prêts à tout pour retrouver leurs glands et découvrir la vérité derrière ce mystère.  Leur aventure ne faisait que commencer, et ils étaient déterminés à la mener jusqu'au bout, ensemble.
+
+[Début de l'exploration de la forêt, en lien avec la nouvelle information d'Olivia]
