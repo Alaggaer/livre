@@ -19,15 +19,27 @@ Une plume mystérieuse aux couleurs de l'arc-en-ciel, trouvée près de l'arbre 
 ## L'Énigme d'Olivia
 
 ### Formulation
-[À développer : l'énigme exacte que donne Olivia aux amis]
+"Je viens de loin, porté par le vent,
+Sur les feuilles, je glisse doucement.
+Petit Matelot en Herbe je suis,
+Mes couleurs ne viennent ni de la pluie,
+Ni du soleil qui brille là-haut,
+Mais d'un secret bien plus beau.
+Pour me trouver, cherchez la trace
+De l'arc-en-ciel qui jamais ne passe."
 
 ### Éléments Clés
-- Référence au "Matelot en Herbe"
+- Référence au "Matelot en Herbe" (la coccinelle)
 - Mention des couleurs de l'arc-en-ciel
 - Indice sur l'origine lointaine
+- Référence au mouvement sur les feuilles
 
 ### Solution
-[À développer : la résolution de l'énigme]
+La coccinelle magique :
+- Se déplace sur les feuilles comme un matelot
+- Possède des couleurs d'arc-en-ciel naturelles
+- Est liée à la disparition des glands
+- Vit dans une clairière enchantée
 
 ## Structure des Énigmes
 

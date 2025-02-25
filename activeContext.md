@@ -1,72 +1,87 @@
 # Active Context - Livre pour enfants (3-5 ans)
 
-## Plan détaillé des chapitres
+## État Actuel du Projet
 
-### Structure globale
-- Fil conducteur : Une série de disparitions mystérieuses
-- Progression : Alternance forêt/ville
-- Résolution : Découverte de Carlos le Coati et aide à son installation
+### Texte
+- Histoire complète et validée
+- Dialogues finalisés
+- Éléments interactifs intégrés
+- Structure narrative établie
 
-### Chapitres détaillés
+### Illustrations
+#### Personnages
+- Illustrations de base terminées :
+  * Écureuil Gris
+  * Lapin Blanc
+  * Olivia la Chouette
+- Retouches effectuées
+- Prêts pour intégration
 
-1. **Chapitre 1 : Le mystère commence**
-   - Disparition des glands dans la forêt
-   - Impact direct sur Écureuil Gris
-   - Introduction du bruit étrange
+#### Scènes Chapitre 1
+1. **La Forêt à l'Aube**
+   - Brief détaillé ✅
+   - Illustration générée et traitée ✅ 
+    - Prête pour tests d'impression
 
-2. **Chapitre 2 : Premier indice**
-   - Découverte d'une plume inhabituelle
-   - Près de l'endroit où les glands ont disparu
-   - Premier élément mystérieux
+2. **Le Trou Vide**
+   - Brief détaillé ✅
+   - Illustration générée et traitée ✅
+    - Prête pour tests d'impression
 
-3. **Chapitre 3 : Une amie sage**
-   - Rencontre avec Olivia la Chouette
-   - Sage de la forêt qui a tout vu
-   - Nouvelles perspectives sur le mystère
+3. **L'Arrivée de Lapin Blanc**
+   - Brief détaillé ✅
+   - Illustration générée et traitée ✅
+    - Prête pour tests d'impression
 
-4. **Chapitre 4 : L'énigme de la Chouette**
-   - Olivia donne une énigme
-   - Indices sur la cause des disparitions
-   - Approfondissement du mystère
+4. **Le Bruit Mystérieux**
+   - Brief détaillé ✅
+   - Illustration générée et traitée ✅
+    - Prête pour tests d'impression
 
-5. **Chapitre 5 : Des conséquences**
-   - Hérisson tombe malade
-   - Manque de nourriture
-   - Impact des disparitions sur la communauté
+### Technique
+- Format établi (21x21 cm)
+- Résolution définie (300 dpi)
+- Pipeline de retouches opérationnel
+- Workflow de validation en place
 
-6. **Chapitre 6 : Le mystère s'étend**
-   - Découverte de disparitions en ville
-   - Graines des mangeoires à oiseaux
-   - Extension du mystère à un nouveau décor
+## Focus Actuel
 
-7. **Chapitre 7 : Un indice lumineux**
-   - Découverte d'un champignon lumineux
-   - Près des mangeoires vides
-   - Nouvel indice mystérieux
+### Court Terme
+1. Effectuer les tests d'impression
+2. Préparer la maquette d'intégration
+3. Préparer l'intégration texte/image
 
-8. **Chapitre 8 : L'ami des rues**
-   - Rencontre avec Chester le Chat
-   - Observateur de la ville
-   - Nouvelle perspective urbaine
+### Moyen Terme
+1. Compléter les illustrations du chapitre 1
+2. Réaliser les tests d'impression
+3. Préparer la maquette finale
 
-9. **Chapitre 9 : Les traces révélatrices**
-   - Chester révèle des traces d'animaux
-   - Lien entre forêt et ville
-   - Les indices convergent
+## Décisions Actives
+- Style graphique doux et accueillant
+- Palette de couleurs naturelle avec touches magiques
+- Équilibre mystère/réassurance
+- Interactivité adaptée à l'âge
 
-10. **Chapitre 10 : La grande révélation**
-    - Découverte de Carlos le Coati
-    - Compréhension de sa quête familiale
-    - Résolution communautaire et entraide
+## Points de Vigilance
+1. Maintenir la cohérence entre les scènes
+2. Assurer la lisibilité à chaque étape
+3. Préserver l'engagement du lecteur
+4. Garder l'équilibre émotionnel
 
-## État actuel du développement
-- Concept global défini
-- Structure des chapitres établie
-- Personnages principaux développés
-- Fil conducteur établi
+## Prochaines Étapes
+1. Valider la première scène
+2. Lancer la production de la deuxième scène
+3. Préparer les tests d'impression
+4. Planifier l'intégration texte/image
 
-## Prochaines étapes
-- Développer les dialogues et interactions entre personnages
-- Détailler les descriptions des environnements (forêt/ville)
-- Affiner les énigmes et indices
-- Commencer l'écriture détaillée du chapitre 1
+## Notes Importantes
+- Public cible : 3-5 ans
+- Série potentielle à considérer
+- Aspects pédagogiques à maintenir
+- Produits dérivés possibles
+
+## Validations en Attente
+- [ ] Scène 1 finale
+- [ ] Tests d'impression
+- [ ] Intégration texte/image
+- [ ] Maquette complète
