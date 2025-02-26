@@ -13,7 +13,7 @@ Lapin Blanc, plus sérieux, examinait la plume sous tous les angles. "'Couleur d
 
 Écureuil Gris frissonna. "Aucun oiseau de la forêt n'a de plumes comme ça ! Tu crois que c'est magique ?"
 
-"Peut-être pas magique..." Lapin Blanc réfléchissait. "Mais sûrement très spéciale.  Peut-être qu'elle vient de loin, d'un endroit secret ?"
+"Peut-être pas magique..." Lapin Blanc réfléchissait. "Mais sûrement très spéciale. Peut-être qu'elle vient de loin, d'un endroit secret ?"
 
 *Imagine un lieu secret d'où pourrait venir cette plume. Décris-le dans ton carnet d'aventurier !*
 
@@ -25,17 +25,15 @@ Intrigué, Écureuil Gris s'approcha. De minuscules marques sombres formaient un
 
 Alors qu'ils déchiffraient ensemble les symboles minuscules, Écureuil Gris eut une illumination. "Lapin Blanc ! Ces points noirs, ces ronds... ça ne te fait penser à rien ?"
 
-Lapin Blanc plissa les yeux, observant les marques.  Et soudain, son visage s'illumina.
+Lapin Blanc plissa les yeux, observant les marques. Et soudain, son visage s'illumina.
 
 "Mais oui ! Des points de coccinelle !"
 
 *Bravo ! As-tu trouvé la réponse avant eux ? Explique pourquoi la coccinelle répond parfaitement à l'énigme.*
 
-"Des points de coccinelle ?"  Écureuil Gris était perdu. "Quel est le rapport avec l'énigme, alors ?"
+"Des points de coccinelle ?" Écureuil Gris était perdu. "Quel est le rapport avec l'énigme, alors ?"
 
 "Réfléchis, Écureuil Gris !" Lapin Blanc trépignait d'impatience. "Olivia a dit 'couleur d'arc-en-ciel qui n'est ni la pluie ni le soleil' ! La plume est multicolore, mais ce n'est pas un arc-en-ciel normal ! Et les coccinelles, Écureuil Gris ! Elles ont des couleurs vives, rouge, jaune, orange... Un vrai petit arc-en-ciel sur leur dos ! Et ces couleurs ne viennent ni de la pluie, ni du soleil !"
-
-## La Coccinelle, Solution Mystérieuse
 
 Les yeux d'Écureuil Gris s'arrondirent. "Incroyable ! 'Matelot en Herbe'... Une mini-bête qui voyage sur les plantes, comme un bateau sur l'eau... Une coccinelle ! Et ses couleurs d'arc-en-ciel, ce sont ses jolis points !"
 
