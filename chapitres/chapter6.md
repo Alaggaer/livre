@@ -1,4 +1,4 @@
-# Chapitre 6 : La Clairière Enchantée
+# Chapitre 6
 
 *Imagine un instant la plus belle clairière que tu puisses rêver. Quelles couleurs jaillissent ? Quels sons mélodieux emplissent l'air ?*
 
