@@ -23,10 +23,10 @@ def enhance_colors(img, colors):
 
 def apply_atmospheric_effects(img, scene_type):
     """Appliquer les effets atmosphériques"""
-    if "foret_aube" in scene_type:
-        # Effet de brume matinale
-        blur = img.filter(ImageFilter.GaussianBlur(radius=1))
-        return Image.blend(img, blur, 0.3)
+    #if "foret_aube" in scene_type:
+    #    # Effet de brume matinale
+    #    blur = img.filter(ImageFilter.GaussianBlur(radius=1))
+    #    return Image.blend(img, blur, 0.3)
     return img
 
 def process_scene(input_path, output_path, scene_metadata):
@@ -51,8 +51,8 @@ def process_scene(input_path, output_path, scene_metadata):
         img = apply_atmospheric_effects(img, scene_type)
         
         # Couleurs selon le style guide
-        if "styleGuide" in scene_metadata and "colors" in scene_metadata["styleGuide"]:
-            img = enhance_colors(img, scene_metadata["styleGuide"]["colors"])
+        #if "styleGuide" in scene_metadata and "colors" in scene_metadata["styleGuide"]:
+        #    img = enhance_colors(img, scene_metadata["styleGuide"]["colors"])
         
         # Vérifier/ajuster la résolution pour l'impression
         required_dpi = 300
@@ -72,20 +72,21 @@ def process_scene(input_path, output_path, scene_metadata):
 
 def extract_scene_name(filename):
     """Extraire le nom de la scène du nom de fichier"""
-    # Pattern pour matcher le nom de la scène dans le nom de fichier
-    pattern = r"scene_chapitre1_([^_]+_[^_]+)_"  # Modifié pour capturer le nom complet
+    # Pattern pour matcher plume_indice ou chapitre1_*
+    pattern = r"scene_(?:chapitre1_)?([^_]+(?:_[^_]+)?)_"
     match = re.search(pattern, filename)
     if match:
         scene_name = match.group(1)
-        # Convertir en format attendu par les métadonnées
-        scene_key = f"chapitre1_{scene_name}"
-        print(f"Nom de scène extrait : {scene_key}")
-        return scene_key
+        # Ajouter le préfixe chapitre1_ si nécessaire
+        if scene_name not in ["plume_indice"]:
+            scene_name = f"chapitre1_{scene_name}"
+        print(f"Nom de scène extrait : {scene_name}")
+        return scene_name
     return None
 
 def process_chapter_scenes(raw_dir, processed_dir):
     """Traiter toutes les scènes du chapitre"""
-    print("\nTraitement des scènes du chapitre 1...")
+    print("\nTraitement des scènes...")
     
     # Charger les métadonnées
     metadata = load_metadata()
@@ -99,23 +100,23 @@ def process_chapter_scenes(raw_dir, processed_dir):
     
     # Traiter chaque scène finale
     input_dir = Path(raw_dir)
-    for input_file in input_dir.glob("scene_chapitre1_*_final_*.png"):
-        scene_key = extract_scene_name(input_file.name)
+    for input_file in input_dir.glob("scene_*_final_*.png"):
+        scene_name = extract_scene_name(input_file.name)
         
-        if scene_key and scene_key not in processed_scenes:
-            if scene_key in scenes_metadata:
-                processed_scenes.add(scene_key)
+        if scene_name and scene_name not in processed_scenes:
+            if scene_name in scenes_metadata:
+                processed_scenes.add(scene_name)
                 
                 # Générer le nom du fichier de sortie
-                scene_name = scene_key.split("_", 1)[1]  # Retirer "chapitre1_"
-                output_name = f"scene_{scene_name}_processed.png"
+                base_name = scene_name.replace("chapitre1_", "")
+                output_name = f"scene_{base_name}_processed.png"
                 output_path = Path(processed_dir) / output_name
                 
                 # Traiter la scène
-                process_scene(str(input_file), str(output_path), scenes_metadata[scene_key])
-                print(f"Scène traitée : {scene_key}")
+                process_scene(str(input_file), str(output_path), scenes_metadata[scene_name])
+                print(f"Scène traitée : {scene_name}")
             else:
-                print(f"Métadonnées non trouvées pour la scène : {scene_key}")
+                print(f"Métadonnées non trouvées pour la scène : {scene_name}")
 
 if __name__ == "__main__":
     # Chemins des dossiers

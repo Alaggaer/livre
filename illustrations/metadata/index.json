@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-02-25T14:29:56Z",
+  "lastUpdated": "2025-02-25T21:03:00Z",
   "images": {},
   "collections": {
     "personnages": {
@@ -28,6 +28,52 @@
                 "queue touffue",
                 "grands yeux",
                 "expression vive"
+              ]
+            }
+          }
+        }
+      },
+      "lapin_blanc": {
+        "name": "Lapin Blanc",
+        "description": "Personnage secondaire, sage et rassurant",
+        "versions": [],
+        "metadata": {
+          "basePrompt": "wise white rabbit character for children's book, soft colors, simple shapes, gentle expression, kind eyes, children's illustration style --style raw",
+          "styleGuide": {
+            "colors": {
+              "principal": "#FFFFFF",
+              "secondaire": "#F0F0F0",
+              "details": "#D3D3D3"
+            },
+            "proportions": {
+              "taille_relative": 1,
+              "caracteristiques": [
+                "longues oreilles",
+                "yeux doux",
+                "posture droite"
+              ]
+            }
+          }
+        }
+      },
+      "olivia_chouette": {
+        "name": "Olivia Chouette",
+        "description": "Personnage secondaire, bibliothécaire sage",
+        "versions": [],
+        "metadata": {
+          "basePrompt": "wise owl librarian character for children's book, glasses, books, soft colors, simple shapes, gentle expression, children's illustration style --style raw",
+          "styleGuide": {
+            "colors": {
+              "principal": "#8B4513",
+              "secondaire": "#DEB887",
+              "details": "#A0522D"
+            },
+            "proportions": {
+              "taille_relative": 0.9,
+              "caracteristiques": [
+                "lunettes rondes",
+                "air savant",
+                "plumage doux"
               ]
             }
           }
@@ -150,13 +196,51 @@
             "period": "fin de journée"
           }
         }
+      },
+      "plume_indice": {
+        "name": "Plume Indice",
+        "description": "Une plume colorée, premier indice trouvé par les personnages",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T20:04:19.643Z",
+            "version": "v1",
+            "prompt": "**colorful feather children's book style detailed feather texture soft light magical atmosphere simple shapes, white background, non-threatening, age 3-5 appropriate --style raw** - Image #2 <@1003899143019839559>"
+          },
+          {
+            "timestamp": "2025-02-25T20:09:06.363Z",
+            "version": "v1",
+            "prompt": "**colorful feather children's book style, detailed feather texture, soft light, magical atmosphere, simple shapes, white background, non-threatening, age 3-5 appropriate --style raw** - Image #1 <@1003899143019839559>"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "colorful feather children's book style, detailed feather texture, soft light, magical atmosphere, simple shapes, white background, non-threatening, age 3-5 appropriate --style raw",
+          "styleGuide": {
+            "colors": {
+              "plume_principal": "#FFD700",
+              "plume_secondaire": "#FFA07A",
+              "fond": "#FFFFFF"
+            },
+            "elements": {
+              "premier_plan": [
+                "plume colorée",
+                "lumière douce"
+              ],
+              "arriere_plan": [
+                "fond blanc uni",
+                "ambiance magique"
+              ]
+            },
+            "ambiance": "douce et mystérieuse",
+            "period": "journée"
+          }
+        }
       }
     }
   },
   "stats": {
-    "totalImages": 9,
+    "totalImages": 11,
     "totalVersions": 0,
-    "lastGenerated": "2025-02-25T14:31:54.133Z"
+    "lastGenerated": "2025-02-25T20:09:06.363Z"
   },
   "settings": {
     "defaultStyle": "raw",
