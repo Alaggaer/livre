@@ -1,0 +1,80 @@
+# Règles et Patterns du Projet
+
+## Patterns d'Illustration IA
+
+### Structure des Prompts
+1. Design de Base
+```
+((character type)), Pixar style 3D animation, [caractéristiques principales], pure white background
+```
+
+2. Expressions
+```
+((character with expression)), Pixar style 3D animation, [expression détails], --cref [base character URL]
+```
+
+3. Scènes
+```
+((scene description)), Pixar style 3D animation, [éléments de scène], pure white background --ar 16:9
+```
+
+### Paramètres Standards
+- Format Portrait: --ar 1:1
+- Format Paysage: --ar 16:9
+- Qualité: --s 750 --q 2
+- Version: --v 6.0
+
+### Patterns de Style
+1. Personnages
+- Style Pixar cohérent
+- Expressions claires et lisibles
+- Design adapté 3-5 ans
+- Proportions équilibrées
+
+2. Scènes
+- Composition simple et claire
+- Éclairage doux et chaleureux
+- Couleurs automnales
+- Détails adaptés à l'âge
+
+## Organisation des Fichiers
+
+### Structure
+```
+illustrations/
+├── personnages/
+│   ├── [nom_personnage]/
+│   │   ├── finals/
+│   │   └── development.md
+├── scenes/
+│   ├── chapitre[X]/
+│   │   ├── finals/
+│   │   └── README.md
+└── progress.md
+```
+
+### Conventions de Nommage
+- Fichiers bruts: `[description]_v[X]_[timestamp]`
+- Fichiers finaux: `[type]_[nom]_[version]`
+- Documentation: Toujours en markdown
+
+## Leçons Apprises
+
+### Génération d'Images
+1. Toujours commencer par le design de base
+2. Utiliser --cref pour la cohérence
+3. Générer expression par expression
+4. Tester les scènes en format paysage
+
+### Workflow Optimal
+1. Design personnage principal
+2. Variations d'expression
+3. Poses d'action
+4. Scènes de base
+5. Interactions entre personnages
+
+### Points d'Attention
+- Maintenir la taille des éléments cohérente
+- Éviter les détails trop complexes
+- Privilégier les expressions claires
+- Documenter les prompts réussis
