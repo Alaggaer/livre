@@ -13,7 +13,7 @@
 ✅ Design des personnages principaux
 ✅ Palettes de couleurs définies
 ✅ Traitement des illustrations
-- [ ] Validation finale
+✅ Validation finale
 
 #### Scènes
 ✅ Maquette complète
@@ -29,6 +29,22 @@
 ✅ Le mystérieux bruit (générée et traitée)
 ✅ Post-production et retouches complétées
 
+## Chapitre 2 : La Plume Étrange
+
+### Texte
+✅ Histoire complète
+✅ Dialogues finalisés
+✅ Éléments interactifs intégrés
+✅ Révision éditoriale
+
+### Illustrations
+#### Scènes Principales
+✅ Clairière enchantée
+✅ Scène coccinelle avec gland
+✅ Découverte de la plume arc-en-ciel
+✅ Appel à Olivia dans l'arbre
+🟨 Olivia apparaît avec les biscuits (en cours)
+
 ### Mise en Page
 ✅ Format défini (21x21 cm)
 ✅ Gabarits créés
@@ -39,15 +55,16 @@
 ## Prochaines Étapes
 
 ### Court Terme
-1. Effectuer les tests d'impression
-2. Préparer la maquette d'intégration
-3. Intégrer texte et illustrations
+1. Finaliser la dernière scène du chapitre 2
+2. Compléter la post-production des illustrations
+3. Préparer la maquette d'intégration
+4. Intégrer texte et illustrations
 
 ### Moyen Terme
 1. Finaliser la mise en page complète
-2. Intégrer texte et illustrations
-3. Réaliser les tests d'impression
-4. Préparer les fichiers pour l'impression
+2. Réaliser les tests d'impression
+3. Préparer les fichiers pour l'impression
+4. Planifier le chapitre 3
 
 ## Points d'Attention
 - Maintenir la cohérence entre les scènes
@@ -75,6 +92,7 @@
 
 ## Planning
 - Février : Illustrations chapitre 1 ✅
+- Février-Mars : Illustrations chapitre 2 (90% ✅)
 - Mars : Mise en page et tests
 - Avril : Corrections et ajustements
 - Mai : Fichiers finaux pour impression
