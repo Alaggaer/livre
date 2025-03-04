@@ -21,9 +21,9 @@ Olivia hocha lentement sa tête ronde. "Oui, mon ami. Les rires de la forêt ont
 Soudain, un craquement de branches fit sursauter Écureuil Gris.
 *(Fais semblant d'avoir peur !)*
 
-C'était Henri l'hippopotame qui arrivait, l'air tout triste. Lui qui riait toujours si fort, il marchait maintenant sur la pointe des pieds, comme s'il avait peur de faire du bruit.
+Une grande silhouette massive apparut entre les arbres : c'était Henri l'hippopotame à la peau grise et lisse, qui d'habitude avançait d'un pas joyeux en faisant trembler le sol. Mais aujourd'hui, l'air tout triste, ses grandes oreilles baissées et ses yeux habituellement rieurs maintenant éteints, il marchait sur la pointe des pieds, comme s'il avait peur de faire du bruit.
 
-"Mes amis," dit Henri tout doucement, les yeux embués de tristesse, "mon rire... il a disparu ! Je ne peux plus rire du tout !  Et sans mon rire joyeux, j'ai l'impression de ne plus être vraiment moi..."
+"Mes amis," dit Henri tout doucement, les yeux embués de tristesse, "mon rire... il a disparu ! Je ne peux plus rire du tout ! Et sans mon rire joyeux, j'ai l'impression de ne plus être vraiment moi..."
 
 Pour le tester, Écureuil Gris essaya de chatouiller Henri avec sa queue toute douce.
 *(Fais des chatouilles dans l'air !)*
@@ -32,11 +32,11 @@ Mais rien ne se passa. Pas même un petit sourire.
 
 "Il faut faire quelque chose !" s'exclama Écureuil Gris. "Une forêt sans rires, ce n'est plus une forêt !"
 
-Olivia la Chouette réfléchit un moment, puis dit mystérieusement : "J'ai peut-être une idée... Regardez par terre !"
+Olivia la Chouette réfléchit un moment, puis ses yeux s'illuminèrent soudain. "Attendez... Il y a quelque chose d'étrange par terre. Regardez !"
 
 *(Regarde bien l'image... Que vois-tu qui brille ?)*
 
-À leurs pieds, une fine poudre brillante formait une piste qui s'enfonçait dans la forêt...  Un besoin urgent de retrouver la joie de vivre anima soudain nos amis, les poussant à suivre cette piste mystérieuse.
+À leurs pieds, une lueur mystérieuse attirait leur attention. En se penchant plus près, ils découvrirent une fine poudre argentée qui scintillait doucement dans l'ombre, comme des milliers de minuscules étoiles tombées du ciel. Cette poudre magique formait une piste qui s'enfonçait dans la forêt, comme si elle les invitait à la suivre. Un besoin urgent de retrouver la joie de vivre anima soudain nos amis.
 
 🎵 *Une piste qui scintille, (a)
 Un mystère à suivre, (b)
