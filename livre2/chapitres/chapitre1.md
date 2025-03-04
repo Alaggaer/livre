@@ -4,7 +4,7 @@
 *(Fais onduler ta main comme la queue d'Écureuil !)*
 
 Sur une branche pas très loin, il aperçut Olivia la Chouette. Ses grands yeux dorés étaient tout ronds de surprise.
-"Olivia !" chuchota Écureuil Gris, "Tu as remarqué ?"
+"Olivia," chuchota Écureuil Gris, "tu as remarqué ?"
 
 🎵 *Plus de rires dans les arbres, (a)
 Plus de chants dans le vent, (b)
@@ -14,9 +14,9 @@ Qui nous rend tout tremblants !* (b)
 Olivia hocha lentement sa tête ronde. "Oui, mon ami. Les rires de la forêt ont disparu."
 
 *(Cherchons ensemble les sons manquants !)*
-- Le rire des oiseaux : "Hi-hi-hi" *(essaie de rire comme un oiseau)*
-- Le gloussement des lapins : "Ho-ho-ho" *(ris comme un lapin)*
-- Même le gros rire d'Henri l'hippopotame : "HA-HA-HA" *(fais le plus gros rire possible)*
+- Le rire des oiseaux : « Hi-hi-hi » *(essaie de rire comme un oiseau)*
+- Le gloussement des lapins : « Ho-ho-ho » *(ris comme un lapin)*
+- Même le gros rire d'Henri l'hippopotame : « HA-HA-HA » *(fais le plus gros rire possible)*
 
 Soudain, un craquement de branches fit sursauter Écureuil Gris.
 *(Fais semblant d'avoir peur !)*

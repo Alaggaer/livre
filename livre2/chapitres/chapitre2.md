@@ -2,7 +2,7 @@
 
 [Suite...]
 
-Laissant derrière eux l'arbre familier d'Écureuil Gris, nos amis se lancèrent à la suite de la piste scintillante. La poudre brillante guidait leurs pas dans l'obscurité de la forêt, maintenant plongée dans le silence de la nuit.
+S'élançant à la suite de la piste scintillante, nos amis laissèrent derrière eux l'arbre familier d'Écureuil Gris. La poudre brillante guidait leurs pas dans l'obscurité de la forêt, maintenant plongée dans le silence de la nuit.
 
 *(Imagine la forêt silencieuse et mystérieuse la nuit)*
 
@@ -20,7 +20,7 @@ George le cerf les observait de ses yeux sombres et doux, une expression de calm
 
 Olivia s'avança prudemment. "Monsieur George," dit-elle respectueusement, "les rires de la forêt ont disparu, et Henri ne peut plus rire du tout ! Pouvez-vous nous aider ?"
 
-George le Cerf hocha lentement la tête. "Le mystère des rires est profond, mais je peux vous guider un peu... Suivez-moi. Mais avant, dites-moi, pourquoi est-ce si important pour vous de retrouver ces rires ?"
+George le Cerf hocha lentement la tête. "Le mystère des rires est profond, mais je peux vous guider un peu. Suivez-moi. Mais avant, dites-moi, pourquoi est-ce si important pour vous de retrouver ces rires ?"
 
 Écureuil Gris frétilla légèrement de sa queue. "Parce que..." commença-t-il, "parce que les rires, c'est... c'est la joie de la forêt ! Sans rires, tout est triste et gris."
 
@@ -44,7 +44,7 @@ George le cerf les écouta avec attention, puis un léger sourire illumina son v
 
 George sourit mystérieusement. "Écoutez votre cœur, mes amis. Et suivez la piste scintillante. Elle seule peut vous guider."
 
-Se lançant à nouveau sur la piste lumineuse, ils arrivèrent bientôt au bord d'une rivière majestueuse. Ses eaux cristallines dansaient sous la lumière de la lune, créant une douce mélodie. On aurait dit que l'eau elle-même chantait une berceuse à la forêt endormie. De petites cascades scintillantes parsemaient son cours, ajoutant leurs notes argentées à cette symphonie nocturne. C'était la Rivière Chantante, dont la musique enchantait tous ceux qui s'approchaient de ses rives.
+S'aventurant plus loin dans la forêt, ils arrivèrent bientôt au bord d'une rivière majestueuse. Ses eaux cristallines dansaient sous la lumière de la lune, créant une douce mélodie. On aurait dit que l'eau elle-même chantait une berceuse à la forêt endormie. De petites cascades scintillantes parsemaient son cours, ajoutant leurs notes argentées à cette symphonie nocturne. C'était la Rivière Chantante, dont la musique enchantait tous ceux qui s'approchaient de ses rives.
 
 *(Écoute le doux murmure de l'eau qui coule)*
 

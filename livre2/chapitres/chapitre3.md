@@ -14,7 +14,7 @@ Dépassant la Rivière Chantante, George le cerf guida Écureuil Gris, Olivia et
 
 Un picvert au plumage vert vif et à la tête rouge jaillit d'un tronc d'arbre, suspendu la tête en bas. Ses yeux pétillaient de malice.
 
-"Bonjour, bonjour, bonjour !" lança le picvert d'une voix rapide et saccadée. "Perdus, vous êtes perdus ? Cherchez-vous quelque chose de perdu, peut-être... vos rires perdus, oui, oui, oui !" Et il se mit à rire d'un rire moqueur et pointu, qui ressemblait à des petits coups de becs sur du bois sec : PI-HI-HI !
+"Bonjour, bonjour, bonjour !" lança le picvert d'une voix rapide et saccadée. "Perdus, vous êtes perdus ? Cherchez-vous quelque chose de perdu, peut-être... vos rires perdus, oui, oui, oui !" Et il se mit à rire d'un rire moqueur et pointu, qui ressemblait à des petits coups de becs sur du bois sec : « PI-HI-HI ! »
 
 *(Essaie de rire comme un picvert moqueur : PI-HI-HI !)*
 
@@ -31,7 +31,7 @@ Et il se remit à rire de son rire pointu, laissant nos amis perplexes face à c
 > **Qu'est-ce qui devient plus grand,**
 > **Quand on en enlève un morceau ?**
 
-*(Répète la devinette à voix haute, en pause entre les vers)*
+*(Répète la devinette à voix haute, en faisant une pause entre les vers)*
 
 Le picvert les observait de ses yeux malicieux, attendant leur réponse avec impatience.
 
