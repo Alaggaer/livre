@@ -26,14 +26,20 @@ Et il se remit à rire de son rire pointu, laissant nos amis perplexes face à c
 
 "Une devinette ?" demanda Olivia, inclinant la tête.
 
-"Oui, oui, une devinette !" piailla le picvert en voletant nerveusement autour d'eux. "Écoutez bien, écoutez bien ma petite chanson, et répondez à ma question :
+"Oui, oui, une devinette !" piailla le picvert en voletant nerveusement autour d'eux. "Écoutez bien ma petite chanson magique :
 
-🎵
-> **Qu'est-ce qui devient plus grand, (a)**
-> **Quand on en enlève un morceau ? (b)**
+🎵 *Toc toc toc sur le bois, (a)
+Écoutez bien cette fois, (a)
+Je vais vous poser, (b)
+Une énigme cachée !* (b)
+
+> **Qu'est-ce qui devient plus grand, (a)
+> Quand on en enlève un morceau ? (b)
+> Cherchez la réponse, mes amis, (c)
+> Dans le calme et le repos !** (b)
 🎵
 
-*(Répète la devinette à voix haute, en faisant une pause entre les vers)*
+*(Répète la devinette en tapant le rythme : TOC-TOC sur tes genoux !)*
 
 Le picvert les observait de ses yeux malicieux, attendant leur réponse avec impatience.
 
@@ -65,11 +71,13 @@ Le picvert farceur, qui avait observé la scène avec curiosité, arrêta son ri
 
 "Hi hi... Pas mal, pas mal du tout !" dit le picvert, visiblement impressionné. "Oui, c'est bien ça, la réponse à ma grande devinette : c'est le silence ! Vous avez compris que parfois, il faut savoir écouter le rien pour entendre quelque chose. Vous êtes plus malins que vous n'en avez l'air, finalement ! Hi hi !"
 
-Et, surprise, il éclata d'un nouveau petit rire aigu, moins moqueur cette fois, presque... admiratif. Puis, bondissant de branche en branche, il disparut un instant dans le feuillage. Quand il revint, d'un coup d'aile vif, il se posa juste devant Écureuil Gris. Entre ses pattes, il tenait précieusement... une petite feuille d'arbre, soigneusement pliée.
+Et, surprise, il éclata d'un nouveau petit rire aigu, moins moqueur cette fois, presque... admiratif. Puis, bondissant de branche en branche, il disparut un instant dans le feuillage. Les amis attendirent, intrigués, se demandant ce que le malicieux oiseau préparait. Le bruissement des feuilles au-dessus d'eux créait une douce musique, comme si la forêt elle-même retenait son souffle dans l'attente.
+
+Quand il revint, d'un coup d'aile vif, il se posa juste devant Écureuil Gris. Entre ses pattes, il tenait précieusement... une petite feuille d'arbre, soigneusement pliée. La feuille semblait briller d'une lueur mystérieuse, comme si elle renfermait un secret magique.
 
 "Tenez, jeunes chercheurs de silence," dit le picvert d'un ton soudainement sérieux. "Puisque vous savez si bien écouter au-delà des apparences... voici de quoi vous guider dans la Forêt Murmurante."
 
-Écureuil Gris prit la feuille avec respect. En la dépliant délicatement, ils découvrirent... une carte ! Mais pas une carte ordinaire : dessinée à l'encre de sève dorée qui scintillait doucement, elle représentait la Forêt Murmurante comme un labyrinthe vivant. Des arbres aux formes étranges dansaient sur le papier, leurs branches s'entrelaçant pour former des chemins mystérieux. Des ruisseaux d'argent serpentaient entre les troncs, et au centre de tout, une petite étoile brillait d'une lueur particulière, comme un phare dans la nuit.
+Écureuil Gris prit la feuille avec respect. En la dépliant délicatement, ils découvrirent, émerveillés, une carte extraordinaire. Une carte qui n'était pas ordinaire : dessinée à l'encre de sève dorée qui scintillait doucement, elle représentait la Forêt Murmurante comme un labyrinthe vivant. Des arbres aux formes étranges dansaient sur le papier, leurs branches s'entrelaçant pour former des chemins mystérieux. Des ruisseaux d'argent serpentaient entre les troncs, et au centre de tout, une petite étoile brillait d'une lueur particulière, comme un phare dans la nuit.
 
 *(Regarde attentivement la carte... Où l'étoile brillante va-t-elle les mener ?)*
 

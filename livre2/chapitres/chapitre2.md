@@ -36,9 +36,9 @@ George le cerf les écouta avec attention, puis un léger sourire illumina son v
 
 "Elle est cachée au cœur de la forêt, au-delà de la Rivière Chantante," répondit George. "Mais le chemin est gardé par les Murmures Silencieux. Ils n'aiment pas le bruit et tenteront de vous arrêter. Pour les apaiser, vous devrez leur offrir... le plus beau silence que vous puissiez trouver."
 
-*(Ferme les yeux et écoute le silence... Qu'entends-tu ?)*
+*(Ferme les yeux et écoute le silence... Qu'entends-tu ? Le bruissement délicat des feuilles ? Le souffle léger du vent ? Le battement doux de ton cœur ?)*
 
-Écureuil Gris, Olivia et Henri échangèrent des regards perplexes. Le plus beau silence... Quel étrange défi !
+Écureuil Gris, Olivia et Henri échangèrent des regards perplexes. Le plus beau silence... Quel étrange défi ! Ils commençaient à comprendre que le silence n'était pas juste l'absence de bruit, mais quelque chose de vivant, de précieux, comme un trésor caché qu'il fallait découvrir avec patience.
 
 "Comment trouver... le plus beau silence ?" demanda Henri, inquiet.
 
@@ -46,9 +46,9 @@ George sourit mystérieusement. "Écoutez votre cœur, mes amis. Et suivez la pi
 
 S'élançant à nouveau sur la piste lumineuse, ils arrivèrent bientôt au bord d'une rivière majestueuse. Ses eaux cristallines dansaient sous la lumière de la lune, créant une douce mélodie. On aurait dit que l'eau elle-même chantait une berceuse à la forêt endormie. De petites cascades scintillantes parsemaient son cours, ajoutant leurs notes argentées à cette symphonie nocturne. C'était la Rivière Chantante, dont la musique enchantait tous ceux qui s'approchaient de ses rives.
 
-*(Écoute le doux murmure de l'eau qui coule)*
+*(Écoute le doux murmure de l'eau qui coule... Fais semblant de flotter comme une feuille sur l'eau)*
 
-Mais à peine eurent-ils franchi la Rivière Chantante qu'un changement étrange se produisit. Progressivement, les sons de la forêt s'éteignirent. D'abord les pépiements lointains des oiseaux, puis le murmure du vent dans les feuilles, puis même le clapotis de la rivière derrière eux... Un silence de plus en plus épais, de plus en plus profond, enveloppa la forêt, jusqu'à devenir presque palpable, comme une couverture invisible. Les arbres eux-mêmes semblaient retenir leur souffle, immobiles et muets. Seule la piste scintillante continuait de briller doucement dans ce silence désormais complet.
+Mais à peine eurent-ils atteint les rives de la Rivière Chantante, pataugeant doucement dans l'eau fraîche et claire qui semblait danser autour de leurs pattes, qu'un changement étrange se produisit. Progressivement, les sons de la forêt s'éteignirent. D'abord les pépiements lointains des oiseaux, puis le murmure du vent dans les feuilles, puis même le clapotis de la rivière derrière eux... Un silence de plus en plus épais, de plus en plus profond, enveloppa la forêt, jusqu'à devenir presque palpable, comme une couverture invisible. Les arbres eux-mêmes semblaient retenir leur souffle, immobiles et muets. Seule la piste scintillante continuait de briller doucement dans ce silence désormais complet.
 
 Soudain, alors qu'ils avançaient dans ce silence absolu, de légères formes transparentes se matérialisèrent devant eux, bloquant le chemin. C'étaient les Murmures Silencieux, les gardiens du silence, des esprits de la forêt faits de silence et d'ombre. Ils flottaient doucement, sans un mot, sans un geste, mais leur présence silencieuse était plus forte que n'importe quel cri.
 
@@ -58,7 +58,7 @@ Henri, qui n'avait jamais vu de créatures aussi mystérieuses, se rapprocha ins
 
 Écureuil Gris voulut poser une question, mais George le Cerf le retint d'un signe de tête. Il comprenait. Face aux Murmures Silencieux, seuls les actes, et le silence, pouvaient parler.
 
-Alors, comment nos amis allaient-ils offrir le plus beau silence aux Murmures Silencieux, et réussir à traverser la Rivière Chantante ?
+Alors, comment nos amis allaient-ils offrir le plus beau silence aux Murmures Silencieux pour pouvoir traverser la Rivière Chantante ?
 
 Écureuil Gris, agile et décidé, s'élança. Avec la délicatesse d'une plume, il recueillit sur une feuille de menthe une goutte de rosée prisonnière de la nuit. La goutte, ronde et transparente comme une larme de lumière, reflétait la lune et les étoiles. Il la recueillit et la déposa délicatement sur une grande feuille de nénuphar, la faisant glisser jusqu'au milieu de la rivière.
 

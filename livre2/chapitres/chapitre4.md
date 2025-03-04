@@ -8,18 +8,18 @@ La carte magique brillait doucement entre leurs pattes, projetant une lueur dor�
 
 *(Fais briller tes doigts comme des petites lucioles)*
 
-Suivant les indications de la carte, ils s'engagèrent sur un chemin bordé de fleurs phosphorescentes. Des fleurs de toutes les couleurs : des bleues, des rouges, des jaunes, des violettes... À chacun de leurs pas, les pétales s'illuminaient brièvement, comme pour les encourager à avancer.
+Suivant les indications de la carte, ils s'engagèrent sur un chemin bordé de fleurs phosphorescentes. Des fleurs merveilleuses de toutes les couleurs qui brillaient comme des joyaux vivants : des iris bleu nuit s'épanouissaient tels des étoiles de saphir, des roses rouges aux pétales de rubis liquide ondulaient dans la brise, des jonquilles dorées rayonnaient comme des soleils miniatures, et des violettes scintillaient doucement, semblables à des améthystes pleines de rêves. À chacun de leurs pas, les pétales s'illuminaient comme pour les encourager à avancer.
 
 🎵 *Des fleurs qui brillent dans la nuit, (a)
 Comme des étoiles fleuries, (b)
 Éclairant notre chemin, (c)
 Vers les rires de demain !* (b)
 
-Soudain, une petite lumière verte dansa devant le museau d'Henri. Puis une autre, rouge cette fois. Et encore une autre, jaune et scintillante. Des dizaines de lucioles commençaient à apparaître, leurs petites lanternes clignotant dans l'obscurité, répondant à la lumière des fleurs.
+Soudain, une petite lumière verte dansa devant le museau d'Henri, suivie d'une autre, rouge comme une braise, puis d'une troisième, jaune comme une étincelle de soleil. Des dizaines de lucioles apparurent, leurs petites lanternes clignotant dans l'obscurité comme autant de réponses aux fleurs scintillantes.
 
 *(Cligne des yeux comme les lucioles)*
 
-"Bienvenue dans notre jardin," chantonna une voix douce et musicale. Une luciole plus grande que les autres, aux ailes d'or, se posa sur une fleur bleue devant eux. "Je suis Luna, la gardienne des lumières dansantes. Que cherchez-vous dans notre royaume scintillant ?"
+"Bienvenue dans notre jardin," chantonna une voix douce et musicale. Une luciole plus grande que les autres, ses ailes tissées d'or, se posa délicatement sur une fleur bleue. "Je suis Luna, la gardienne des lumières dansantes. Que cherchez-vous dans notre royaume scintillant ?"
 
 "Nous cherchons la Source Lumineuse," expliqua Olivia. "Pour retrouver les rires perdus de la forêt."
 
@@ -35,21 +35,28 @@ Luna battit doucement des ailes, projetant des étincelles dorées autour d'elle
 
 Luna virevolta joyeusement. "Chaque fleur a sa propre mélodie. Il faut la découvrir et la chanter pour réveiller sa lumière. Mais attention, ce n'est pas n'importe quelle chanson qui marchera... Il faut chanter avec son cœur ! Écoutez, je vais vous montrer l'exemple."
 
-Luna se posa sur une fleur rouge et chanta une douce mélodie : "Dou dou dou, dou dou dou..." La fleur rouge se mit à briller d'une lumière éclatante.
+🎵 *Douce mélodie de l'iris bleu : (a)
+"Dou dou dou, dou dou dou..." (b)
+Chant de la rose vermeille : (c)
+"La di da, la di dum !" (d)
+Rire de la jonquille d'or : (e)
+"Ti li li, ti li lo !"* (d)
+
+Luna se posa tour à tour sur chaque fleur, chantant leurs mélodies secrètes. L'iris bleu s'illumina comme une étoile de nuit, la rose s'embrasa d'une lumière rubis, et la jonquille resplendit tel un petit soleil.
 
 "À vous maintenant !" encouragea Luna. "Écoutez les fleurs, et chantez avec votre cœur !"
 
 "Avec son cœur ?" répéta Écureuil Gris, perplexe.
 
-"Oui !" s'exclama Luna. "Regardez cette fleur bleue, par exemple. Écoutez attentivement... Elle murmure sa chanson."
+"Oui !" s'exclama Luna. "Regardez cette violette, par exemple. Écoutez attentivement... Elle murmure sa chanson."
 
-Tous se penchèrent vers la fleur. Au début, ils n'entendirent rien. Puis, très doucement, un léger fredonnement s'éleva des pétales bleus : "La la li, la la li..."
+Tous se penchèrent vers la fleur. Au début, ils n'entendirent rien. Puis, très doucement, un léger fredonnement s'éleva des pétales mauves : "La la li, la la li..."
 
 *(Écoute bien... Entends-tu la chanson de la fleur ?)*
 
-"Je... je crois que je l'entends," murmura Olivia, fermant les yeux pour mieux se concentrer. Délicatement, elle commença à fredonner la même mélodie. La fleur bleue se mit à scintiller de plus en plus fort, répondant à la chanson d'Olivia.
+"Je... je crois que je l'entends," murmura Olivia, fermant les yeux pour mieux se concentrer. Délicatement, elle commença à fredonner la même mélodie. La violette se mit à scintiller, sa lueur grandissant comme une petite lune mauve.
 
-Encouragés par ce succès, nos amis se dispersèrent dans le jardin, chacun essayant d'entendre les chansons cachées des fleurs. Henri, malgré sa tristesse, découvrit qu'il pouvait encore fredonner, même s'il ne pouvait pas rire. Écureuil Gris apprit à tapoter le rythme avec ses pattes, et George le cerf faisait tinter ses bois comme des clochettes en accompagnement.
+Encouragés par ce succès, nos amis se dispersèrent dans le jardin, chacun à la recherche des chansons cachées. Henri découvrit qu'il pouvait encore fredonner malgré sa tristesse, et fit chanter un bouquet de coquelicots argentés d'une berceuse apaisante : "Mm mm mm..." Écureuil Gris accompagnait la valse des marguerites dorées en tapotant le rythme : "Tra la la, tra la la !", tandis que George faisait tinter ses bois comme des clochettes de cristal : "Ting ting ting !"
 
 🎵 *Écoute la chanson des fleurs, (a)
 Chaque pétale a sa couleur, (b)
@@ -58,7 +65,7 @@ Pour chasser toutes nos peurs !* (b)
 
 *(Fredonne doucement avec les fleurs : "Dou dou dou, la la li...")*
 
-Peu à peu, le jardin s'illumina de mille couleurs. Les lucioles dansaient au milieu des fleurs brillantes, créant un spectacle magique. Luna voletait de fleur en fleur, ravie de voir son jardin retrouver son éclat.
+Peu à peu, le jardin tout entier s'éveilla dans une symphonie de lumières. Les fleurs brillaient comme des joyaux vivants, leurs couleurs se mélangeant en un arc-en-ciel nocturne. Les lucioles dansaient parmi ces constellations terrestres, ajoutant leurs étincelles au spectacle magique, tandis que Luna voletait de fleur en fleur, ravie de voir son royaume retrouver son éclat.
 
 "Magnifique !" s'exclama-t-elle. "Vous avez réussi à réveiller la joie dans notre jardin ! Et regardez..."
 
