@@ -2,19 +2,19 @@
 
 [Suite...]
 
-Le chemin des fleurs lumineuses les conduisit à une clairière étrange. Ici, l'air semblait vibrer doucement, comme si des milliers de sons invisibles dansaient autour d'eux. Les arbres formaient un cercle parfait, leurs troncs argentés s'élevant comme les colonnes d'un palais naturel.
+Le chemin des fleurs lumineuses les conduisit à une clairière étrange. Ici, l'air semblait vibrer doucement, comme si des milliers de sons invisibles dansaient autour d'eux. Les arbres formaient un cercle parfait, leurs troncs argentés s'élevant comme les colonnes d'un palais naturel. Au centre, une douce lumière scintillait, comme une invitation silencieuse.
 
 "Bienvenue aux Échos Rieurs," murmura George le cerf. "C'est ici que les sons du passé viennent se reposer."
 
 *(Tends l'oreille... Qu'entends-tu ?)*
 
-Des fragments de sons flottaient dans l'air : le bruissement d'une feuille tombée il y a longtemps, l'écho d'une goutte de pluie de la dernière averse, le souvenir d'un chant d'oiseau...
+Des fragments de sons flottaient dans l'air : le bruissement d'une feuille tombée il y a longtemps, l'écho d'une goutte de pluie de la dernière averse, le souvenir d'un chant d'oiseau, et même... des rires lointains.
 
 "Comment allons-nous retrouver mon rire au milieu de tous ces sons ?" demanda Henri, inquiet.
 
 Soudain, une voix cristalline résonna autour d'eux : "Il faut savoir écouter avec son cœur !"
 
-Une créature extraordinaire apparut, semblant émerger de l'air lui-même. Elle ressemblait à une libellule faite de sons purs, ses ailes tissées de notes de musique scintillantes.
+Une créature extraordinaire apparut, semblant émerger de l'air lui-même. Elle ressemblait à une libellule faite de sons purs, ses ailes tissées de notes de musique scintillantes, son corps vibrant de mélodies.
 
 "Je suis Mélodia, la gardienne des Échos," se présenta-t-elle en voletant autour d'eux. "Chaque son qui a déjà existé dans la forêt vient se réfugier ici, attendant d'être redécouvert."
 
@@ -27,25 +27,25 @@ Qu'il nous faut retrouver !* (a)
 
 "Pour retrouver un rire perdu," expliqua Mélodia, "il faut d'abord se souvenir de sa chanson. Henri, ferme les yeux et pense à ton rire. À quoi ressemblait-il ?"
 
-Henri ferma ses grands yeux et se concentra. "Il était... joyeux et fort. Il faisait trembler les feuilles dans les arbres. Et quand je riais, tous mes amis riaient aussi..."
+Henri ferma ses grands yeux et se concentra. "Il était... joyeux et fort. Il faisait trembler les feuilles dans les arbres. C'était un rire rond, chaud, et plein de vie. Et quand je riais, tous mes amis riaient aussi..."
 
-"Très bien," approuva Mélodia. "Maintenant, écoutez tous attentivement. Les échos vont jouer pour vous une symphonie de rires. Quand vous entendrez celui d'Henri, attrapez-le vite !"
+"Très bien," approuva Mélodia. "Maintenant, écoutez tous attentivement. Les échos vont jouer pour vous une symphonie de rires. Des rires de toutes sortes : rires d'enfants, rires d'animaux, rires cristallins, rires graves... Quand vous entendrez celui d'Henri, attrapez-le vite !"
 
 *(Prépare-toi à attraper le rire d'Henri !)*
 
-La clairière s'emplit alors d'une merveilleuse cacophonie de rires : des rires cristallins comme des clochettes, des rires graves comme le tonnerre lointain, des rires pétillants comme des bulles de joie...
+La clairière s'emplit alors d'une merveilleuse cacophonie de rires : des rires cristallins comme des clochettes, des rires graves comme le tonnerre lointain, des rires pétillants comme des bulles de joie, des rires timides, des rires éclatants...
 
 "Écoutez !" s'exclama soudain Olivia. "Celui-là !"
 
-Un rire particulier venait de résonner, un rire si puissant et chaleureux qu'il faisait vibrer l'air autour d'eux.
+Un rire particulier venait de résonner, un rire si puissant et chaleureux qu'il faisait vibrer l'air autour d'eux. Un rire rond et généreux, comme un gros câlin sonore.
 
-"C'est le mien !" s'écria Henri, les yeux brillants. "Je le reconnais !"
+"C'est le mien !" s'écria Henri, les yeux brillants. "Je le reconnais entre mille !"
 
 "Vite," dit Mélodia, "formez un cercle et tendez vos pattes !"
 
 *(Tends tes mains en cercle devant toi)*
 
-Nos amis s'exécutèrent. Le rire d'Henri dansait maintenant autour d'eux comme une bulle de lumière sonore. Écureuil Gris agita sa queue en rythme, Olivia battit doucement des ailes, et George inclina ses bois majestueux. 
+Nos amis s'exécutèrent. Le rire d'Henri dansait maintenant autour d'eux comme une bulle de lumière sonore, vibrant et joyeux. Écureuil Gris agita sa queue en rythme, Olivia battit doucement des ailes, et George inclina ses bois majestueux en signe de concentration. 
 
 "À trois," chuchota Mélodia, "nous allons tous souffler très doucement vers le centre du cercle. Le rire viendra s'y blottir."
 
@@ -55,7 +55,7 @@ Nos amis s'exécutèrent. Le rire d'Henri dansait maintenant autour d'eux comme 
 
 *(Souffle tout doucement vers tes mains)*
 
-Les souffles combinés guidèrent délicatement le rire au centre du cercle, où il se mit à tournoyer comme une petite tornade joyeuse. Henri tendit prudemment ses grosses pattes vers lui...
+Les souffles combinés guidèrent délicatement le rire au centre du cercle, où il se mit à tournoyer comme une petite tornade joyeuse. Henri tendit prudemment ses grosses pattes vers lui... et le referma délicatement, comme pour attraper une bulle de savon.
 
 "Attention," prévint Mélodia, "ce n'est qu'un fragment de ton rire. Il est encore fragile. Pour le retrouver complètement, il faudra atteindre la Source Lumineuse. Mais ce petit morceau pourra t'aider à continuer le voyage."
 
@@ -63,7 +63,7 @@ Henri recueillit précieusement le fragment de rire entre ses pattes. Il le port
 
 "Hi... hi..." Un tout petit rire, à peine plus qu'un gloussement, s'échappa de sa bouche.
 
-"Hi hi !" répéta-t-il, surpris et ravi. Ce n'était pas son gros rire habituel, mais c'était déjà quelque chose !
+"Hi hi !" répéta-t-il, surpris et ravi. Ce n'était pas son gros rire habituel, mais c'était déjà quelque chose ! Un début de joie semblait revenir en son cœur.
 
 *(Fais un tout petit rire, comme Henri)*
 
@@ -73,7 +73,7 @@ Sur la carte magique, le chemin vers la Grotte des Ombres s'illumina d'une lueur
 
 "Es-tu prêt, Henri ?" demanda Écureuil Gris à son ami.
 
-"Hi hi !" répondit l'hippopotame avec son nouveau petit rire. "Plus que jamais !"
+"Hi hi !" répondit l'hippopotame avec son nouveau petit rire, gonflé d'espoir. "Plus que jamais !"
 
 *(Es-tu prêt à affronter les Ombres Dansantes ?)*
 

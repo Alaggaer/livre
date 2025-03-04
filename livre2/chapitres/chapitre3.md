@@ -2,11 +2,11 @@
 
 [Suite...]
 
-Dépassant la Rivière Chantante, George le cerf guida Écureuil Gris, Olivia et Henri dans une nouvelle partie de la forêt. Ici, les arbres se faisaient plus denses, leurs branches se courbaient en arches sombres au-dessus du chemin scintillant. Un vent léger, mais constant, se leva, murmurant des mots incompréhensibles à travers les feuilles.
+Dépassant la Rivière Chantante, George le cerf guida Écureuil Gris, Olivia et Henri dans une nouvelle partie de la forêt. Ici, la Forêt Murmurante, les arbres se faisaient plus denses, leurs branches se courbaient en arches sombres au-dessus du chemin scintillant. Un vent léger, mais constant, se leva, murmurant des mots incompréhensibles à travers les feuilles.
 
 *(Écoute le vent chuchoter... Que dit-il ?)*
 
-"Bienvenue dans la Forêt Murmurante," dit George d'une voix grave. "Ici, les sons jouent à cache-cache, et les oreilles peuvent se perdre aussi facilement que les pieds."
+« Bienvenue dans la Forêt Murmurante, » dit George d'une voix grave. « Ici, les sons jouent à cache-cache, et les oreilles peuvent se perdre aussi facilement que les pieds. »
 
 À peine avait-il prononcé ces mots qu'un bruit sec retentit juste à côté d'eux : TOC-TOC-TOC !
 
@@ -26,10 +26,12 @@ Et il se remit à rire de son rire pointu, laissant nos amis perplexes face à c
 
 "Une devinette ?" demanda Olivia, inclinant la tête.
 
-"Oui, oui, une devinette !" piailla le picvert en voletant nerveusement autour d'eux. "Écoutez bien, écoutez bien :
+"Oui, oui, une devinette !" piailla le picvert en voletant nerveusement autour d'eux. "Écoutez bien, écoutez bien ma petite chanson, et répondez à ma question :
 
-> **Qu'est-ce qui devient plus grand,**
-> **Quand on en enlève un morceau ?**
+🎵
+> **Qu'est-ce qui devient plus grand, (a)**
+> **Quand on en enlève un morceau ? (b)**
+🎵
 
 *(Répète la devinette à voix haute, en faisant une pause entre les vers)*
 
