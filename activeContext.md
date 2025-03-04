@@ -1,60 +1,24 @@
-# Contexte Actif du Projet (26/02/2024)
-
-## Focus Actuel
-- Développement des illustrations pour les chapitres 1 et 2
-- Mise en place du style visuel Pixar cohérent
-- Création des personnages principaux et secondaires
-
-## Changements Récents
-1. Personnages Établis
-   - Écureuil Gris (personnage principal)
-   - Lapin Blanc (personnage secondaire)
-   - Olivia la Chouette (mentor)
-   - Coccinelle magique (personnage mystère)
-
-2. Scènes Complétées
-   - Chapitre 1 : 5 scènes clés
-   - Chapitre 2 : 2 scènes initiales
-
-3. Documentation Technique
-   - Charte graphique IA établie
-   - Structure des dossiers optimisée
-   - Système de versioning en place
-
-## Décisions Actives
-1. Style Visuel
-   - Adoption du style Pixar pour tous les personnages
-   - Palette de couleurs chaudes et accueillantes
-   - Emphase sur les expressions et la gestuelle
-
-2. Workflow d'Illustration
-   - Création des personnages individuels d'abord
-   - Développement des scènes ensuite
-   - Tests d'expressions avant les scènes d'interaction
-
-## Considérations en Cours
-1. Illustrations
-   - Maintenir la cohérence du style entre les personnages
-   - Assurer la lisibilité des expressions
-   - Équilibrer le niveau de détail pour l'âge cible (3-5 ans)
-
-2. Narration Visuelle
-   - Synchronisation avec le texte
-   - Placement des éléments interactifs
-   - Transitions entre les scènes
-
-## Prochaines Étapes
-1. Court Terme
-   - Finaliser les scènes du chapitre 2
-   - Développer les scènes d'interaction
-   - Créer les transitions
-
-2. Moyen Terme
-   - Compléter les séquences avec la coccinelle
-   - Intégrer les éléments interactifs
-   - Tests avec le public cible
-
-## Notes Techniques
-- Utilisation systématique de --cref pour la cohérence
-- Organisation des fichiers par chapitre/personnage
-- Sauvegarde des prompts réussis pour référence
+# Contexte Actuel
+ 2 | 
+ 3 | ## Contexte Actuel
+ 4 | - Finalisation du Chapitre 5
+ 5 | - Finalisation du Chapitre 6
+ 6 | - Finalisation du Chapitre 7
+ 7 | - Préparation du Chapitre 8
+ 8 | - Début de l'écriture du deuxième livre, Chapitre 1 "Henri et le Mystère des Rires Disparus"
+ 9 | 
+10 | ## Prochaines Étapes
+11 | 1. Finaliser le Chapitre 5
+12 | 2. Finaliser le Chapitre 6
+13 | 3. Finaliser le Chapitre 7
+14 | 4. Préparer le Chapitre 8
+15 | 5. Commencer l'écriture du Chapitre 2 du deuxième livre
+16 | 
+17 | ## Décisions Actuelles
+18 | - Utilisation des illustrations IA pour les chapitres 5 à 7
+19 | - Vérification des révisions des chapitres précédents
+20 | - Organisation des fichiers pour le deuxième livre
+21 | 
+22 | ## Changements Récents
+23 | - Création du dossier `livre2` et copie des fichiers de chapitre existants
+24 | - Écriture du chapitre 1 du livre 2, "Henri et le Mystère des Rires Disparus"
