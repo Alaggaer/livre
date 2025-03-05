@@ -1,0 +1,257 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-02-25T21:03:00Z",
+  "images": {},
+  "collections": {
+    "personnages": {
+      "ecureuil_gris": {
+        "name": "Écureuil Gris",
+        "description": "Personnage principal, intrépide et curieux",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T09:45:59.453Z",
+            "version": "v1",
+            "prompt": "**cute grey squirrel character for children's book, soft colors, simple shapes, kawaii style, friendly expression, children's illustration style --style raw** - <@1003899143019839559> (fast)"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "cute grey squirrel character for children's book, soft colors, simple shapes, kawaii style, friendly expression, children's illustration style --style raw",
+          "styleGuide": {
+            "colors": {
+              "principal": "#808080",
+              "secondaire": "#A9A9A9",
+              "details": "#696969"
+            },
+            "proportions": {
+              "taille_relative": 0.8,
+              "caracteristiques": [
+                "queue touffue",
+                "grands yeux",
+                "expression vive"
+              ]
+            }
+          }
+        }
+      },
+      "lapin_blanc": {
+        "name": "Lapin Blanc",
+        "description": "Personnage secondaire, sage et rassurant",
+        "versions": [],
+        "metadata": {
+          "basePrompt": "wise white rabbit character for children's book, soft colors, simple shapes, gentle expression, kind eyes, children's illustration style --style raw",
+          "styleGuide": {
+            "colors": {
+              "principal": "#FFFFFF",
+              "secondaire": "#F0F0F0",
+              "details": "#D3D3D3"
+            },
+            "proportions": {
+              "taille_relative": 1,
+              "caracteristiques": [
+                "longues oreilles",
+                "yeux doux",
+                "posture droite"
+              ]
+            }
+          }
+        }
+      },
+      "olivia_chouette": {
+        "name": "Olivia Chouette",
+        "description": "Personnage secondaire, bibliothécaire sage",
+        "versions": [],
+        "metadata": {
+          "basePrompt": "wise owl librarian character for children's book, glasses, books, soft colors, simple shapes, gentle expression, children's illustration style --style raw",
+          "styleGuide": {
+            "colors": {
+              "principal": "#8B4513",
+              "secondaire": "#DEB887",
+              "details": "#A0522D"
+            },
+            "proportions": {
+              "taille_relative": 0.9,
+              "caracteristiques": [
+                "lunettes rondes",
+                "air savant",
+                "plumage doux"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "scenes": {
+      "chapitre1_foret_aube": {
+        "name": "La Forêt à l'Aube",
+        "description": "Scène d'ouverture, forêt paisible au lever du soleil",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T10:17:56.918Z",
+            "version": "v1",
+            "prompt": "**soft morning forest scene, children's book style, gentle sunrise, misty trees, warm colors, simple shapes, non-threatening, age 3-5 appropriate --style raw** - Image #4 <@1003899143019839559>"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "soft morning forest scene, children's book style, gentle sunrise, misty trees, warm colors, simple shapes, non-threatening, age 3-5 appropriate --style raw",
+          "styleGuide": {
+            "colors": {
+              "ciel": "#87CEEB",
+              "foret": "#2B5329",
+              "brume": "#F5F5F5"
+            },
+            "ambiance": "douce et accueillante",
+            "period": "aube"
+          }
+        }
+      },
+      "chapitre1_trou_vide": {
+        "name": "Le Trou Vide",
+        "description": "Découverte du trou vide dans l'arbre par l'écureuil",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T14:26:32.658Z",
+            "version": "v1",
+            "prompt": "**empty tree hollow in children's book style, dramatic lighting on hollow tree trunk, scattered leaves, simple shapes, warm earthy colors, non-threatening, age 3-5 appropriate --style raw** - Image #4 <@1003899143019839559>"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "empty tree hollow in children's book style, dramatic lighting on hollow tree trunk, scattered leaves, simple shapes, warm earthy colors, non-threatening, age 3-5 appropriate --style raw",
+          "styleGuide": {
+            "colors": {
+              "tronc": "#8B4513",
+              "trou": "#696969",
+              "mousse": "#2E8B57",
+              "feuilles": "#CD853F"
+            },
+            "ambiance": "mystérieuse mais douce",
+            "period": "journée"
+          }
+        }
+      },
+      "chapitre1_arrivee_lapin": {
+        "name": "L'Arrivée de Lapin Blanc",
+        "description": "Première rencontre entre Écureuil Gris en larmes et Lapin Blanc qui arrive avec son carnet",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T14:28:51.185Z",
+            "version": "v1",
+            "prompt": "**emotional scene in children's book style, crying grey squirrel meeting wise white rabbit with notebook, forest background, soft colors, gentle lighting, comforting mood, age 3-5 appropriate --style raw** - Image #4 <@1003899143019839559>"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "emotional scene in children's book style, crying grey squirrel meeting wise white rabbit with notebook, forest background, soft colors, gentle lighting, comforting mood, age 3-5 appropriate --style raw",
+          "styleGuide": {
+            "colors": {
+              "lapin": "#FFFFFF",
+              "ecureuil": "#808080",
+              "fond": "#2B5329",
+              "carnet": "#DEB887"
+            },
+            "elements": {
+              "premier_plan": [
+                "écureuil triste",
+                "lapin bienveillant",
+                "carnet de notes"
+              ],
+              "arriere_plan": [
+                "sous-bois vert",
+                "feuillage doux"
+              ]
+            },
+            "ambiance": "réconfortante et chaleureuse",
+            "period": "journée"
+          }
+        }
+      },
+      "chapitre1_bruit_mysterieux": {
+        "name": "Le Bruit Mystérieux",
+        "description": "L'écureuil et le lapin entendent un bruit étrange dans le sous-bois",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T14:31:54.133Z",
+            "version": "v1",
+            "prompt": "**mysterious forest scene in children's book style, grey squirrel and white rabbit investigating rustling sound, dappled light, intriguing but gentle atmosphere, simple shapes, non-threatening, age 3-5 appropriate --style raw** - Image #2 <@1003899143019839559>"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "mysterious forest scene in children's book style, grey squirrel and white rabbit investigating rustling sound, dappled light, intriguing but gentle atmosphere, simple shapes, non-threatening, age 3-5 appropriate --style raw",
+          "styleGuide": {
+            "colors": {
+              "foret": "#2B5329",
+              "lumiere": "#FFD700",
+              "ombres": "#4A4A4A",
+              "feuillage": "#90EE90"
+            },
+            "elements": {
+              "premier_plan": [
+                "écureuil attentif",
+                "lapin curieux"
+              ],
+              "arriere_plan": [
+                "feuillage mouvant",
+                "rayons de soleil"
+              ]
+            },
+            "ambiance": "mystérieuse mais rassurante",
+            "period": "fin de journée"
+          }
+        }
+      },
+      "plume_indice": {
+        "name": "Plume Indice",
+        "description": "Une plume colorée, premier indice trouvé par les personnages",
+        "versions": [
+          {
+            "timestamp": "2025-02-25T20:04:19.643Z",
+            "version": "v1",
+            "prompt": "**colorful feather children's book style detailed feather texture soft light magical atmosphere simple shapes, white background, non-threatening, age 3-5 appropriate --style raw** - Image #2 <@1003899143019839559>"
+          },
+          {
+            "timestamp": "2025-02-25T20:09:06.363Z",
+            "version": "v1",
+            "prompt": "**colorful feather children's book style, detailed feather texture, soft light, magical atmosphere, simple shapes, white background, non-threatening, age 3-5 appropriate --style raw** - Image #1 <@1003899143019839559>"
+          }
+        ],
+        "metadata": {
+          "basePrompt": "colorful feather children's book style, detailed feather texture, soft light, magical atmosphere, simple shapes, white background, non-threatening, age 3-5 appropriate --style raw",
+          "styleGuide": {
+            "colors": {
+              "plume_principal": "#FFD700",
+              "plume_secondaire": "#FFA07A",
+              "fond": "#FFFFFF"
+            },
+            "elements": {
+              "premier_plan": [
+                "plume colorée",
+                "lumière douce"
+              ],
+              "arriere_plan": [
+                "fond blanc uni",
+                "ambiance magique"
+              ]
+            },
+            "ambiance": "douce et mystérieuse",
+            "period": "journée"
+          }
+        }
+      }
+    }
+  },
+  "stats": {
+    "totalImages": 11,
+    "totalVersions": 0,
+    "lastGenerated": "2025-02-25T20:09:06.363Z"
+  },
+  "settings": {
+    "defaultStyle": "raw",
+    "defaultAspectRatio": "1:1",
+    "namingPattern": "{type}_{sujet}_{version}_{timestamp}",
+    "versionPattern": "v{number}",
+    "storagePaths": {
+      "raw": "illustrations/raw",
+      "processed": "illustrations/processed",
+      "metadata": "illustrations/metadata",
+      "versions": "illustrations/versions"
+    }
+  }
+}

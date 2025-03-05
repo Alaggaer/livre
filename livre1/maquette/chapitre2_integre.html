@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chapitre 2 : La Plume Étrange - Maquette Intégration</title>
+<style>
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12pt;
+    line-height: 1.5;
+    margin: 2cm;
+  }
+  h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 24pt;
+    text-align: center;
+    margin-bottom: 1cm;
+  }
+  h2 {
+    font-size: 18pt;
+    margin-top: 0.5cm;
+    margin-bottom: 0.3cm;
+  }
+  .image-pleine-page {
+    text-align: center;
+    margin-bottom: 1cm;
+  }
+  .image-vignette {
+    text-align: center;
+    margin: 1cm auto;
+    max-width: 60%;
+  }
+  .image-personnage {
+    text-align: center;
+    margin: 0.5cm auto;
+    max-width: 40%;
+  }
+  .image-plume {
+    position: relative;
+    padding: 20px;
+    margin: 2cm auto;
+    max-width: 50%;
+  }
+  .image-plume::before {
+    content: "✨";
+    position: absolute;
+    font-size: 24px;
+    left: 15%;
+    top: 0;
+  }
+  .image-plume img {
+    transform: rotate(-5deg);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    border: 1px solid #f0f0f0;
+    transition: all 0.3s ease;
+    background: linear-gradient(45deg, #fff, #f8f8f8, #fff);
+    animation: shine 2s infinite;
+  }
+  .image-plume img:hover {
+    transform: rotate(0deg) scale(1.05);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    cursor: pointer;
+  }
+  @keyframes shine {
+    0% {
+      background-position: -100px;
+    }
+    50% {
+      background-position: 200px;
+    }
+    100% {
+      background-position: -100px;
+    }
+  }
+  .texte-principal {
+    text-align: justify;
+    margin-bottom: 1em;
+  }
+  /* Format album carré */
+  @page {
+    size: 21cm 21cm;
+    margin: 2cm;
+  }
+  @media print {
+    body {
+      margin: 2cm;
+    }
+  }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<h1>Chapitre 2</h1>
+<h2>La Plume Étrange</h2>
+
+<div class="image-pleine-page">
+  <img src="../illustrations/scenes/chapitre2/Finals/scene_chap2_clairiere_final_v1.webp" alt="La clairière à l'aube" style="width: 100%;">
+</div>
+
+<p class="texte-principal">
+Lapin Blanc et Écureuil Gris commencèrent à examiner attentivement le sol autour du grand chêne. Il fallait absolument trouver des indices.
+</p>
+
+<p class="texte-principal">"Alors, Écureuil Gris," dit Lapin Blanc. "Des traces ? Tu vois quelque chose ?"</p>
+
+<p class="texte-principal">Écureuil Gris scrutait le sol avec attention, observant les feuilles, la terre, les racines. "Non... rien," dit-il tristement. "Juste des feuilles et de la terre. Comme avant."</p>
+
+<div class="image-vignette">
+  <img src="../illustrations/scenes/chapitre2/Finals/scene_chap2_recherche_final_v1.webp" alt="La recherche d'indices" style="width: 100%;">
+</div>
+
+<p class="texte-principal">Lapin Blanc réfléchit en tournant ses longues oreilles et en reniflant l'air. "Hmm... Peut-être un peu plus loin ?" proposa-t-il. "Regardons autour de l'arbre. Le voleur a peut-être laissé quelque chose..."</p>
+
+<p class="texte-principal">Les deux amis entreprirent alors leurs recherches. Ils firent le tour du grand chêne, regardant sous les branches basses et inspectant les racines tordues. Leurs petits yeux attentifs ne laissaient échapper aucun détail.</p>
+
+<p class="texte-principal">Soudain, Lapin Blanc s'arrêta net. "Écureuil Gris ! Regarde !"</p>
+
+<div class="image-vignette">
+  <img src="../illustrations/scenes/chapitre2/Finals/scene_chap2_plume_decouverte_final_v1.webp" alt="La découverte de la plume" style="width: 100%;">
+</div>
+
+<p class="texte-principal">Il pointait quelque chose sous une grosse racine, un petit objet coloré qui brillait légèrement.</p>
+
+<p class="texte-principal">Écureuil Gris s'approcha rapidement. En regardant ce que Lapin Blanc avait trouvé, il découvrit une plume. Mais pas une plume ordinaire.</p>
+
+<div class="image-plume">
+  <img src="../illustrations/scenes/chapitre2/Finals/scene_chap2_plume_final_v1.webp" alt="La plume mystérieuse" style="width: 100%;">
+</div>
+
+<p class="texte-principal">Elle était longue et fine, de la taille du doigt de Lapin Blanc, mais bien plus légère. Sa texture était douce et soyeuse au toucher, comme un duvet délicat. Ses couleurs étaient extraordinaires, jamais vues dans la forêt : un bleu ciel lumineux au bout, qui se transformait en rouge vif au milieu, puis se terminait en jaune d'or éclatant près de la base. Ces teintes vives et brillantes, presque magiques, scintillaient sous les rayons du soleil qui filtraient à travers les feuilles.</p>
+
+<p class="texte-principal">Les deux amis partirent ensemble, s'enfonçant dans la forêt. Le chemin montait vers la partie la plus ancienne, où les arbres étaient différents : plus vieux, plus grands, plus majestueux. Leurs branches immenses formaient une voûte qui laissait à peine passer la lumière, créant une atmosphère fraîche et mystérieuse.</p>
+
+<div class="image-pleine-page">
+  <img src="../illustrations/scenes/chapitre2/Finals/scene_chap2_olivia_arbre_final_v1.webp" alt="Le grand chêne d'Olivia" style="width: 100%;">
+</div>
+
+<p class="texte-principal">En marchant, Lapin Blanc et Écureuil Gris restaient silencieux, attentifs aux bruits de la forêt : le vent dans les branches, le chant lointain d'un oiseau, et ce mystérieux *cric-crac-croc* qui résonnait toujours au loin. Écureuil Gris serrait la plume contre lui. Elle était douce et légère, mais portait le poids d'une énigme.</p>
+
+<p class="texte-principal">Après une bonne demi-heure de marche, ils arrivèrent au pied du Grand Chêne, l'arbre d'Olivia. C'était un géant parmi les arbres, plus ancien que tous les autres. Son tronc massif était couvert de mousse, et ses branches puissantes s'élevaient majestueusement vers le ciel. La maison d'Olivia se trouvait tout en haut, cachée dans le feuillage.</p>
+
+<p class="texte-principal">Mais soudain, un son doux et profond résonna : *Hou-houuuuu...* Le hululement d'une chouette. Olivia était là !</p>
+
+<p class="texte-principal">Une voix douce et légèrement rauque descendit des hauteurs : "Qui m'appelle ? Mes petits amis ? Lapin Blanc ? Écureuil Gris ? Venez donc, je suis là-haut."</p>
+
+<div class="image-pleine-page">
+  <img src="../illustrations/scenes/chapitre2/Finals/scene_chap2_olivia_cookies_final_v1.webp" alt="Olivia accueille ses amis" style="width: 100%;">
+</div>
+
+<p class="texte-principal">Deux grands yeux ronds et brillants apparurent dans l'ombre des branches. Des yeux doux et pleins de sagesse, les yeux d'Olivia la chouette. Elle les observait, déjà prête à les écouter et à les aider. L'espoir revint dans le cœur d'Écureuil Gris. Olivia comprendrait sûrement le mystère de la plume... et peut-être même celui des glands disparus...</p>
+
+</body>
+</html>

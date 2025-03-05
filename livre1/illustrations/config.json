@@ -1,0 +1,110 @@
+{
+  "format": {
+    "livre": {
+      "largeur": "21cm",
+      "hauteur": "29.7cm",
+      "marges": "2cm"
+    },
+    "illustrations": {
+      "resolution": "300dpi",
+      "format": "SVG",
+      "export": ["PNG", "PDF"]
+    }
+  },
+  "palette": {
+    "primaire": {
+      "vert_foret": "#2B5329",
+      "brun_terre": "#8B4513",
+      "bleu_ciel": "#87CEEB",
+      "jaune_soleil": "#FFD700"
+    },
+    "secondaire": {
+      "vert_clair": "#90EE90",
+      "brun_clair": "#DEB887",
+      "gris_doux": "#A9A9A9",
+      "rose_tendre": "#FFB6C1"
+    },
+    "accent": {
+      "orange_vif": "#FFA500",
+      "violet_doux": "#DDA0DD",
+      "rouge_baie": "#DC143C",
+      "bleu_nuit": "#191970"
+    }
+  },
+  "personnages": {
+    "lapin_blanc": {
+      "taille_relative": "1.2",
+      "couleurs": {
+        "principal": "#FFFFFF",
+        "secondaire": "#F5F5F5",
+        "details": "#000000"
+      },
+      "accessoires": ["carnet", "crayon"],
+      "expressions": ["réfléchi", "bienveillant", "curieux"]
+    },
+    "ecureuil_gris": {
+      "taille_relative": "0.8",
+      "couleurs": {
+        "principal": "#808080",
+        "secondaire": "#A9A9A9",
+        "queue": "#696969"
+      },
+      "caracteristiques": ["queue touffue", "grands yeux"],
+      "expressions": ["enthousiaste", "inquiet", "joyeux"]
+    }
+  },
+  "scenes": {
+    "foret": {
+      "elements_base": [
+        "grands arbres",
+        "buissons",
+        "feuilles mortes",
+        "champignons"
+      ],
+      "ambiance": {
+        "matin": {
+          "luminosite": "douce",
+          "couleurs": ["#FFD700", "#87CEEB", "#90EE90"]
+        },
+        "soir": {
+          "luminosite": "chaude",
+          "couleurs": ["#FFA500", "#CD853F", "#8B4513"]
+        }
+      }
+    },
+    "ville": {
+      "elements_base": [
+        "maisons",
+        "jardins",
+        "rues",
+        "mangeoires"
+      ],
+      "ambiance": {
+        "jour": {
+          "luminosite": "vive",
+          "couleurs": ["#F5F5F5", "#A9A9A9", "#4682B4"]
+        }
+      }
+    }
+  },
+  "elements_interactifs": {
+    "carte": {
+      "style": "ancien",
+      "elements": [
+        "boussole",
+        "légende",
+        "points d'intérêt",
+        "chemins secrets"
+      ]
+    },
+    "indices": {
+      "style": "naturaliste",
+      "elements": [
+        "croquis",
+        "notes",
+        "mesures",
+        "échantillons"
+      ]
+    }
+  }
+}
