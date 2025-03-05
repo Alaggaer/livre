@@ -2,7 +2,7 @@
 
 [Suite...]
 
-Dépassant la Rivière Chantante, George guida nos amis dans la Forêt Murmurante. Les arbres se faisaient denses, leurs branches sombres courbaient le chemin scintillant. Un vent constant murmurait des mots incompréhensibles.
+Dépassant la Rivière Chantante, George guida nos amis dans la Forêt Murmurante.  Un vent constant murmurait des mots incompréhensibles.
 
 *(Écoute le vent chuchoter... Que dit-il ?)*
 

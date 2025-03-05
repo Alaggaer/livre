@@ -2,7 +2,7 @@
 
 [Suite...]
 
-S'élançant sur la piste scintillante, nos amis quittèrent l'arbre d'Écureuil Gris. La nuit était tombée. La poudre brillanteGuidait leurs pas dans la forêt silencieuse et mystérieuse.
+S'élançant sur la piste scintillante, nos amis quittèrent l'arbre d'Écureuil Gris. La nuit était tombée. La poudre brillante Guidait leurs pas dans la forêt silencieuse et mystérieuse.
 
 *(Imagine la forêt silencieuse et mystérieuse la nuit)*
 

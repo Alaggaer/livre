@@ -6,7 +6,7 @@ La carte magique brillait, montrant le chemin du Jardin des Lucioles. George dé
 
 *(Fais briller tes doigts comme des lucioles)*
 
-IlsLongèrent un chemin bordé de fleurs phosphorescentes. Des fleurs joyaux : bleues comme des saphirs, rouges rubis, dorées soleils, violettes améthystes.  À chaque pas, les pétales s'illuminaient.
+Ils Longèrent un chemin bordé de fleurs phosphorescentes. Des fleurs joyaux de toutes les couleurs illuminaient le chemin.  À chaque pas, les pétales s'illuminaient.
 
 🎵 *Des fleurs qui brillent dans la nuit, (a)
 Comme des étoiles fleuries, (b)
@@ -20,6 +20,7 @@ Soudain, des lumières vertes, rouges, jaunes dansèrent devant Henri. Des lucio
 "Bienvenue," chantonna une voix douce. Une luciole aux ailes d'or se posa sur une fleur bleue. "Je suis Luna, gardienne des lumières. Que cherchez-vous ?"
 
 "La Source Lumineuse," expliqua Olivia. "Pour les rires perdus."
+"Nous avons déjà résolu le mystère des glands disparus, tu sais !" ajouta fièrement Écureuil Gris.
 
 Luna voleta. "Les rires perdus... La forêt est silencieuse. Nos danses sont moins joyeuses. Je peux aider, peut-être. Mais d'abord, ravivez la joie du jardin. Nos fleurs perdent leur éclat dans la tristesse. Faites-les briller pour éclairer le chemin."
 
