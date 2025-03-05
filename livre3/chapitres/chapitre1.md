@@ -1,6 +1,4 @@
-# Chapitre 1 : La Disparition de l'Étang
-
-## Scène 1 : L'Étang Vide
+# Chapitre 1A : L'Étang Vide
 
 Le soleil brillait gaiement sur la forêt. Les oiseaux chantaient à tue-tête. Henri l'hippopotame, avec son gros ventre rond et ses petites oreilles qui remuaient à chaque pas, trottinait joyeusement vers l'étang.
 
@@ -26,22 +24,8 @@ Coccinelle et Chouette arrivèrent à leur tour.
 
 Chouette remarqua immédiatement le problème : "Mais... l'étang est vide ! Où est passée toute l'eau ?"
 
-Henri releva ses yeux embués.  "C'est ужасно ! Où vais-je pouvoir me baigner, moi ? Et les poissons, les grenouilles... ils vont être malheureux !"
+Henri releva ses yeux embués. "C'est ужасно ! Où vais-je pouvoir me baigner, moi ? Et les poissons, les grenouilles... ils vont être malheureux !"
 
 "Ne t'inquiète pas, Henri," dit Écureuil d'un ton rassurant. "On va t'aider !"
 
 Chouette ajouta : "L'étang se remplit grâce à une rivière de la montagne. Si l'étang est vide, c'est peut-être que la rivière est bloquée..."
-
-*   **Scène 2 : En Route vers la Montagne**
-
-> "La rivière bloquée ?" répéta Henri. "Tu crois ?"
-
-> "C'est possible," répondit Chouette. "La rivière est notre seule chance de retrouver l'eau. Il faut aller voir en amont, vers la montagne."
-
-> "Alors, qu'attendons-nous ?"  s'écria Écureuil, toujours partant pour l'aventure. "En route pour la montagne !"
-
-> Coccinelle et Chouette hochèrent la tête en signe d'approbation. Henri,  un peu moins rassuré à l'idée de cette expédition vers l'inconnu,  se laissa entraîner par l'enthousiasme de ses amis.
-
-> Et sans plus attendre,  les quatre amis se mirent en chemin.  Ils quittèrent le bord de l'étang désert et suivirent le sentier qui montait doucement le long de la rivière,  en direction de la mystérieuse montagne...
-
-> Le début d'une grande aventure,  pour retrouver l'eau disparue et permettre à Henri de enfin prendre son bain !
