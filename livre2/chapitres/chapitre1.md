@@ -1,9 +1,12 @@
 [Suite...]
 
-Sur une branche pas très loin, il aperçut Olivia la Chouette. Ses grands yeux dorés étaient tout ronds de surprise.
-« Olivia, » chuchota Écureuil Gris, descendant précipitamment de son arbre. Sa queue frémissait, mais pas de joie, d'inquiétude. « Tu as remarqué ? »
+Écureuil Gris sautillait joyeusement de branche en branche, explorant la forêt comme à son habitude.  Soudain, il s'arrêta,Dressant ses oreilles pointues, il remarqua un silence étrange.  Ce n'était pas le silence habituel et paisible de la forêt, mais un silence lourd, inhabituel.
 
-Sur une branche voisine, Olivia la Chouette le regardait, ses grands yeux dorés ronds de surprise. La forêt était silencieuse, anormalement silencieuse.
+Intrigué, Écureuil Gris scruta les environs.  Sur une branche un peu plus loin, il aperçut Olivia la Chouette. Ses grands yeux dorés étaient grands ouverts, ronds de surprise.
+
+« Olivia, » chuchota Écureuil Gris, descendant précipitamment de son arbre. Sa queue frémissait, non pas de joie comme d'habitude, mais d'un sentiment d'inquiétude. « Tu as remarqué, toi aussi ? »
+
+La forêt était silencieuse, anormalement silencieuse.
 
 🎵 *Plus de rires dans les arbres, (a)
 Plus de chants dans le vent, (b)
