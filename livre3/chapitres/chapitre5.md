@@ -11,14 +11,14 @@ Branche après branche, (b)
 L'eau trouvera son chemin, (c)
 Pour revenir demain !"* (b)
 
-Chacun avait un rôle important. Martin le martin-pêcheur survolait le chantier : "Un peu plus à gauche ! Non, à droite ! Parfait !"
+Chacun avait un rôle important. Martin survolait le chantier : "Un peu plus à gauche ! Non, à droite ! Parfait !"
 
 *(Vole comme Martin en regardant le chantier)*
 
 Les petits castors montraient leurs techniques à Écureuil :
 "Il faut croiser les branches comme ça," expliquait l'un d'eux.
 "Et puis tasser la boue ici," ajoutait un autre.
-"C'est comme un puzzle géant !" s'émerveillait Écureuil.
+"C'est comme un puzzle géant !" disait Écureuil.
 
 Berthe la castor apprit à Henri comment utiliser ses grosses pattes pour tasser la terre : "Doucement... régulièrement... comme ça, l'eau ne passera pas en dessous."
 
@@ -47,7 +47,7 @@ Henri, qui avait appris à ne plus avoir peur des défis, proposa : "Et si on re
 
 *(Place des pierres imaginaires le long du toboggan)*
 
-Tout le monde se mit à chercher des pierres plates. Même les poissons coincés dans les trous d'eau aidaient en poussant les petits cailloux avec leur museau.
+Tout le monde se mit à chercher des pierres plates. Même les poissons coincés dans les trous d'eau aidaient en poussant les petits cailloux avec leur bouche.
 
 Berthe examina le travail : "Maintenant, il faut créer une petite cascade au bout, pour que l'eau descende en douceur vers l'étang."
 

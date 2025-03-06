@@ -1,6 +1,6 @@
 # Chapitre 1 : L'Étang Vide
 
-Le soleil brillait gaiement sur la forêt. Les oiseaux chantaient à tue-tête, et une petite brise faisait danser les feuilles des arbres. Henri l'hippopotame, avec son gros ventre rond et ses petites oreilles qui remuaient à chaque pas, trottinait joyeusement vers l'étang.
+Le soleil brillait gaiement sur la forêt. Les oiseaux chantaient à tue-tête. Une petite brise faisait danser les feuilles des arbres. Henri l'hippopotame, avec son gros ventre rond et ses petites oreilles qui remuaient à chaque pas, trottinait joyeusement vers l'étang.
 
 *(Fais bouger tes oreilles comme Henri !)*
 
@@ -15,7 +15,7 @@ Aujourd'hui, c'était jour de grand plongeon ! Henri adorait l'étang. Se glisse
 
 *(Fais semblant de plonger et de faire des bulles)*
 
-« Youhou ! L'étang, me voilà ! » cria Henri en arrivant au bord. « J'ai même apporté mon nouveau jouet flottant ! »
+« Youhou ! L'étang, me voilà ! » cria Henri en arrivant au bord. «  J'ai même apporté mon nouveau jouet flottant ! »
 
 Mais... Stupeur ! Horreur ! L'étang... n'était plus là !
 
@@ -42,7 +42,7 @@ Bientôt, d'autres petits pas légers et vifs se firent entendre.
 
 C'était Écureuil, suivi de Coccinelle et Chouette, arrivant en courant. Écureuil, toujours le plus rapide, fut le premier à voir Henri et sa mine déconfite.
 
-« Qu'est-ce qui se passe, Henri ? s'exclama Écureuil. Tu as une mine de six pieds de long ! »
+« Qu'est-ce qui se passe, Henri ? s'exclama Écureuil. Tu as l'air tout triste ! »
 
 Coccinelle et Chouette arrivèrent à leur tour, observant avec stupeur l'étang asséché.
 

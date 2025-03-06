@@ -2,7 +2,7 @@
 
 « La rivière bloquée ? » répéta Henri, visiblement inquiet. « Tu crois ? »
 
-Martin le martin-pêcheur voleta près d'eux. "J'ai vu des traces bizarres près de la cascade... Comme si quelqu'un avait construit quelque chose. Et il y avait des morceaux de bois tout neufs !"
+Martin vola près d'eux. "J'ai vu des traces bizarres près de la cascade... Comme si quelqu'un avait construit quelque chose. Et il y avait des morceaux de bois tout neufs !"
 
 "Des morceaux de bois ?" s'étonna Écureuil. "Ça me fait penser aux castors ! Ils adorent construire avec du bois."
 
@@ -46,13 +46,13 @@ Quand l'amitié nous escorte !"* (b)
 
 *(Tape dans tes mains pour encourager Henri)*
 
-Et sans plus attendre, les amis se mirent en chemin. Henri, rassuré par la présence de ses compagnons, fit son premier pas courageux. Ils quittèrent le bord de l'étang désert et suivirent le sentier qui montait doucement le long du lit asséché de la rivière.
+Et sans plus attendre, les amis partirent en chemin. Henri, rassuré par la présence de ses compagnons, fit son premier pas courageux. Ils quittèrent le bord de l'étang désert et suivirent le sentier qui montait doucement le long du lit asséché de la rivière.
 
 Martin volait en avant, ses plumes bleues brillant au soleil. Soudain, il s'arrêta : "Regardez ! Des empreintes bizarres dans la boue !"
 
 *(Dessine des empreintes mystérieuses avec ton doigt)*
 
-Les empreintes ressemblaient à de petites pattes avec des traces de queue qui traînait... Serait-ce un indice important ?
+Les empreintes ressemblaient à de petites pattes avec des traces de queue traînante. Était-ce un indice important ?
 
 Une grande aventure commençait : il fallait suivre ces traces mystérieuses, remonter la rivière, et découvrir ce qui bloquait l'eau de l'étang !
 

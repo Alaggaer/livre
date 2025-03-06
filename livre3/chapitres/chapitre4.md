@@ -58,7 +58,7 @@ Trouve son petit coin sympa !"* (b)
 
 Bernard hocha la tête : "C'est une excellente idée ! Nous pourrions travailler tous ensemble..."
 
-"Je peux aider à transporter les petites branches !" s'écria Écureuil.
+"Je peux aider à transporter les petites branches !" s'écria Écureuil. 
 
 "Et moi, je peux repérer les meilleurs endroits depuis le ciel !" ajouta Martin.
 

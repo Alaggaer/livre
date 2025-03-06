@@ -4,7 +4,7 @@ Les quatre amis quittèrent l'étang à sec, suivant les mystérieuses empreinte
 
 *(Ferme les yeux et respire profondément... Sens-tu l'odeur de la forêt ?)*
 
-Martin le martin-pêcheur volait en éclaireur, ses ailes bleues scintillant entre les branches. "Les traces continuent par ici !" appelait-il. "Et regardez, il y a des copeaux de bois tout frais !"
+Martin volait en éclaireur, ses ailes bleues scintillant dans les branches. "Les traces continuent par ici !" appelait-il. "Et regardez, il y a des copeaux de bois tout frais !"
 
 Les grenouilles, qui avaient décidé de les accompagner en sautillant, chantèrent :
 
@@ -25,7 +25,7 @@ Les arbres se faisaient plus grands et plus sombres, leurs troncs massifs se dre
 
 Une libellule passa en vrombissant : "J'ai vu quelque chose briller près de la grande cascade ! On dirait du bois tout neuf !"
 
-Le chemin montait doucement, mais la pente devenait de plus en plus raide. Henri soufflait, ses petites pattes glissant parfois sur les cailloux humides.
+Le chemin montait doucement, mais la pente devenait de plus en plus raide. Henri haletait, ses petites pattes glissant parfois sur les cailloux humides.
 
 "Attendez-moi !" haleta Henri, essoufflé. "Je ne suis pas aussi rapide que vous !"
 
@@ -44,7 +44,7 @@ Coccinelle voleta jusqu'à une grande feuille de fougère. "Regardez ! Il y a de
 
 *(Fais semblant de boire une goutte de rosée)*
 
-"Merci, mes amis," sourit Henri, reprenant courage. La forêt elle-même semblait les encourager : les branches s'écartaient pour leur faire un passage, et de petites fleurs sauvages bordaient le chemin comme pour les guider.
+"Merci, mes amis," sourit Henri, reprenant courage. La forêt elle-même semblait les encourager : les branches s'écartaient pour leur faire un passage, et de petites fleurs sauvages bordaient le chemin, les invitant à continuer.
 
 Soudain, Martin poussa un cri : "Écoutez ! Vous entendez ?"
 

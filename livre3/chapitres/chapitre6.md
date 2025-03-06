@@ -34,7 +34,7 @@ Quelle belle promenade !"* (b)
 
 Henri, impatient, courut vers l'étang. "Venez voir !" cria-t-il. "L'eau revient !"
 
-Tout le monde se précipita pour voir. Petit à petit, l'étang se remplissait. Les nénuphars se redressaient, les roseaux se réveillaient, et même les libellules commençaient à danser au-dessus de l'eau claire.
+Tout le monde se précipita pour voir. Petit à petit, l'étang se remplissait. Les nénuphars se redressaient, les roseaux se réveillaient, et les libellules dansaient déjà au-dessus de l'eau claire.
 
 *(Fais tourner tes doigts comme des libellules qui dansent)*
 
@@ -53,7 +53,7 @@ L'eau éclaboussa joyeusement tout le monde, déclenchant des rires et des cris 
 
 🎵 *"Dans notre forêt enchantée, (a)
 L'amitié a tout arrangé, (a)
-L'eau coule et tout le monde est content, (b)
+L'eau coule, et chacun est content, (b)
 Dans notre merveilleux étang ! (b)
 Plus besoin d'avoir peur, (c)
 Quand on unit nos cœurs, (c)

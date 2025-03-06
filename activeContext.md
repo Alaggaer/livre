@@ -2,24 +2,30 @@
 
 **Current Work Focus:**
 
-Splitting chapters 3, 4, and 5 into two parts each to create shorter chapters as per user feedback.
+Finalisation de la relecture et correction des 10 chapitres du Livre 3.
 
 **Recent Changes:**
 
-*   Revised chapter 3 in `livre3/chapitres/chapitre3.md` for conciseness and flow. (Relecture complete)
-*   Revised chapter 4 in `livre3/chapitres/chapitre4.md` for conciseness and flow. (Relecture complete)
-*   Revised chapter 5 in `livre3/chapitres/chapitre5.md` for stylistic improvements and flow. (Relecture complete)
-*   Split chapter 3 into `livre3/chapitres/chapitre3A.md` and `livre3/chapitres/chapitre3B.md`.
-*   Split chapter 4 into `livre3/chapitres/chapitre4A.md` and `livre3/chapitres/chapitre4B.md`.
-*   Split chapter 5 into `livre3/chapitres/chapitre5A.md` and `livre3/chapitres/chapitre5B.md`.
+* Relecture complète et correction des chapitres 1-10 terminée, incluant :
+  - Corrections orthographiques et grammaticales
+  - Améliorations stylistiques et de lisibilité
+  - Harmonisation de la typographie (espaces insécables, ponctuation)
+  - Correction des problèmes de formatage (mots collés, etc.)
+* Structure finale des chapitres confirmée :
+  - Chapitre 1
+  - Chapitre 2
+  - Chapitre 3A et 3B
+  - Chapitre 4A et 4B
+  - Chapitre 5A et 5B
 
 **Next Steps:**
 
-1.  Update `progress.md` to reflect the new chapter structure.
-2.  Plan illustration briefs for the new chapters (3A, 3B, 4A, 4B, 5A, 5B) based on the chapter content.
-3.  Potentially start drafting illustration briefs for chapter 1 and 2 once drafts for these chapters are written.
+1. Valider la structure finale avec 8 chapitres (5B étant le chapitre final)
+2. Préparer les briefs d'illustration pour chaque chapitre
+3. Planifier la mise en page et la production
 
 **Active decisions and considerations:**
 
-*   Ensure the chapter splitting maintains a logical flow and doesn't disrupt the narrative.
-*   The book now has 10 chapters (1, 2, 3A, 3B, 4A, 4B, 5A, 5B, 6, 7 - assuming chapters 6 and 7 remain as is or are written later). Need to confirm with user if 10 chapters is the desired final structure, or if chapter 5B is indeed intended to be the final chapter, making it 9 chapters total.
+* La structure en 8 chapitres (1, 2, 3A, 3B, 4A, 4B, 5A, 5B) semble cohérente et équilibrée
+* Les chapitres divisés (3, 4, 5) maintiennent un bon rythme narratif
+* La relecture a confirmé la cohérence narrative à travers tous les chapitres
