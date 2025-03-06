@@ -10,39 +10,51 @@ La lune éclairait la piste. Soudain, au détour d'un grand chêne, une silhouet
 
 *(Dessine dans l'air les grandes cornes du cerf)*
 
-George le cerf les observait, une expression de calme sagesse sur son visage noble.
+Sur ses bois, des petites lueurs scintillaient comme des étoiles. "Ce sont des lucioles messagères," expliqua George en voyant leur curiosité. "Elles m'apportent les nouvelles de la forêt. Aujourd'hui, elles m'ont parlé d'autres sons disparus : le chant des grillons près de l'étang, la berceuse du vent dans les saules..."
+
+*(Imite le chant des grillons : "Cri-cri" et le souffle du vent : "Chuuuu")*
 
 "Bienvenue, jeunes voyageurs," dit George d'une voix douce et mélodieuse. "Je suis George, gardien de ces bois. Vous suivez la piste des rires perdus ?"
 
-*(Imite la voix grave et douce du cerf)*
+Olivia s'avança, remarquant que les empreintes dorées qu'ils suivaient se divisaient en deux chemins. "Monsieur George, les rires ont disparu, et Henri ne rit plus ! Mais... quel chemin devrions-nous prendre ?"
 
-Olivia s'avança. "Monsieur George, les rires ont disparu, et Henri ne rit plus ! Aidez-nous !"
+*(Regarde les deux chemins : l'un brille fort, l'autre doucement)*
 
-George hocha la tête. "Suivez-moi vers la Source Lumineuse. Mais dites-moi, pourquoi retrouver ces rires est important ?"
+George sourit mystérieusement. "Le chemin le plus brillant n'est pas toujours le bon. Dites-moi d'abord, pourquoi les rires sont-ils si importants pour vous ?"
 
 Écureuil Gris frétilla. "Parce que les rires, c'est la joie ! Sans rires, c'est triste."
 
-Olivia ajouta : "Les rires des oiseaux, c'est comme le soleil. Ça réveille et rend heureux."
+Olivia ajouta : "Les rires, c'est comme la rosée du matin sur les feuilles. Chaque goutte reflète un petit bonheur."
+
+*(Observe une goutte de rosée imaginaire)*
 
 Henri soupira. "Mon rire, c'est ma façon d'être ami. Sans rire, je suis seul."
 
-George sourit. "Je comprends. Les rires sont précieux. Cherchez la Source Lumineuse. Elle nourrit les rires."
+George inclina ses bois majestueux. "Les rires sont comme les racines de l'amitié. Ils nourrissent les liens entre nous, comme les racines nourrissent les arbres. Savez-vous qu'un vieux chêne partage sa force avec les jeunes arbres par ses racines ?"
 
-*(Chuchote "Source Lumineuse")*
+*(Dessine des racines imaginaires qui se rejoignent)*
 
-"Où est-elle ?" demanda Olivia.
+"Alors, où devons-nous aller ?" demanda Henri, regardant les deux chemins.
 
-"Cachée au cœur de la forêt, après la Rivière Chantante. Mais les Murmures Silencieux la gardent. Offrez-leur... le plus beau silence. Imaginez le silence doux de la neige qui tombe, ou le silence profond d'une nuit étoilée... C'est ce genre de silence précieux qu'il faut leur offrir."
+"Le chemin moins brillant mène à la Source Lumineuse, après la Rivière Chantante," répondit George. "Mais prenez garde aux Murmures Silencieux qui la gardent. Pour les apaiser, offrez-leur le plus beau des silences."
+
+"Comment trouve-t-on un beau silence ?" demanda Olivia, perplexe.
+
+"Pensez au silence de la neige qui tombe, au calme d'une fleur qui s'ouvre au matin... Ces silences-là sont pleins de magie."
 
 *(Ferme les yeux et écoute le silence)*
 
-Écureuil Gris, Olivia et Henri échangèrent des regards. Le plus beau silence... Étrange défi ! Le silence n'était pas juste l'absence de bruit, mais un trésor caché.
+Soudain, un bruissement attira leur attention. Une chouette effraie traversa le ciel, laissant tomber une plume argentée. Était-ce un signe ?
 
-"Comment trouver... le plus beau silence ?" demanda Henri.
+*(Regarde la plume qui tombe doucement)*
 
-George sourit. "Écoutez votre cœur, et suivez la piste."
+"Cette plume..." murmura George. "Elle appartient peut-être à la Gardienne des Sons Perdus. Certains disent qu'elle collectionne les sons oubliés dans des bulles de lumière..."
 
-Ils suivirent la piste et arrivèrent à la Rivière Chantante. L'eau dansait sous la lune,chantant une douce mélodie. De petites cascades ajoutaient leurs notes argentées.
+Henri voulut attraper la plume, mais elle s'évanouit en une poussière scintillante.
+
+George sourit mystérieusement. "Écoutez votre cœur, et suivez le chemin moins brillant. Parfois, les plus grands trésors se cachent dans la plus douce lumière."
+
+Ils choisirent le chemin plus doux et arrivèrent à la Rivière Chantante. L'eau dansait sous la lune, chantant une douce mélodie. De petites cascades ajoutaient leurs notes argentées.
 
 *(Écoute l'eau... Fais semblant de flotter)*
 

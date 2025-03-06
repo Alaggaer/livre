@@ -1,35 +1,67 @@
-# Chapitre 3B : La Rivière Bloquée - Partie 2
+# Chapitre 6 : La Grande Fête de l'Eau
 
-... « Attendez une minute ! J'ai peut-être une idée ! » s'exclama Lapin. « Et si on demandait de l'aide aux autres animaux de la forêt ? »
+Le grand jour était arrivé ! Tous les animaux de la forêt s'étaient rassemblés autour du barrage des castors. Les grenouilles avaient répété toute la nuit leur nouvelle chanson :
 
-Olivia et Martin réalisèrent que c'était une idée simple, mais géniale.
+🎵 *"C'est la fête de l'eau, (a)
+Un grand jour nouveau, (a)
+L'amitié nous rassemble, (b)
+Pour réussir ensemble !"* (b)
 
-« C'est une excellente idée ! » dit Olivia. « Plus nous serons nombreux, plus vite nous dégagerons la rivière ! »
+*(Tape des mains en rythme avec la chanson)*
 
-« Oui ! » ajouta Martin, visiblement enthousiaste. « Allons chercher nos amis ! »
+Le toboggan d'eau était magnifique. Les libellules l'avaient décoré avec des fleurs et des feuilles brillantes. Les petits castors avaient même sculpté des motifs dans le bois.
 
-Lapin acquiesça vivement. « Je vais chercher Coco et Henri. Ils nous aideront sûrement ! »
+"Attention tout le monde !" annonça Bernard le castor. "C'est le moment d'ouvrir le passage !"
 
-Sans perdre de temps, chacun partit dans une direction différente : Lapin alla chercher ses amis les plus proches, Olivia survola la forêt, et Martin invita tous les animaux qu'il croisait.
+*(Fais un roulement de tambour avec tes mains)*
 
-Bientôt, une petite troupe d'animaux se rassembla au bord de la rivière bloquée. Il y avait Coco avec ses points noirs brillants, Henri avec ses piquants dressés, Rosalie avec ses moustaches fines, et même Barnabé, le gros ours, qui était généralement plutôt paresseux mais qui aimait bien rendre service de temps en temps.
+Berthe et les petits castors se mirent en position. Avec une précision d'experts, ils retirèrent délicatement quelques branches. L'eau commença à couler dans le toboggan !
 
-« Alors, qu'est-ce qu'on doit faire ? » demanda Coco, prête à l'action.
+"Plouf ! Plif ! Plaf !"
 
-Olivia expliqua la situation et proposa un plan. « Nous allons travailler ensemble pour dégager la rivière. Les plus petits enlèveront les feuilles et la boue, et les plus grands comme Barnabé et moi nous occuperons des branches. »
+*(Imite le bruit de l'eau qui coule : "Plouf ! Plif ! Plaf !")*
 
-Barnabé hocha lentement la tête. « Ça me semble être une bonne idée. Plus vite on commence, plus vite on aura de l'eau fraîche. »
+L'eau dansait sur les pierres plates, rebondissait sur les mini-barrages, et descendait en cascade jusqu'en bas. C'était comme une petite rivière magique !
 
-Et ainsi, tous les animaux se mirent au travail, chacun faisant de son mieux pour aider. Les plus petits s'affairaient à pousser les feuilles et la boue avec leurs pattes et leurs museaux, tandis qu'Olivia et Barnabé tiraient et poussaient les grosses branches avec force.
+Martin le martin-pêcheur volait au-dessus du toboggan, ses plumes bleues scintillant au soleil : "C'est parfait ! L'eau coule exactement comme il faut !"
 
-Ensemble, ils formaient une équipe drôle et efficace. Coco donnait des encouragements en volant autour des têtes, Henri utilisait ses piquants pour déloger les petites branches coincées, Rosalie transportait de petits cailloux pour stabiliser le barrage pendant qu'ils le dégageaient, et Barnabé apportait sa force brute pour déplacer les troncs les plus lourds.
+Les poissons qui étaient restés coincés dans les trous d'eau suivirent joyeusement le courant. Les grenouilles sautaient de pierre en pierre en chantant :
 
-Petit à petit, le barrage commença à diminuer. L'eau stagnante se mit à murmurer doucement, puis à bouillonner un peu plus fort. Et enfin, avec un grand fracas de branches qui craquent et de feuilles qui s'envolent, le barrage céda complètement.
+🎵 *"L'eau danse et rigole, (a)
+Sur le toboggan elle vole, (a)
+De cascade en cascade, (b)
+Quelle belle promenade !"* (b)
 
-L'eau de la rivière se remit à couler librement, chantant joyeusement sur les pierres comme avant. Un murmure de soulagement et de joie parcourut la petite troupe d'animaux.
+Henri, impatient, courut vers l'étang. "Venez voir !" cria-t-il. "L'eau revient !"
 
-« On a réussi ! » s'écria Martin, ravi, en faisant une petite danse de joie.
+Tout le monde se précipita pour voir. Petit à petit, l'étang se remplissait. Les nénuphars se redressaient, les roseaux se réveillaient, et même les libellules commençaient à danser au-dessus de l'eau claire.
 
-Olivia sourit largement. « Oui, on a réussi ! Et tout ça, grâce à l'aide de tous nos amis ! »
+*(Fais tourner tes doigts comme des libellules qui dansent)*
 
-Les animaux se réjouirent ensemble, fiers d'avoir travaillé en équipe pour résoudre le problème de la rivière bloquée. Ils avaient appris une chose importante aujourd'hui : même quand un problème semble trop grand pour être résolu tout seul, en travaillant ensemble, on peut accomplir de grandes choses.
+"C'est magnifique !" dit Chouette. "Maintenant, les castors ont leur maison, et nous avons notre étang !"
+
+La famille castor se sentait fière et heureuse. "Nous n'aurions jamais pensé qu'on pouvait trouver une solution qui convienne à tout le monde," dit Bernard.
+
+"C'est ça, l'entraide !" ajouta Écureuil en sautillant de joie.
+
+Pour célébrer, Henri fit son plus beau plongeon dans l'étang :
+"SPLAAASH !"
+
+*(Fais semblant de plonger comme Henri)*
+
+L'eau éclaboussa joyeusement tout le monde, déclenchant des rires et des cris amusés. Les grenouilles entonnèrent leur chanson finale :
+
+🎵 *"Dans notre forêt enchantée, (a)
+L'amitié a tout arrangé, (a)
+L'eau coule et tout le monde est content, (b)
+Dans notre merveilleux étang ! (b)
+Plus besoin d'avoir peur, (c)
+Quand on unit nos cœurs, (c)
+La nature nous montre le chemin, (d)
+Pour vivre tous ensemble, main dans la main !"* (d)
+
+*(Danse et chante avec les animaux de la forêt)*
+
+Et c'est ainsi que se termina l'aventure de la rivière bloquée. Les castors avaient une belle maison derrière leur barrage, l'étang était à nouveau rempli d'eau claire, et tous les animaux avaient appris une leçon importante : ensemble, on peut toujours trouver une solution !
+
+[Fin de l'histoire]

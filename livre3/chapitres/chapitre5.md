@@ -1,37 +1,69 @@
-# Chapitre 3A : La Rivière Bloquée - Partie 1
+# Chapitre 5 : Tous Ensemble !
 
-Les quatre amis arrivèrent au virage de la rivière et découvrirent avec stupeur le barrage qui bloquait le cours de l'eau.
+Le soleil commençait à monter dans le ciel quand les amis se mirent au travail. Bernard le castor avait dessiné un plan dans la terre avec son museau : un toboggan d'eau qui contournerait le barrage.
 
-« Oh non ! » s'exclama Martin, visiblement inquiet. « Regardez ! La rivière est bloquée ! »
+*(Dessine un toboggan avec ton doigt)*
 
-Olivia vola rapidement et se posa à côté de son ami. Elle regarda attentivement le barrage de branches et de boue. D'habitude, l'eau chantait en coulant joyeusement sur les pierres. Mais aujourd'hui, la rivière était silencieuse et immobile, comme endormie.
+Les grenouilles entonnèrent leur chanson du travail :
 
-« C'est étrange », dit Olivia. « On dirait que l'eau ne coule plus. »
+🎵 *"Pierre après pierre, (a)
+Branche après branche, (b)
+L'eau trouvera son chemin, (c)
+Pour revenir demain !"* (b)
 
-Ils s'approchèrent encore plus et examinèrent le barrage de plus près. Un grand tas de branches, de feuilles mortes et de boue bloquait complètement le lit de la rivière. L'eau était retenue derrière ce barrage improvisé, formant une petite mare boueuse et stagnante.
+Chacun avait un rôle important. Martin le martin-pêcheur survolait le chantier : "Un peu plus à gauche ! Non, à droite ! Parfait !"
 
-« Oh là là ! » s'exclama Martin. « Regarde toutes ces feuilles et ces branches ! C'est ça qui empêche l'eau de couler ! »
+*(Vole comme Martin en regardant le chantier)*
 
-Olivia hocha la tête. « Il faut dégager tout ça ! Si la rivière reste bloquée, les animaux n'auront plus d'eau fraîche à boire. »
+Les petits castors montraient leurs techniques à Écureuil :
+"Il faut croiser les branches comme ça," expliquait l'un d'eux.
+"Et puis tasser la boue ici," ajoutait un autre.
+"C'est comme un puzzle géant !" s'émerveillait Écureuil.
 
-Martin acquiesça vivement. « Il faut faire quelque chose, et vite ! »
+Berthe la castor apprit à Henri comment utiliser ses grosses pattes pour tasser la terre : "Doucement... régulièrement... comme ça, l'eau ne passera pas en dessous."
 
-Sans attendre, les deux amis se mirent au travail. Martin essaya de tirer sur une grosse branche avec ses petites pattes, mais elle était trop lourde. Olivia tenta de pousser les feuilles et la boue avec son aile, mais c'était comme essayer de vider l'océan avec une cuillère.
+*(Tape doucement des pieds pour tasser la terre)*
 
-Après quelques minutes d'efforts inutiles, ils s'arrêtèrent, essoufflés et un peu découragés.
+Chouette apportait sa sagesse : "Les arbres nous donnent leurs branches mortes. Rien ne se perd dans la nature, tout se transforme !"
 
-« C'est plus difficile que ce qu'on pensait », dit Martin en essuyant une goutte de sueur sur son front.
+Les libellules transportaient les petites brindilles, formant une chaîne aérienne scintillante. Coccinelle marquait l'emplacement des travaux avec des petits cailloux brillants.
 
-« Tu as raison », répondit Olivia. « Tout ça est bien trop lourd pour nous deux. On n'y arrivera jamais seuls. »
+Soudain, un "CRAC !" fit sursauter tout le monde.
 
-À ce moment précis, Lapin arriva en sautillant, ses longues oreilles dressées. Elle s'approcha du bord de la rivière et poussa un petit cri de surprise.
+*(Fais le bruit qui fait peur : "CRAC !")*
 
-« Oh ! Mais qu'est-ce qui s'est passé ici ? » demanda-t-elle en regardant le barrage de branches et de feuilles. « La rivière est bloquée ! »
+"Oh non !" s'écria un petit castor. "Le toboggan s'est un peu effondré !"
 
-Olivia et Martin lui expliquèrent ce qu'ils avaient découvert et comment ils essayaient de dégager la rivière.
+Mais au lieu de se décourager, tous redoublèrent d'efforts. Les grenouilles chantèrent plus fort :
 
-Lapin écouta attentivement, puis elle dit : « Je comprends. C'est un gros problème pour nous tous. Sans la rivière, on n'a plus d'eau pour boire. »
+🎵 *"Si ça tombe, on reconstruit, (a)
+Tous ensemble, jour et nuit, (a)
+L'entraide est notre force, (b)
+Comme l'eau qui suit sa course !"* (b)
 
-« Exactement ! » confirma Martin. « Et on n'arrive pas à dégager la rivière tout seuls. »
+Henri, qui avait appris à ne plus avoir peur des défis, proposa : "Et si on renforçait les côtés avec ces grosses pierres plates ?"
 
-Lapin réfléchit un instant, puis ses yeux s'illuminèrent. « Attendez une minute ! J'ai peut-être une idée ! »
+"Excellente idée !" approuva Bernard. "Les pierres guideront l'eau comme un petit canal."
+
+*(Place des pierres imaginaires le long du toboggan)*
+
+Tout le monde se mit à chercher des pierres plates. Même les poissons coincés dans les trous d'eau aidaient en poussant les petits cailloux avec leur museau.
+
+Berthe examina le travail : "Maintenant, il faut créer une petite cascade au bout, pour que l'eau descende en douceur vers l'étang."
+
+Les castors construisirent des mini-barrages en escalier, créant une série de petites chutes d'eau. "Comme ça," expliqua papa castor, "l'eau descendra tranquillement, sans abîmer le chemin."
+
+*(Fais le bruit de l'eau qui cascade : "Plic, ploc, plouf !")*
+
+À la fin de la journée, leur création était presque terminée : un magnifique toboggan d'eau, fait de branches, de pierres et de terre, contournait le barrage. Il ne restait plus qu'à ouvrir le passage...
+
+"Attendez !" dit Chouette. "Et si on organisait une grande fête pour l'ouverture ? Tous les animaux de la forêt pourraient venir !"
+
+Les grenouilles sautillèrent de joie :
+
+🎵 *"Une fête pour l'eau, (a)
+Qui revient à nouveau, (a)
+Chantons, dansons tous en chœur, (b)
+L'amitié dans nos cœurs !"* (b)
+
+[À suivre au Chapitre 6...]

@@ -6,44 +6,62 @@ La carte magique brillait, montrant le chemin du Jardin des Lucioles. George dé
 
 *(Fais briller tes doigts comme des lucioles)*
 
-Ils Longèrent un chemin bordé de fleurs phosphorescentes. Des fleurs joyaux de toutes les couleurs illuminaient le chemin.  À chaque pas, les pétales s'illuminaient.
+George expliqua doucement : "Les lucioles sont des insectes magiques. Savez-vous qu'elles créent leur propre lumière ? C'est ce qu'on appelle la bioluminescence."
+
+*(Essaie de dire 'bio-lu-mi-nes-cence' en tapant dans tes mains)*
+
+Ils longèrent un chemin bordé de fleurs phosphorescentes. Des fleurs joyaux de toutes les couleurs illuminaient le chemin. À chaque pas, les pétales s'illuminaient. Henri remarqua que certaines fleurs ne s'ouvraient que la nuit, comme la belle-de-nuit aux pétales violets.
 
 🎵 *Des fleurs qui brillent dans la nuit, (a)
 Comme des étoiles fleuries, (b)
 Éclairant notre chemin, (c)
-Vers les rires de demain !* (b)
+Vers les rires de demain ! (b)
+La nature a ses secrets, (d)
+Que la nuit vient révéler !* (b)
 
-Soudain, des lumières vertes, rouges, jaunes dansèrent devant Henri. Des lucioles apparurent, répondant aux fleurs scintillantes.
+Soudain, des lumières vertes, rouges, jaunes dansèrent devant Henri. Des lucioles apparurent, répondant aux fleurs scintillantes. Leurs lumières clignotaient selon un rythme précis, comme un code secret.
 
 *(Cligne des yeux comme les lucioles)*
 
-"Bienvenue," chantonna une voix douce. Une luciole aux ailes d'or se posa sur une fleur bleue. "Je suis Luna, gardienne des lumières. Que cherchez-vous ?"
+"Bienvenue," chantonna une voix douce. Une luciole aux ailes d'or se posa sur une fleur bleue. Son corps brillait d'une lueur particulière, plus intense que les autres. "Je suis Luna, gardienne des lumières et collectionneuse de mélodies nocturnes. Que cherchez-vous dans mon jardin ?"
 
 "La Source Lumineuse," expliqua Olivia. "Pour les rires perdus."
-"Nous avons déjà résolu le mystère des glands disparus, tu sais !" ajouta fièrement Écureuil Gris.
 
-Luna voleta. "Les rires perdus... La forêt est silencieuse. Nos danses sont moins joyeuses. Je peux aider, peut-être. Mais d'abord, ravivez la joie du jardin. Nos fleurs perdent leur éclat dans la tristesse. Faites-les briller pour éclairer le chemin."
+"Nous avons déjà résolu le mystère des glands disparus," ajouta fièrement Écureuil Gris. "Et nous avons appris le langage du silence avec les Murmures !"
 
-*(Souffle sur une fleur imaginaire pour la faire briller)*
+Luna voleta pensivement. "Les rires perdus... Oui, la forêt est bien silencieuse. Même nos danses lumineuses manquent de joie. Savez-vous que nous, les lucioles, utilisons notre lumière pour communiquer ? Chaque clignotement est un message d'amour ou d'amitié."
 
-"Comment faire briller une fleur ?" demanda Henri.
+*(Fais clignoter tes mains : lentement pour "je t'aime", vite pour "je suis content")*
 
-Luna virevolta. "Chaque fleur a sa mélodie. Chantez-la avec votre cœur, avec ce que tu ressens vraiment, avec tes émotions,  avec sincérité ! Écoutez."
+"Je peux vous aider à retrouver les rires, mais d'abord..." Luna fit une pirouette gracieuse dans l'air. "Nos fleurs perdent leur éclat dans la tristesse. Chaque fleur est comme une note de musique dans la symphonie de la nuit. Sans les rires, leur mélodie s'affaiblit. Aidez-moi à raviver leur lumière."
 
-🎵 *Douce mélodie de l'iris bleu : (a)
+"Comment faire briller une fleur ?" demanda Henri, touchant délicatement un pétale éteint.
+
+Luna se posa sur son épaule. "Chaque fleur a sa propre chanson, comme chaque étoile a sa propre lumière. Il faut chanter avec ton cœur, avec tes émotions les plus sincères. Écoute..."
+
+🎵 *La berceuse du Jardin Nocturne :
+Douce mélodie de l'iris bleu : (a)
 "Dou dou dou, dou dou dou..." (b)
 Chant de la rose vermeille : (c)
 "La di da, la di dum !" (d)
 Rire de la jonquille d'or : (e)
-"Ti li li, ti li lo !"* (d)
+"Ti li li, ti li lo !" (d)
+Et le cœur des lucioles : (f)
+"Blink blink blink..."* (g)
 
-Luna chanta pour chaque fleur. Iris bleu étoile, rose rubis, jonquille soleil.
+Luna dansa entre les fleurs, chacune s'illuminant à son passage. Iris bleu étoile, rose rubis, jonquille soleil. Les lucioles accompagnaient sa danse, créant des motifs lumineux dans l'air.
 
-"À vous !" encouragea Luna. "Écoutez les fleurs, chantez avec votre cœur !"
+*(Danse comme Luna entre les fleurs)*
 
-"Avec son cœur ?" répéta Écureuil Gris.
+Luna expliqua : "Les fleurs nocturnes ont développé des couleurs claires et des parfums plus forts pour attirer les papillons de nuit. C'est leur façon de s'adapter à la vie nocturne."
 
-"Oui !" dit Luna. "Cette violette, écoutez... sa chanson."
+*(Respire le parfum imaginaire d'une fleur de nuit)*
+
+"À vous !" encouragea Luna, ses ailes scintillant doucement. "Écoutez les fleurs, chantez avec votre cœur ! Chaque mélodie est unique, comme chaque rire est spécial."
+
+"Avec son cœur ?" répéta Écureuil Gris, perplexe.
+
+"Oui !" dit Luna. "Comme les lucioles qui brillent plus fort quand elles sont heureuses. Cette violette, écoutez... sa chanson parle de rêves et d'étoiles."
 
 Ils écoutèrent la violette. Un léger fredonnement : "La la li, la la li..."
 
@@ -51,7 +69,7 @@ Ils écoutèrent la violette. Un léger fredonnement : "La la li, la la li..."
 
 Olivia fredonna la mélodie. La violette scintilla, lueur mauve.
 
-"Bravo !" dit George, encourageant.  «  Peut-être faut-il imiter leur couleur ? »  suggéra-t-il doucement. «  Les fleurs bleues ont une mélodie plus douce,  les rouges plus vive…  Essayons d'écouter leurs couleurs en musique. »
+"Bravo !" dit George, encourageant. "Peut-être faut-il imiter leur couleur ?" suggéra-t-il doucement. "Les fleurs bleues ont une mélodie plus douce, les rouges plus vive... Essayons d'écouter leurs couleurs en musique."
 
 Encouragés, les amis cherchèrent les chansons cachées. Henri fredonna pour les coquelicots argentés : "Mm mm mm..." Écureuil Gris tapa le rythme des marguerites dorées : "Tra la la, tra la la !", et George fit tinter ses bois : "Ting ting ting !"
 
@@ -64,14 +82,14 @@ Pour chasser toutes nos peurs !* (b)
 
 Peu à peu, le jardin s'éveilla en lumières. Fleurs joyaux, lucioles dansantes, royaume scintillant. Luna, ravie, voletait.
 
-"Magnifique ! Vous avez réveillé la joie ! Regardez..." Un chemin illuminé apparut, vers la Source Lumineuse.
+"Magnifique ! Vous avez réveillé la joie !" Luna tournoya au-dessus d'eux, laissant une traînée de lumière dorée. "Maintenant, suivez le chemin des fleurs lumineuses. Il vous mènera aux Échos Rieurs, où les sons du passé dansent encore."
 
-"Prochaine étape," expliqua Luna. "Suivez les fleurs lumineuses. Elles mènent aux... Échos Rieurs !"
+"Les Échos Rieurs ?" demanda Henri, son visage s'illuminant d'espoir.
 
-"Les Échos Rieurs ?" demanda Henri.
+"Oui," sourit Luna, sa lumière pulsant doucement. "C'est un endroit magique où les rires ne meurent jamais vraiment. Ils se transforment en échos lumineux, attendant d'être redécouverts. Henri, ton rire est peut-être là-bas, dansant avec les autres..."
 
-"Oui," sourit Luna. "Les sons du passé dansent là-bas. Peut-être y retrouveras-tu ton rire, Henri..."
+Luna fit un dernier tour au-dessus du groupe, laissant tomber une poussière scintillante qui forma un chemin lumineux. "Suivez cette piste de lumière. Et souvenez-vous : même dans la nuit la plus sombre, il y a toujours une luciole pour éclairer le chemin."
 
-*(Es-tu prêt à suivre les fleurs lumineuses ?)*
+*(Es-tu prêt à suivre le chemin des lucioles vers les Échos Rieurs ?)*
 
 [À suivre au Chapitre 5...]
