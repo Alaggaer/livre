@@ -10,10 +10,10 @@
     * Chapitre 3A et 3B (La Rivière Bloquée - Parties 1 et 2)
     * Chapitre 4A et 4B (Le Bruit Mystérieux - Parties 1 et 2)
     * Chapitre 5A et 5B (Retrouvailles dans les Arbres - Parties 1 et 2)
+*   Cohérence et transitions narratives vérifiées et améliorées.
 
 **What's left to build:**
 
-*   Vérifier la cohérence et les transitions entre les parties de chapitres.
 *   Développer les briefs d'illustrations pour chaque chapitre.
 *   Générer les illustrations avec les outils IA.
 *   Affiner et post-traiter les illustrations.
@@ -24,8 +24,9 @@
 **Current status:**
 
 *   L'initialisation du projet et la configuration de la memory bank sont terminées.
-*   Les chapitres 1 à 5 sont rédigés et divisés en parties A et B pour une meilleure longueur.
-*   La relecture des chapitres 3, 4 et 5 est terminée.
+*   Les chapitres 1 à 10 sont rédigés et cohérents.
+*   La relecture-correction et la vérification de la cohérence narrative sont terminées.
+*   Le livre 3 est prêt pour la relecture éditoriale.
 
 **Known issues:**
 
